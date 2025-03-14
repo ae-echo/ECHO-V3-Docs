@@ -1,0 +1,19 @@
+<map id="AMA_Block" name="AMA_Block">
+<area shape="rect" id="Node000001" title=" " alt="" coords="320,656,399,725"/>
+<area shape="rect" id="Node000002" href="$struct_a_m_a___common.html" title=" " alt="" coords="180,352,280,592"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,590,291,630,309,650,305,654,287,634,264,593"/>
+<area shape="rect" id="Node000003" href="$union_a_m_a___mode_block.html" title=" " alt="" coords="304,437,415,507"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="362,507,362,639,357,639,357,507"/>
+<area shape="rect" id="Node000004" href="$struct_a_m_a___capture.html" title=" " alt="" coords="5,5,113,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,274,126,286,149,303,171,311,223,325,260,334,275,339,293,350,322,383,343,421,339,423,318,386,290,354,273,344,258,339,222,331,169,316,147,308,123,290,111,277"/>
+<area shape="rect" id="Node000005" href="$struct_a_m_a___ringing.html" title=" " alt="" coords="137,5,272,288"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="274,286,339,421,334,424,269,289"/>
+<area shape="rect" id="Node000006" href="$struct_a_m_a___sinewave.html" title=" " alt="" coords="296,5,423,288"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="362,288,362,420,357,420,357,288"/>
+<area shape="rect" id="Node000007" href="$struct_a_m_a___centering.html" title=" " alt="" coords="446,5,576,288"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="455,289,436,329,388,424,383,421,432,327,450,286"/>
+<area shape="rect" id="Node000008" href="$struct_a_m_a___accuracy.html" title=" " alt="" coords="601,5,747,288"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="603,277,590,290,555,315,515,331,490,337,469,339,450,343,429,354,400,386,379,423,375,420,396,383,426,350,448,337,468,334,489,332,513,325,553,310,587,286,599,273"/>
+<area shape="rect" id="Node000009" href="$struct_a_m_a___config.html" title=" " alt="" coords="440,363,524,581"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="442,577,411,633,403,645,399,641,406,631,437,575"/>
+</map>

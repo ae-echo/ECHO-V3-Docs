@@ -1,0 +1,23 @@
+<map id="ADC_HandleTypeDef" name="ADC_HandleTypeDef">
+<area shape="rect" id="Node000001" title="ADC handle Structure definition." alt="" coords="294,955,431,1067"/>
+<area shape="rect" id="Node000002" href="$struct_a_d_c___type_def.html" title="ADC." alt="" coords="54,608,162,891"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,875,175,889,225,934,281,969,278,973,222,938,171,892,160,878"/>
+<area shape="rect" id="Node000003" href="$struct_a_d_c___init_type_def.html" title="Structure definition of ADC instance and ADC group regular." alt="" coords="186,608,356,891"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,890,340,938,335,940,318,891"/>
+<area shape="rect" id="Node000004" href="$struct_a_d_c___oversampling_type_def.html" title="ADC group regular oversampling structure definition." alt="" coords="5,293,181,427"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,425,202,591,197,594,121,428"/>
+<area shape="rect" id="Node000005" href="$struct_____d_m_a___handle_type_def.html" title="DMA handle Structure definition." alt="" coords="380,619,532,880"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="412,881,390,940,385,938,407,879"/>
+<area shape="rect" id="Node000006" href="$struct_d_m_a___channel___type_def.html" title=" " alt="" coords="205,176,357,544"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="359,528,393,602,388,604,354,530"/>
+<area shape="rect" id="Node000007" href="$struct_d_m_a___init_type_def.html" title="DMA Transfer Configuration Structure definition." alt="" coords="381,197,531,523"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="458,523,458,602,453,602,453,523"/>
+<area shape="rect" id="Node000008" href="$struct_d_m_a___init_linked_list_type_def.html" title="DMA Linked&#45;List Configuration Structure Definition." alt="" coords="554,283,728,437"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="607,438,527,605,523,602,602,436"/>
+<area shape="rect" id="Node000009" href="$struct_____d_m_a___q_list_type_def.html" title="DMAEx Linked&#45;List Queue Structure Definition." alt="" coords="752,293,893,427"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="809,427,784,489,765,519,742,546,715,565,691,574,632,587,589,595,569,600,546,612,543,607,568,595,588,590,631,581,689,569,713,560,738,542,761,516,779,487,804,425"/>
+<area shape="rect" id="Node000010" href="$struct_d_m_a___node_type_def.html" title="DMAEx Linked&#45;List Node Structure Definition." alt="" coords="759,5,886,96"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="825,96,825,276,820,276,820,96"/>
+<area shape="rect" id="Node000011" href="$struct_a_d_c___injection_config_type_def.html" title="ADC group injected contexts queue configuration." alt="" coords="555,704,738,795"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="622,796,587,844,546,893,498,933,447,967,444,963,495,929,542,889,583,841,617,793"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AHB APB Branch Clock Disable Clear Disable" name="AHB APB Branch Clock Disable Clear Disable">
+<area shape="rect" id="Node000001" title="Disable or clear Disable the AHBx/APBx branch clock for all AHBx/APBx peripherals." alt="" coords="208,5,370,48"/>
+<area shape="rect" id="Node000002" href="$group___r_c_c___exported___macros.html" title=" " alt="" coords="5,13,160,40"/>
+</map>

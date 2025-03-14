@@ -1,0 +1,5 @@
+<map id="I3C1_ER_IRQHandler" name="I3C1_ER_IRQHandler">
+<area shape="rect" id="Node000001" title="This function handles I3C1 error interrupt." alt="" coords="5,5,157,32"/>
+<area shape="rect" id="Node000002" href="$group___i3_c___exported___functions___group2.html#gabce4a9574ac042e722a83725776f71bb" title=" " alt="" coords="205,5,382,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,16,189,16,189,21,157,21"/>
+</map>

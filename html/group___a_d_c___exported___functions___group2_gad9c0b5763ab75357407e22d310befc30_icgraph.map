@@ -1,0 +1,5 @@
+<map id="HAL_ADC_PollForConversion" name="HAL_ADC_PollForConversion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,5,329,32"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2adc_8c.html#a46defabdd4cd1e93cc8fe504c9e0b463" title="ADC 값 읽기 함수" alt="" coords="5,5,84,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,21,84,21,84,16,116,16"/>
+</map>

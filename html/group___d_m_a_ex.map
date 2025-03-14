@@ -1,0 +1,11 @@
+<map id="DMAEx" name="DMAEx">
+<area shape="rect" id="Node000001" title="DMA Extended HAL module driver." alt="" coords="223,157,290,184"/>
+<area shape="rect" id="Node000004" href="$group___d_m_a_ex___exported___constants.html" title="DMAEx Exported Constants." alt="" coords="338,5,525,32"/>
+<area shape="rect" id="Node000005" href="$group___d_m_a_ex___exported___functions.html" title="DMAEx Exported functions." alt="" coords="340,56,524,83"/>
+<area shape="rect" id="Node000003" href="$group___d_m_a_ex___exported___types.html" title="DMAEx Exported types." alt="" coords="351,107,512,133"/>
+<area shape="rect" id="Node000007" href="$group___d_m_a_ex___private___constants.html" title="DMAEx Private Constants." alt="" coords="344,157,520,184"/>
+<area shape="rect" id="Node000009" href="$group___d_m_a_ex___private___functions.html" title="DMAEx Private Functions." alt="" coords="345,208,518,235"/>
+<area shape="rect" id="Node000008" href="$group___d_m_a_ex___private___macros.html" title="DMAEx Private Macros." alt="" coords="352,259,511,285"/>
+<area shape="rect" id="Node000006" href="$group___d_m_a_ex___private___types.html" title="DMAEx Private Types." alt="" coords="356,309,507,336"/>
+<area shape="rect" id="Node000002" href="$group___s_t_m32_h5xx___h_a_l___driver.html" title=" " alt="" coords="5,157,175,184"/>
+</map>

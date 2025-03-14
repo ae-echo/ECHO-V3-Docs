@@ -1,0 +1,9 @@
+<map id="MX_ADC1_Init" name="MX_ADC1_Init">
+<area shape="rect" id="Node000001" title="ADC1 Initialization Function." alt="" coords="5,56,115,83"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="200,5,302,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,53,184,33,186,39,114,58"/>
+<area shape="rect" id="Node000003" href="$group___a_d_c___exported___functions___group3.html#ga96f4317420984bec9226f7d93cb36f1b" title=" " alt="" coords="163,56,339,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,67,147,67,147,72,115,72"/>
+<area shape="rect" id="Node000004" href="$group___a_d_c___exported___functions___group1.html#ga33ddb73d4880bd425aaa43c5c52bb13a" title=" " alt="" coords="197,107,305,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,81,184,100,182,105,113,86"/>
+</map>

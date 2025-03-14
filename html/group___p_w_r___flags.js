@@ -1,0 +1,25 @@
+var group___p_w_r___flags =
+[
+    [ "PWR_FLAG_ACTVOSRDY", "group___p_w_r___flags.html#ga5bd94afd068358525b27032e7441b9b2", null ],
+    [ "PWR_FLAG_AVDO", "group___p_w_r___flags.html#ga9da0e87c464e04a0d5e9858b522085ba", null ],
+    [ "PWR_FLAG_BRR", "group___p_w_r___flags.html#ga4d4937c0a493bc2ff70e7e66c301c191", null ],
+    [ "PWR_FLAG_PVDO", "group___p_w_r___flags.html#gaefd05d58cc050eeef83a1b5c520b2c2a", null ],
+    [ "PWR_FLAG_SBF", "group___p_w_r___flags.html#ga84870c1484b07bf49c6f4875d7553504", null ],
+    [ "PWR_FLAG_STOPF", "group___p_w_r___flags.html#gacf476a850cbf13941f0a725a496cf3c0", null ],
+    [ "PWR_FLAG_TEMPH", "group___p_w_r___flags.html#ga46fa44c3cf6a7f68ab227f1c7b6a885e", null ],
+    [ "PWR_FLAG_TEMPL", "group___p_w_r___flags.html#gac83500dca3e8992a94810228e6c9641d", null ],
+    [ "PWR_FLAG_USB33RDY", "group___p_w_r___flags.html#gaf4d814910b4d9757775e08fcad47d8bc", null ],
+    [ "PWR_FLAG_VBATH", "group___p_w_r___flags.html#ga8aaca1f74faf4707df2da49d03d2a7a1", null ],
+    [ "PWR_FLAG_VBATL", "group___p_w_r___flags.html#ga3db0f97381e25ceca996ca4ccdfb1db8", null ],
+    [ "PWR_FLAG_VDDIO2RDY", "group___p_w_r___flags.html#ga2a26eef631b3089baa131943c6aafde8", null ],
+    [ "PWR_FLAG_VOSRDY", "group___p_w_r___flags.html#ga7c0f807d7e91750a9bb571ca94dc5f71", null ],
+    [ "PWR_WAKEUP_ALL_FLAG", "group___p_w_r___flags.html#ga96e05854d438779fd7fe13f65b441d64", null ],
+    [ "PWR_WAKEUP_FLAG1", "group___p_w_r___flags.html#ga04563c5953e8540c253b1fe63788c607", null ],
+    [ "PWR_WAKEUP_FLAG2", "group___p_w_r___flags.html#ga1e76ebc117adb945bd16509b772c2c36", null ],
+    [ "PWR_WAKEUP_FLAG3", "group___p_w_r___flags.html#ga5152db751ef186b1bc4072bafe5bc60c", null ],
+    [ "PWR_WAKEUP_FLAG4", "group___p_w_r___flags.html#ga1982eb8a141ef8eedcdefdb3d40c9647", null ],
+    [ "PWR_WAKEUP_FLAG5", "group___p_w_r___flags.html#gafc9f08bc9eaca1a35e415e090de7543e", null ],
+    [ "PWR_WAKEUP_FLAG6", "group___p_w_r___flags.html#gaa22106c19aa0b124cdac5d062671f6c7", null ],
+    [ "PWR_WAKEUP_FLAG7", "group___p_w_r___flags.html#gac4c1f19685138a4b933c36cc0013b453", null ],
+    [ "PWR_WAKEUP_FLAG8", "group___p_w_r___flags.html#ga1441b9c21a175e2bb6c9f6b171964f33", null ]
+];

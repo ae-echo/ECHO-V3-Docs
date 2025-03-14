@@ -1,0 +1,13 @@
+<map id="LDO_controldown" name="LDO_controldown">
+<area shape="rect" id="Node000001" title="특정 LDO의 전압을 감소시키는 함수 (MCP4011 디지털 전위차계 기반)" alt="" coords="5,107,131,133"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2time_8c.html#ac5b56e32bdc7e19e5ba218d6520d80c7" title=" " alt="" coords="186,5,260,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,104,177,42,183,38,186,43,180,46,90,108"/>
+<area shape="rect" id="Node000003" href="$group___h_a_l___exported___functions___group2.html#gae63b34eea12780ca2e1100c2402da18e" title=" " alt="" coords="179,56,267,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,103,164,86,166,91,112,109"/>
+<area shape="rect" id="Node000004" href="$_l_d_o_8c.html#a5c6d927dcf44835821b32f9b8202a87d" title="특정 LDO의 칩 선택(Chip Select) 신호를 제어하는 함수" alt="" coords="195,107,250,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,117,179,117,179,123,131,123"/>
+<area shape="rect" id="Node000005" href="$_l_d_o_8c.html#a995ee09b7c86e1606879008bb6d0fccf" title="특정 LDO 전원을 활성화 또는 비활성화하는 함수" alt="" coords="196,157,250,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="112,131,182,155,181,160,110,137"/>
+<area shape="rect" id="Node000006" href="$_l_d_o_8c.html#a12219b638024a7b56a25d5489be14779" title="특정 LDO의 업/다운(Up/Down) 신호를 제어하는 함수" alt="" coords="195,208,250,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="90,132,180,194,186,197,183,202,177,198,87,136"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="DMAEx Exported Functions" name="DMAEx Exported Functions">
+<area shape="rect" id="Node000002" href="$group___d_m_a_ex.html" title="DMA Extended HAL module driver." alt="" coords="5,184,73,211"/>
+<area shape="rect" id="Node000001" title="DMAEx Exported functions." alt="" coords="121,184,305,211"/>
+<area shape="rect" id="Node000003" href="$group___d_m_a_ex___exported___functions___group1.html" title="Linked&#45;List Initialization and De&#45;Initialization Functions." alt="" coords="356,5,557,48"/>
+<area shape="rect" id="Node000004" href="$group___d_m_a_ex___exported___functions___group2.html" title="Linked&#45;List IO Operation Functions." alt="" coords="376,72,538,115"/>
+<area shape="rect" id="Node000005" href="$group___d_m_a_ex___exported___functions___group3.html" title="Linked&#45;List Management Functions." alt="" coords="375,139,538,181"/>
+<area shape="rect" id="Node000006" href="$group___d_m_a_ex___exported___functions___group4.html" title="Data Handling, Repeated Block and Trigger Configuration Functions." alt="" coords="353,205,560,264"/>
+<area shape="rect" id="Node000007" href="$group___d_m_a_ex___exported___functions___group5.html" title="Suspend and Resume Operation Functions." alt="" coords="382,288,532,331"/>
+<area shape="rect" id="Node000008" href="$group___d_m_a_ex___exported___functions___group6.html" title="FIFO Status Function." alt="" coords="383,355,530,381"/>
+</map>

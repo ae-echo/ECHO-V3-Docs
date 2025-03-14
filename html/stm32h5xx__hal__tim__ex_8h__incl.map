@@ -1,0 +1,14 @@
+<map id="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_tim_ex.h" name="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_tim_ex.h">
+<area shape="rect" id="Node000001" title="Header file of TIM HAL Extended module." alt="" coords="104,5,302,64"/>
+<area shape="rect" id="Node000002" href="$stm32h5xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="130,112,276,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,64,206,96,200,96,200,64"/>
+<area shape="rect" id="Node000003" href="$stm32h5xx_8h.html" title="CMSIS STM32H5xx Device Peripheral Access Layer Header File." alt="" coords="5,187,102,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,142,95,182,92,177,176,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,261,127,288"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="196,141,116,250,112,247,192,138"/>
+<area shape="rect" id="Node000005" href="$stm32__hal__legacy_8h.html" title="This file contains aliases definition for the STM32Cube HAL constants macros and functions maintained..." alt="" coords="176,187,358,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="216,137,248,173,244,177,212,141"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="382,187,450,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="241,137,368,180,367,185,239,142"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="63,213,83,247,79,249,59,215"/>
+</map>

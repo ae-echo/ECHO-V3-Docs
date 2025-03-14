@@ -1,0 +1,5 @@
+<map id="Reg_Write" name="Reg_Write">
+<area shape="rect" id="Node000001" title="특정 주소의 레지스터 값을 설정하는 함수" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2i2c_8c.html#a8afacc65ef435f56d8af0c06e4e75e1f" title="I2C 레지스터 버퍼 반환" alt="" coords="136,5,226,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,16,120,16,120,21,88,21"/>
+</map>

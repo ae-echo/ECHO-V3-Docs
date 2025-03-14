@@ -1,0 +1,13 @@
+<map id="PWR Exported Constants" name="PWR Exported Constants">
+<area shape="rect" id="Node000002" href="$group___p_w_r.html" title="PWR HAL module driver." alt="" coords="5,216,59,243"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,216,280,243"/>
+<area shape="rect" id="Node000009" href="$group___p_w_r_ex___wake_up___pins.html" title=" " alt="" coords="335,5,492,32"/>
+<area shape="rect" id="Node000011" href="$group___p_w_r___attributes.html" title="PWR Privilege/NPrivilege and Secure/NSecure Attributes." alt="" coords="358,56,470,83"/>
+<area shape="rect" id="Node000008" href="$group___p_w_r___flags.html" title=" " alt="" coords="369,107,458,133"/>
+<area shape="rect" id="Node000010" href="$group___p_w_r___items.html" title=" " alt="" coords="368,157,459,184"/>
+<area shape="rect" id="Node000003" href="$group___p_w_r___p_v_d___detection___level.html" title=" " alt="" coords="338,208,490,251"/>
+<area shape="rect" id="Node000004" href="$group___p_w_r___p_v_d___mode.html" title=" " alt="" coords="353,275,474,301"/>
+<area shape="rect" id="Node000005" href="$group___p_w_r___regulator___in___low_power___mode.html" title=" " alt="" coords="334,325,493,368"/>
+<area shape="rect" id="Node000006" href="$group___p_w_r___s_l_e_e_p___mode___entry.html" title=" " alt="" coords="328,392,499,419"/>
+<area shape="rect" id="Node000007" href="$group___p_w_r___s_t_o_p___mode___entry.html" title=" " alt="" coords="332,443,496,469"/>
+</map>

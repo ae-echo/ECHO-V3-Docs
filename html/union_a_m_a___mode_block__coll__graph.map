@@ -1,0 +1,13 @@
+<map id="AMA_ModeBlock" name="AMA_ModeBlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="304,352,415,421"/>
+<area shape="rect" id="Node000002" href="$struct_a_m_a___capture.html" title=" " alt="" coords="5,5,113,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,274,126,286,163,315,205,338,247,355,288,368,286,373,246,360,203,342,160,319,123,290,111,277"/>
+<area shape="rect" id="Node000003" href="$struct_a_m_a___ringing.html" title=" " alt="" coords="137,5,272,288"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,286,300,326,310,338,306,341,296,330,269,289"/>
+<area shape="rect" id="Node000004" href="$struct_a_m_a___sinewave.html" title=" " alt="" coords="296,5,423,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,288,362,335,357,335,357,288"/>
+<area shape="rect" id="Node000005" href="$struct_a_m_a___centering.html" title=" " alt="" coords="446,5,576,288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="462,289,436,330,425,342,421,339,432,326,458,286"/>
+<area shape="rect" id="Node000006" href="$struct_a_m_a___accuracy.html" title=" " alt="" coords="601,5,747,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="603,277,590,290,554,319,513,342,471,359,432,372,430,367,469,354,511,337,551,314,587,286,599,273"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="HAL_I3C_SetConfigFifo" name="HAL_I3C_SetConfigFifo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="635,31,797,57"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2i3c_8c.html#af639f8b95a832770855e5032a983cb68" title="I3C1 Initialization Function." alt="" coords="485,31,587,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="619,47,587,47,587,41,619,41"/>
+<area shape="rect" id="Node000003" href="$_m_c_a_l_2_src_2i3c_8c.html#a5aca340141343e6089b356b3aba8911c" title=" " alt="" coords="370,31,437,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,47,438,47,438,41,470,41"/>
+<area shape="rect" id="Node000004" href="$group___t_i_m___exported___functions___group9.html#ga8a3b0ad512a6e6c6157440b68d395eac" title=" " alt="" coords="103,5,322,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,40,318,35,318,30,355,35"/>
+<area shape="rect" id="Node000005" href="$_m_c_a_l___common_8c.html#a97f3a85b9fd46d539b615b22ff7ef437" title=" " alt="" coords="171,56,254,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="355,53,255,67,254,61,354,48"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="155,72,55,72,55,67,155,67"/>
+</map>

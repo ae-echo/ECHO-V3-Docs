@@ -1,0 +1,7 @@
+<map id="I2C_Write_16BIT" name="I2C_Write_16BIT">
+<area shape="rect" id="Node000001" title="I2C 8비트 주소 데이터 쓰기" alt="" coords="5,5,127,32"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2i2c_8c.html#a139824529d7e20774dc0dea95c216b27" title=" " alt="" coords="175,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,16,159,16,159,21,127,21"/>
+<area shape="rect" id="Node000003" href="$_m_c_a_l_2_src_2time_8c.html#a6ff23c69c87b75d1c5464567fceb74d7" title=" " alt="" coords="378,5,454,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,16,362,16,362,21,330,21"/>
+</map>

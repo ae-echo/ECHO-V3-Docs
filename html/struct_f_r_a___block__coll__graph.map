@@ -1,0 +1,22 @@
+<map id="FRA_Block" name="FRA_Block">
+<area shape="rect" id="Node000001" title=" " alt="" coords="262,997,340,1067"/>
+<area shape="rect" id="Node000002" href="$struct_f_r_a___common.html" title=" " alt="" coords="100,651,222,933"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,932,233,972,251,992,247,995,229,975,205,935"/>
+<area shape="rect" id="Node000003" href="$union_f_r_a___mode_block.html" title=" " alt="" coords="246,757,356,827"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,826,304,980,298,980,298,826"/>
+<area shape="rect" id="Node000004" href="$struct_f_r_a___single___mode.html" title=" " alt="" coords="5,261,125,544"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,542,139,585,163,606,186,617,211,628,236,649,267,694,288,741,283,743,262,697,233,652,208,632,184,622,160,610,135,588,107,545"/>
+<area shape="rect" id="Node000005" href="$struct_f_r_a___result.html" title=" " alt="" coords="251,5,352,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="253,110,194,159,165,188,139,220,122,248,118,245,135,217,161,185,190,155,249,106"/>
+<area shape="rect" id="Node000006" href="$struct_f_r_a___single_plus___mode.html" title=" " alt="" coords="150,261,295,544"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="285,139,279,163,259,245,254,244,274,162,280,138"/>
+<area shape="rect" id="Node000007" href="$struct_f_r_a___scan___mode.html" title=" " alt="" coords="320,219,440,587"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="328,138,336,162,346,201,341,203,331,163,323,139"/>
+<area shape="rect" id="Node000008" href="$struct_f_r_a___p_m_plus___mode.html" title=" " alt="" coords="464,261,608,544"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="353,113,404,161,431,187,454,217,471,245,466,248,450,220,427,191,401,165,349,117"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="250,543,266,626,292,740,286,741,261,627,244,544"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="348,587,340,627,315,741,310,740,335,626,343,586"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="482,545,454,588,432,609,412,621,392,633,371,652,342,697,321,743,316,741,338,694,367,649,389,628,409,616,429,605,450,585,478,542"/>
+<area shape="rect" id="Node000009" href="$struct_f_r_a___config.html" title=" " alt="" coords="381,651,550,933"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="383,932,353,975,344,986,340,983,348,972,379,929"/>
+</map>

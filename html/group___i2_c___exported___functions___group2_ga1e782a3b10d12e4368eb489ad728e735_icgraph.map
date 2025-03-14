@@ -1,0 +1,5 @@
+<map id="HAL_I2C_Slave_Seq_Receive_IT" name="HAL_I2C_Slave_Seq_Receive_IT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="214,5,433,32"/>
+<area shape="rect" id="Node000002" href="$group___i2_c___i_r_q___handler__and___callbacks.html#ga3b2a6a0ff585d8e529a73ba7d291c92d" title=" " alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,166,21,166,16,198,16"/>
+</map>

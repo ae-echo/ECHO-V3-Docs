@@ -1,0 +1,9 @@
+<map id="remove_index" name="remove_index">
+<area shape="rect" id="Node000001" title="배열에서 지정된 인덱스의 값을 제거하고 앞으로 이동" alt="" coords="454,5,557,32"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2i2c_8c.html#a06266b04702ba1769e9637ea9946fd65" title="I2C 슬레이브 상태 초기화" alt="" coords="255,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="439,21,407,21,407,16,439,16"/>
+<area shape="rect" id="Node000003" href="$_board_comm_cmd_8c.html#a56293852973c29d173fa0ae9d4310ae6" title=" " alt="" coords="103,5,207,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,21,207,21,207,16,239,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

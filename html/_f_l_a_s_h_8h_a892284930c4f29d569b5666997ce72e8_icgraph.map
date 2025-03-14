@@ -1,0 +1,5 @@
+<map id="Flash_GetSector" name="Flash_GetSector">
+<area shape="rect" id="Node000001" title="주어진 Flash 메모리 주소(Address)가 속한 섹터 번호를 반환" alt="" coords="148,5,267,32"/>
+<area shape="rect" id="Node000002" href="$_f_l_a_s_h_8c.html#ac19e6cf80926426397f4b75cd3ab3428" title="지정된 Flash 영역을 삭제하는 함수" alt="" coords="5,5,100,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,21,100,21,100,16,132,16"/>
+</map>

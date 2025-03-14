@@ -1,0 +1,19 @@
+<map id="DMA Exported Constants" name="DMA Exported Constants">
+<area shape="rect" id="Node000002" href="$group___d_m_a.html" title="DMA HAL module driver." alt="" coords="5,392,57,419"/>
+<area shape="rect" id="Node000001" title="DMA Exported constants." alt="" coords="105,392,275,419"/>
+<area shape="rect" id="Node000007" href="$group___d_m_a___block___request.html" title="DMA Block Request." alt="" coords="362,5,502,32"/>
+<area shape="rect" id="Node000017" href="$group___d_m_a___channel___attributes.html" title="DMA Channel Security and Privilege Attributes." alt="" coords="352,56,513,83"/>
+<area shape="rect" id="Node000012" href="$group___d_m_a___destination___data___width.html" title="DMA destination Data Width." alt="" coords="358,107,507,149"/>
+<area shape="rect" id="Node000010" href="$group___d_m_a___destination___increment___mode.html" title="DMA Destination Increment Mode." alt="" coords="323,173,541,200"/>
+<area shape="rect" id="Node000003" href="$group___d_m_a___error___codes.html" title="DMA Error Codes." alt="" coords="370,224,494,251"/>
+<area shape="rect" id="Node000005" href="$group___d_m_a___flag___definition.html" title="DMA Flag Definition." alt="" coords="363,275,501,301"/>
+<area shape="rect" id="Node000004" href="$group___d_m_a___interrupt___enable___definition.html" title="DMA Interrupt Enable Definition." alt="" coords="359,325,505,368"/>
+<area shape="rect" id="Node000013" href="$group___d_m_a___priority___level.html" title="DMA Priority Level." alt="" coords="367,392,497,419"/>
+<area shape="rect" id="Node000006" href="$group___d_m_a___request___selection.html" title="DMA Request Selection." alt="" coords="352,443,513,469"/>
+<area shape="rect" id="Node000011" href="$group___d_m_a___source___data___width.html" title="DMA Source Data Width." alt="" coords="350,493,515,520"/>
+<area shape="rect" id="Node000009" href="$group___d_m_a___source___increment___mode.html" title="DMA Source Increment Mode." alt="" coords="336,544,529,571"/>
+<area shape="rect" id="Node000014" href="$group___d_m_a___transfer___allocated___port.html" title="DMA Transfer Allocated Port." alt="" coords="339,595,525,621"/>
+<area shape="rect" id="Node000008" href="$group___d_m_a___transfer___direction.html" title="DMA transfer direction." alt="" coords="354,645,511,672"/>
+<area shape="rect" id="Node000015" href="$group___d_m_a___transfer___event___mode.html" title="DMA Transfer Event Mode." alt="" coords="344,696,520,723"/>
+<area shape="rect" id="Node000016" href="$group___d_m_a___transfer___mode.html" title="DMA Transfer Mode." alt="" coords="364,747,501,773"/>
+</map>

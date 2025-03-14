@@ -1,0 +1,21 @@
+<map id="I3C Exported Types" name="I3C Exported Types">
+<area shape="rect" id="Node000009" href="$group___h_a_l__state__structure__definition.html" title="HAL State structure definition." alt="" coords="311,5,446,48"/>
+<area shape="rect" id="Node000002" href="$group___i3_c.html" title="I3C HAL module driver." alt="" coords="5,547,48,573"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,547,232,573"/>
+<area shape="rect" id="Node000014" href="$group___i3_c___b_c_r_type_def___structure__definition.html" title="I3C BCRTypeDef Structure definition." alt="" coords="288,72,469,115"/>
+<area shape="rect" id="Node000010" href="$group___i3_c___c_c_c_info_type_def___structure__definition.html" title="I3C CCCInfoTypeDef Structure definition." alt="" coords="305,139,452,181"/>
+<area shape="rect" id="Node000013" href="$group___i3_c___c_c_c_type_def___structure__definition.html" title="I3C CCCTypeDef Structure definition." alt="" coords="288,205,470,248"/>
+<area shape="rect" id="Node000011" href="$group___i3_c___control_type_def___structure__definition.html" title="I3C ControlTypeDef Structure definition." alt="" coords="310,272,447,315"/>
+<area shape="rect" id="Node000005" href="$group___i3_c___controller___config___structure__definition.html" title="I3C controller configuration structure definition." alt="" coords="287,339,470,381"/>
+<area shape="rect" id="Node000012" href="$group___i3_c___data_type_def___structure__definition.html" title="I3C DataTypeDef Structure definition." alt="" coords="288,405,469,448"/>
+<area shape="rect" id="Node000007" href="$group___i3_c___device___config___structure__definition.html" title="I3C device configuration structure definition." alt="" coords="294,472,463,515"/>
+<area shape="rect" id="Node000016" href="$group___i3_c___e_n_t_d_a_a_payload_type_def___structure__definition.html" title="I3C ENTDAAPayloadTypeDef Structure definition." alt="" coords="280,539,477,581"/>
+<area shape="rect" id="Node000004" href="$group___i3_c___f_i_f_o___config___structure__definition.html" title="I3C FIFO configuration structure definition." alt="" coords="300,605,457,648"/>
+<area shape="rect" id="Node000003" href="$group___i3_c___init___structure__definition.html" title="I3C Init Structure definition." alt="" coords="318,672,439,715"/>
+<area shape="rect" id="Node000015" href="$group___i3_c___p_i_d_type_def___structure__definition.html" title="I3C_PIDTypeDef Structure definition." alt="" coords="291,739,466,781"/>
+<area shape="rect" id="Node000017" href="$group___i3_c___private_type_def___structure__definition.html" title="I3C PrivateTypeDef Structure definition." alt="" coords="310,805,447,848"/>
+<area shape="rect" id="Node000006" href="$group___i3_c___target___config___structure__definition.html" title="I3C target configuration structure definition." alt="" coords="298,872,460,915"/>
+<area shape="rect" id="Node000018" href="$group___i3_c___xfer_type_def___structure__definition.html" title="I3C XferTypeDef Structure definition." alt="" coords="290,939,467,981"/>
+<area shape="rect" id="Node000019" href="$group___i3_c__handle___structure__definition.html" title="I3C handle Structure definition." alt="" coords="308,1005,449,1048"/>
+<area shape="rect" id="Node000008" href="$group___i3_c__mode__structure__definition.html" title="I3C Mode structure definition." alt="" coords="312,1072,445,1115"/>
+</map>

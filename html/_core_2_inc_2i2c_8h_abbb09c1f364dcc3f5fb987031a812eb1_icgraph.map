@@ -1,0 +1,5 @@
+<map id="I2C_GPIO_Read_SDRAM" name="I2C_GPIO_Read_SDRAM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,5,396,32"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2i2c_8c.html#a55104f6eac279a9a5c8e26e516b5066e" title="I2C 연속 데이터 읽기 (SDRAM 저장용)" alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,21,172,21,172,16,204,16"/>
+</map>

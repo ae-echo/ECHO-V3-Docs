@@ -1,0 +1,10 @@
+<map id="I2C_Read_Seq" name="I2C_Read_Seq">
+<area shape="rect" id="Node000001" title="I2C 연속 데이터 읽기 (Sequential Read)" alt="" coords="5,31,116,57"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2i2c_8c.html#a368bd3916326b9fbd5bb9cbd3a76f49c" title=" " alt="" coords="164,5,320,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,34,148,29,149,34,116,39"/>
+<area shape="rect" id="Node000004" href="$_core_2_src_2i2c_8c.html#a139824529d7e20774dc0dea95c216b27" title=" " alt="" coords="164,56,320,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,49,149,54,148,59,116,54"/>
+<area shape="rect" id="Node000003" href="$_m_c_a_l_2_src_2time_8c.html#a6ff23c69c87b75d1c5464567fceb74d7" title=" " alt="" coords="368,31,444,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,28,353,33,352,38,320,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="319,55,352,50,353,55,320,60"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CORTEX Exported Constants" name="CORTEX Exported Constants">
+<area shape="rect" id="Node000002" href="$group___c_o_r_t_e_x.html" title=" " alt="" coords="5,293,82,320"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,293,326,320"/>
+<area shape="rect" id="Node000008" href="$group___c_o_r_t_e_x___m_p_u___access___shareable.html" title=" " alt="" coords="398,5,574,48"/>
+<area shape="rect" id="Node000012" href="$group___c_o_r_t_e_x___m_p_u___attributes.html" title=" " alt="" coords="402,72,571,99"/>
+<area shape="rect" id="Node000011" href="$group___c_o_r_t_e_x___m_p_u___attributes___number.html" title=" " alt="" coords="376,123,596,165"/>
+<area shape="rect" id="Node000005" href="$group___c_o_r_t_e_x___m_p_u___h_f_n_m_i___p_r_i_v_d_e_f___control.html" title=" " alt="" coords="388,189,584,232"/>
+<area shape="rect" id="Node000007" href="$group___c_o_r_t_e_x___m_p_u___instruction___access.html" title=" " alt="" coords="398,256,574,299"/>
+<area shape="rect" id="Node000006" href="$group___c_o_r_t_e_x___m_p_u___region___enable.html" title=" " alt="" coords="386,323,586,349"/>
+<area shape="rect" id="Node000010" href="$group___c_o_r_t_e_x___m_p_u___region___number.html" title=" " alt="" coords="384,373,589,400"/>
+<area shape="rect" id="Node000009" href="$group___c_o_r_t_e_x___m_p_u___region___permission___attributes.html" title=" " alt="" coords="374,424,598,467"/>
+<area shape="rect" id="Node000003" href="$group___c_o_r_t_e_x___preemption___priority___group.html" title=" " alt="" coords="390,491,582,533"/>
+<area shape="rect" id="Node000004" href="$group___c_o_r_t_e_x___sys_tick__clock__source.html" title=" " alt="" coords="404,557,568,600"/>
+</map>

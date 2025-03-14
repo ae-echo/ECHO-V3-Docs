@@ -1,0 +1,5 @@
+<map id="ADC_InjectionConfTypeDef" name="ADC_InjectionConfTypeDef">
+<area shape="rect" id="Node000001" title="Structure definition of ADC group injected and ADC channel affected to ADC group injected." alt="" coords="5,160,221,528"/>
+<area shape="rect" id="Node000002" href="$struct_a_d_c___inj_oversampling_type_def.html" title="ADC Injected Conversion Oversampling structure definition." alt="" coords="18,5,208,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,96,116,143,111,143,111,96"/>
+</map>

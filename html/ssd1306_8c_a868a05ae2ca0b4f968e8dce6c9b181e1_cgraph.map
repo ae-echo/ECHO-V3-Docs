@@ -1,0 +1,11 @@
+<map id="ssd1306_DrawArcWithRadiusLine" name="ssd1306_DrawArcWithRadiusLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,226,83"/>
+<area shape="rect" id="Node000002" href="$ssd1306_8c.html#ad10175e4bf204edeafc9b7e2465927f1" title=" " alt="" coords="297,5,436,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,53,281,33,282,38,186,58"/>
+<area shape="rect" id="Node000003" href="$ssd1306_8c.html#a99529b2a48960312342d3c323aadcec8" title=" " alt="" coords="316,56,417,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,67,300,67,300,72,226,72"/>
+<area shape="rect" id="Node000005" href="$ssd1306_8c.html#a9c792eddcc76d1538459f02ef405e6ea" title=" " alt="" coords="274,107,459,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,81,282,100,281,106,185,86"/>
+<area shape="rect" id="Node000004" href="$ssd1306_8c.html#ad43cbb77ed1f735535e7251ca47ecf87" title=" " alt="" coords="507,56,644,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,67,491,67,491,72,417,72"/>
+</map>

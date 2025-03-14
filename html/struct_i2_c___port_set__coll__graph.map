@@ -1,0 +1,5 @@
+<map id="I2C_PortSet" name="I2C_PortSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,373,96,485"/>
+<area shape="rect" id="Node000002" href="$struct_g_p_i_o___type_def.html" title="General Purpose I/O." alt="" coords="5,5,105,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,309,58,356,52,356,52,309"/>
+</map>

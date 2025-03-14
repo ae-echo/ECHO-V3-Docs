@@ -1,0 +1,5 @@
+<map id="Reg_Init" name="Reg_Init">
+<area shape="rect" id="Node000001" title="레지스터 맵을 초기화하는 함수 RegBuf를 0으로 초기화하고, 레지스터 맵의 각 구조체 포인터를 설정함" alt="" coords="5,5,76,32"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2i2c_8c.html#a8afacc65ef435f56d8af0c06e4e75e1f" title="I2C 레지스터 버퍼 반환" alt="" coords="124,5,214,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,16,108,16,108,21,76,21"/>
+</map>

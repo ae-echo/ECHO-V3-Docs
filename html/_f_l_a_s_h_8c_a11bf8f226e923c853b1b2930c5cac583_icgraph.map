@@ -1,0 +1,7 @@
+<map id="Flash_Get_CheckSum" name="Flash_Get_CheckSum">
+<area shape="rect" id="Node000001" title="플래시 메모리에서 체크섬을 계산하여 반환 플래시에서 16바이트씩 데이터를 읽고, 각 바이트를 합산하여 체크섬을 계산합니다." alt="" coords="255,5,408,32"/>
+<area shape="rect" id="Node000002" href="$_board_comm_cmd_8c.html#a56293852973c29d173fa0ae9d4310ae6" title=" " alt="" coords="103,5,207,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,21,207,21,207,16,239,16"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

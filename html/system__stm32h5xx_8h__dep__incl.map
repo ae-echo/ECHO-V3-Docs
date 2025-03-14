@@ -1,0 +1,5 @@
+<map id="Firmware/Drivers/CMSIS/Device/ST/STM32H5xx/Include/system_stm32h5xx.h" name="Firmware/Drivers/CMSIS/Device/ST/STM32H5xx/Include/system_stm32h5xx.h">
+<area shape="rect" id="Node000001" title="CMSIS Cortex&#45;M33 Device System Source File for STM32H5xx devices." alt="" coords="5,5,216,64"/>
+<area shape="rect" id="Node000002" href="$stm32h563xx_8h.html" title="CMSIS STM32H563xx Device Peripheral Access Layer Header File." alt="" coords="5,112,216,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,80,113,112,108,112,108,80"/>
+</map>

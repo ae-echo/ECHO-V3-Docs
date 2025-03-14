@@ -1,0 +1,31 @@
+<map id="__I3C_HandleTypeDef" name="__I3C_HandleTypeDef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="364,1019,507,1301"/>
+<area shape="rect" id="Node000002" href="$struct_i3_c___type_def.html" title="Improved Inter&#45;integrated Circuit Interface." alt="" coords="5,624,113,907"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,889,127,905,179,964,238,1017,297,1064,352,1103,349,1108,294,1069,234,1021,175,967,123,908,111,892"/>
+<area shape="rect" id="Node000003" href="$struct_i3_c___init_type_def.html" title=" " alt="" coords="137,720,286,811"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,809,358,1018,353,1020,234,812"/>
+<area shape="rect" id="Node000004" href="$struct_i3_c___xfer_type_def.html" title=" " alt="" coords="310,731,422,800"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="372,799,381,888,398,994,399,1002,394,1003,392,995,376,888,366,800"/>
+<area shape="rect" id="Node000005" href="$struct_i3_c___control_type_def.html" title=" " alt="" coords="262,315,392,405"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="328,405,326,495,332,600,342,659,355,714,349,715,337,660,327,600,321,495,322,405"/>
+<area shape="rect" id="Node000006" href="$struct_i3_c___data_type_def.html" title=" " alt="" coords="447,315,562,405"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="492,406,385,716,380,714,487,404"/>
+<area shape="rect" id="Node000007" href="$struct_i3_c___c_c_c_type_def.html" title=" " alt="" coords="446,709,564,821"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="507,405,507,693,502,693,502,405"/>
+<area shape="rect" id="Node000008" href="$struct_i3_c___private_type_def.html" title=" " alt="" coords="587,720,716,811"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="523,404,632,703,627,705,518,406"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="498,822,469,995,467,1002,462,1001,463,994,493,821"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="641,811,610,898,589,948,564,996,519,1064,515,1061,560,993,584,946,605,896,636,809"/>
+<area shape="rect" id="Node000009" href="$struct_____d_m_a___handle_type_def.html" title="DMA handle Structure definition." alt="" coords="769,635,920,896"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="772,897,734,949,691,997,651,1032,607,1064,523,1117,520,1112,604,1059,647,1028,687,993,729,945,767,894"/>
+<area shape="rect" id="Node000010" href="$struct_d_m_a___channel___type_def.html" title=" " alt="" coords="594,176,746,544"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="748,535,784,618,779,620,743,537"/>
+<area shape="rect" id="Node000011" href="$struct_d_m_a___init_type_def.html" title="DMA Transfer Configuration Structure definition." alt="" coords="770,197,920,523"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="847,522,847,618,842,618,842,522"/>
+<area shape="rect" id="Node000012" href="$struct_d_m_a___init_linked_list_type_def.html" title="DMA Linked&#45;List Configuration Structure Definition." alt="" coords="943,283,1117,437"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="998,438,914,620,909,618,993,436"/>
+<area shape="rect" id="Node000013" href="$struct_____d_m_a___q_list_type_def.html" title="DMAEx Linked&#45;List Queue Structure Definition." alt="" coords="1140,293,1282,427"/>
+<area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="1193,428,1167,487,1131,546,1086,595,1036,640,984,680,936,713,933,709,981,676,1033,636,1082,591,1127,542,1163,485,1188,425"/>
+<area shape="rect" id="Node000014" href="$struct_d_m_a___node_type_def.html" title="DMAEx Linked&#45;List Node Structure Definition." alt="" coords="1148,5,1275,96"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="1214,96,1214,276,1209,276,1209,96"/>
+</map>

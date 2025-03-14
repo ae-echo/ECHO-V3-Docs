@@ -1,0 +1,5 @@
+<map id="Firmware/Drivers/CMSIS/Include/core_cm33.h" name="Firmware/Drivers/CMSIS/Include/core_cm33.h">
+<area shape="rect" id="Node000001" title="CMSIS Cortex&#45;M33 Core Peripheral Access Layer Header File." alt="" coords="26,5,195,48"/>
+<area shape="rect" id="Node000002" href="$stm32h563xx_8h.html" title="CMSIS STM32H563xx Device Peripheral Access Layer Header File." alt="" coords="5,96,216,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,63,113,96,108,96,108,63"/>
+</map>

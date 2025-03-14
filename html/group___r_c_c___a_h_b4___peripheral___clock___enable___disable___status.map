@@ -1,0 +1,4 @@
+<map id="AHB4 Peripheral Clock Enabled or Disabled Status" name="AHB4 Peripheral Clock Enabled or Disabled Status">
+<area shape="rect" id="Node000001" title="Check whether the AHB4 peripheral clock is enabled or not." alt="" coords="208,5,364,64"/>
+<area shape="rect" id="Node000002" href="$group___r_c_c___exported___macros.html" title=" " alt="" coords="5,21,160,48"/>
+</map>

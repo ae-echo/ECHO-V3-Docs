@@ -1,0 +1,40 @@
+<map id="HAL_Delay" name="HAL_Delay">
+<area shape="rect" id="Node000001" title=" " alt="" coords="753,107,841,133"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2time_8c.html#ab7cce8122024d7ba47bf10f434956de4" title=" " alt="" coords="593,5,670,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="770,98,740,71,704,46,670,32,672,27,706,42,743,67,774,94"/>
+<area shape="rect" id="Node000003" href="$_l_d_o_8c.html#a203a01fd905e4f3594bbf9b32a4a2123" title="특정 LDO의 전압을 감소시키는 함수 (MCP4011 디지털 전위차계 기반)" alt="" coords="569,107,694,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="738,123,695,123,695,117,738,117"/>
+<area shape="rect" id="Node000010" href="$_l_d_o_8c.html#a02158a0b37e6b61c405f8116e7fe0e3a" title="특정 LDO의 전압을 증가시키는 함수 (MCP4011 디지털 전위차계 기반)" alt="" coords="578,56,686,83"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="738,105,677,86,678,81,739,100"/>
+<area shape="rect" id="Node000011" href="$_core_2_src_2fmc_8c.html#a56374bc6320edd3106fb9a10d3c98d90" title=" " alt="" coords="559,229,705,272"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="770,145,707,198,664,231,661,227,703,194,767,141"/>
+<area shape="rect" id="Node000015" href="$ssd1306_8c.html#ade2c3a936ceecc5b8a1d965cc302d2ed" title=" " alt="" coords="584,157,680,184"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="739,140,678,159,677,154,738,135"/>
+<area shape="rect" id="Node000004" href="$_l_d_o_8c.html#a66a56fe759160678d6c4717f9ad53f36" title="특정 LDO의 출력을 초기화하는 함수" alt="" coords="385,107,511,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,123,511,123,511,117,553,117"/>
+<area shape="rect" id="Node000008" href="$_l_d_o_8c.html#acb619cfaba733367703dc7e603a7f0b8" title="특정 LDO의 출력 전압을 설정하는 함수" alt="" coords="389,56,507,83"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="565,104,498,86,500,81,566,99"/>
+<area shape="rect" id="Node000005" href="$_l_d_o_8c.html#a21e5ed710dd6b8a11a2e9671452f2240" title="모든 LDO 출력을 초기화하는 함수" alt="" coords="260,107,333,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="369,123,333,123,333,117,369,117"/>
+<area shape="rect" id="Node000006" href="$_b_s_w___common_8c.html#a32c0e9fbeb55a2599b7b0a6b0797d066" title=" " alt="" coords="116,139,194,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="245,134,194,146,193,141,244,129"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,139,55,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="101,155,55,155,55,149,101,149"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="392,91,334,110,333,105,390,86"/>
+<area shape="rect" id="Node000009" href="$_board_comm_cmd_8c.html#a56293852973c29d173fa0ae9d4310ae6" title=" " alt="" coords="103,72,207,99"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="373,76,207,85,207,80,373,71"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="117,109,56,141,54,137,114,104"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="562,72,507,72,507,67,562,67"/>
+<area shape="rect" id="Node000012" href="$_core_2_src_2fmc_8c.html#a936ce86e5942959eae5a834612ecffaa" title=" " alt="" coords="397,259,499,285"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="544,264,500,269,499,263,543,258"/>
+<area shape="rect" id="Node000013" href="$_m_c_a_l_2_src_2fmc_8c.html#aaa320b064396e6f578b71da1516377cd" title=" " alt="" coords="258,227,334,253"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="381,261,334,251,335,245,382,256"/>
+<area shape="rect" id="Node000014" href="$_m_c_a_l___common_8c.html#a97f3a85b9fd46d539b615b22ff7ef437" title=" " alt="" coords="113,201,196,228"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="243,233,197,225,198,220,244,228"/>
+<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="112,196,54,167,56,162,114,192"/>
+<area shape="rect" id="Node000016" href="$_o_l_e_d_8c.html#a7372e46460a371e4d94a0ee7f5f1a1fd" title="OLED 디스플레이를 초기화하는 함수" alt="" coords="255,157,337,184"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="569,173,338,173,338,168,569,168"/>
+<area shape="rect" id="Node000017" href="$ssd1306_8c.html#a9ead514c5bd0651fd5e86e30d911b717" title=" " alt="" coords="411,208,485,235"/>
+<area shape="poly" id="edge21_Node000015_Node000017" title=" " alt="" coords="570,190,486,214,485,209,569,185"/>
+<area shape="poly" id="edge20_Node000016_Node000006" title=" " alt="" coords="239,166,194,160,194,154,240,161"/>
+</map>

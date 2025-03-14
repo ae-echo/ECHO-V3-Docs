@@ -1,0 +1,13 @@
+<map id="SBS Exported Constants" name="SBS Exported Constants">
+<area shape="rect" id="Node000002" href="$group___h_a_l.html" title="HAL module driver." alt="" coords="5,208,53,235"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,208,269,235"/>
+<area shape="rect" id="Node000010" href="$group___s_b_s___attributes__items.html" title="SBS items to configure secure or non&#45;secure attributes on." alt="" coords="334,5,477,32"/>
+<area shape="rect" id="Node000004" href="$group___s_b_s___b_r_e_a_k___c_o_n_f_i_g.html" title=" " alt="" coords="342,56,470,83"/>
+<area shape="rect" id="Node000003" href="$group___s_b_s___f_p_u___interrupts.html" title=" " alt="" coords="352,107,459,133"/>
+<area shape="rect" id="Node000005" href="$group___s_b_s___fast_mode_plus___g_p_i_o.html" title=" " alt="" coords="322,157,490,184"/>
+<area shape="rect" id="Node000008" href="$group___s_b_s___h_d_p_l___value.html" title=" " alt="" coords="359,208,452,235"/>
+<area shape="rect" id="Node000007" href="$group___s_b_s___i_o_compenstion_cell___config.html" title=" " alt="" coords="317,259,494,285"/>
+<area shape="rect" id="Node000009" href="$group___s_b_s___lock__items.html" title="SBS items to set lock on." alt="" coords="348,309,464,336"/>
+<area shape="rect" id="Node000006" href="$group___s_b_s___memories___erase___flag___status.html" title=" " alt="" coords="334,360,477,403"/>
+<area shape="rect" id="Node000011" href="$group___s_b_s__attributes.html" title="SBS secure or non&#45;secure attributes." alt="" coords="352,427,459,453"/>
+</map>

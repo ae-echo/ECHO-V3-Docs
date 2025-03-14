@@ -1,0 +1,36 @@
+var _l_d_o_8h =
+[
+    [ "EXT_PW_OUT_CH1_BYPASS_EN", "_l_d_o_8h.html#aa2567d70a1c2a01a6a234a124e3b9caf", null ],
+    [ "EXT_PW_OUT_CH1_CS", "_l_d_o_8h.html#ac577b2dfa17af49147d14cd381bc6883", null ],
+    [ "EXT_PW_OUT_CH1_EN", "_l_d_o_8h.html#a54251ded1ddd4613a18a241e192d576f", null ],
+    [ "EXT_PW_OUT_CH1_UD", "_l_d_o_8h.html#a700b78a785670ce01c821d20a52f2e94", null ],
+    [ "EXT_PW_OUT_CH2_BYPASS_EN", "_l_d_o_8h.html#ae5fa9140fc4f8b0e99f08930d54d6ebc", null ],
+    [ "EXT_PW_OUT_CH2_CS", "_l_d_o_8h.html#a7debdbb2c8d3c6a16072369fc32f7702", null ],
+    [ "EXT_PW_OUT_CH2_EN", "_l_d_o_8h.html#a7e557316e9839c7d03a0fc9cb638ca02", null ],
+    [ "EXT_PW_OUT_CH2_UD", "_l_d_o_8h.html#aa96e904a32e5bab2fa3b52c40e1607e5", null ],
+    [ "I3C_REF_PW_CS", "_l_d_o_8h.html#a81b2abbbc8b81f2cf662248098ad4532", null ],
+    [ "I3C_REF_PW_EN", "_l_d_o_8h.html#a0662d0b9ad0cba341539f5d3b614c87a", null ],
+    [ "I3C_REF_PW_UD", "_l_d_o_8h.html#a863c7168a8e5c43d81a59b08bb58a92b", null ],
+    [ "STEMMIN", "_l_d_o_8h.html#ae047a74548b3589ffc73ce4dba2dff57", null ],
+    [ "STEPMAX", "_l_d_o_8h.html#a3ad806e1b947fa504ce6ee00fa7dfc3f", null ],
+    [ "SW_I2C_REF_PW_CH1_CS", "_l_d_o_8h.html#aa970904767f35f9f39df28296fd320e0", null ],
+    [ "SW_I2C_REF_PW_CH1_EN", "_l_d_o_8h.html#a888e664e8471d55c32fee4d205c4d194", null ],
+    [ "SW_I2C_REF_PW_CH1_UD", "_l_d_o_8h.html#ad590abb502481ab457f19b8929df44ae", null ],
+    [ "SW_I2C_REF_PW_CH2_CS", "_l_d_o_8h.html#a9c45b30a429205dd70e0f3ac0de344d6", null ],
+    [ "SW_I2C_REF_PW_CH2_EN", "_l_d_o_8h.html#a60f171f1e5f08da7a820a73f108af39c", null ],
+    [ "SW_I2C_REF_PW_CH2_UD", "_l_d_o_8h.html#aad56999caea7e12023df42a274a22a1f", null ],
+    [ "GPIO_Port1", "_l_d_o_8h.html#a10e295c6988e84959ae797e8ea995f7f", null ],
+    [ "LDO_Select", "_l_d_o_8h.html#a6ae0acc844a1c552744adc097c0da9c1", [
+      [ "EXT_PW_OUT_CH1", "_l_d_o_8h.html#a6ae0acc844a1c552744adc097c0da9c1ab4e7b2a48533f1505ce58cf7a41aa7cb", null ],
+      [ "EXT_PW_OUT_CH2", "_l_d_o_8h.html#a6ae0acc844a1c552744adc097c0da9c1ad2da47a8f09b896e3b6d0ff3f521581f", null ],
+      [ "SW_I2C_REF_PW_CH1", "_l_d_o_8h.html#a6ae0acc844a1c552744adc097c0da9c1a08824352e89365d7f6eb03e424ef701f", null ],
+      [ "SW_I2C_REF_PW_CH2", "_l_d_o_8h.html#a6ae0acc844a1c552744adc097c0da9c1a963811e70d22633e9c5caf9f8dbf914f", null ],
+      [ "I3C_REF_PW", "_l_d_o_8h.html#a6ae0acc844a1c552744adc097c0da9c1ab34f0cc7cba184f4a328a884cd2a99b6", null ]
+    ] ],
+    [ "LDO_ALL_Enable", "_l_d_o_8h.html#a0cea38a8a886d046ad517975b75115bd", null ],
+    [ "LDO_ControlMain", "_l_d_o_8h.html#a66a56fe759160678d6c4717f9ad53f36", null ],
+    [ "LDO_GetStep", "_l_d_o_8h.html#abe82e14b9475d1730bfa66a1b1545d3b", null ],
+    [ "LDO_GetVoltage", "_l_d_o_8h.html#a94f0e53844b5faa13ba26e9dbc8990d3", null ],
+    [ "LDO_Init", "_l_d_o_8h.html#a21e5ed710dd6b8a11a2e9671452f2240", null ],
+    [ "LOD_SetVoltage", "_l_d_o_8h.html#acb619cfaba733367703dc7e603a7f0b8", null ]
+];

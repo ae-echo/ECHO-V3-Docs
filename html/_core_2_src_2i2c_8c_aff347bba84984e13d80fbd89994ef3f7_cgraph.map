@@ -1,0 +1,11 @@
+<map id="MX_I2C4_Init" name="MX_I2C4_Init">
+<area shape="rect" id="Node000001" title="I2C4 Initialization Function." alt="" coords="5,81,107,108"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="207,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,78,114,60,154,42,191,30,192,35,156,46,116,64,81,83"/>
+<area shape="rect" id="Node000003" href="$group___i2_c___exported___functions___group1.html#ga9d29159a6da072287fff73743fd93260" title=" " alt="" coords="207,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,86,191,75,192,80,107,91"/>
+<area shape="rect" id="Node000004" href="$group___i2_c_ex___exported___functions___group1.html#ga2f0b5fc42fca412214f3968e528e2b9e" title=" " alt="" coords="155,107,360,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,98,140,102,139,108,107,104"/>
+<area shape="rect" id="Node000005" href="$group___i2_c_ex___exported___functions___group1.html#ga474acc9b92626a0f690bf9aa8991a476" title=" " alt="" coords="156,157,358,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="81,106,116,125,156,143,177,150,175,155,154,148,114,130,79,111"/>
+</map>

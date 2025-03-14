@@ -1,0 +1,25 @@
+var group___i3_c___exported___constants =
+[
+    [ "I3C Notification ID definition", "group___h_a_l___i3_c___notification___i_d__definition.html", "group___h_a_l___i3_c___notification___i_d__definition" ],
+    [ "OPTION DEFINITION", "group___i3_c___o_p_t_i_o_n___d_e_f_i_n_i_t_i_o_n.html", "group___i3_c___o_p_t_i_o_n___d_e_f_i_n_i_t_i_o_n" ],
+    [ "I3C DYNAMIC ADDRESS OPTION DEFINITION", "group___i3_c___d_y_n_a_m_i_c___a_d_d_r_e_s_s___o_p_t_i_o_n___d_e_f_i_n_i_t_i_o_n.html", "group___i3_c___d_y_n_a_m_i_c___a_d_d_r_e_s_s___o_p_t_i_o_n___d_e_f_i_n_i_t_i_o_n" ],
+    [ "ERROR CODE DEFINITION", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n" ],
+    [ "SDA HOLD TIME", "group___i3_c___s_d_a___h_o_l_d___t_i_m_e.html", "group___i3_c___s_d_a___h_o_l_d___t_i_m_e" ],
+    [ "OWN ACTIVITY STATE", "group___i3_c___o_w_n___a_c_t_i_v_i_t_y___s_t_a_t_e.html", "group___i3_c___o_w_n___a_c_t_i_v_i_t_y___s_t_a_t_e" ],
+    [ "RX FIFO THRESHOLD", "group___i3_c___r_x___f_i_f_o___t_h_r_e_s_h_o_l_d.html", "group___i3_c___r_x___f_i_f_o___t_h_r_e_s_h_o_l_d" ],
+    [ "TX FIFO THRESHOLD", "group___i3_c___t_x___f_i_f_o___t_h_r_e_s_h_o_l_d.html", "group___i3_c___t_x___f_i_f_o___t_h_r_e_s_h_o_l_d" ],
+    [ "CONTROL FIFO STATE", "group___i3_c___c_o_n_t_r_o_l___f_i_f_o___s_t_a_t_e.html", "group___i3_c___c_o_n_t_r_o_l___f_i_f_o___s_t_a_t_e" ],
+    [ "STATUS FIFO STATE", "group___i3_c___s_t_a_t_u_s___f_i_f_o___s_t_a_t_e.html", "group___i3_c___s_t_a_t_u_s___f_i_f_o___s_t_a_t_e" ],
+    [ "DIRECTION", "group___i3_c___d_i_r_e_c_t_i_o_n.html", "group___i3_c___d_i_r_e_c_t_i_o_n" ],
+    [ "PAYLOAD SIZE", "group___i3_c___p_a_y_l_o_a_d___s_i_z_e.html", "group___i3_c___p_a_y_l_o_a_d___s_i_z_e" ],
+    [ "HANDOFF ACTIVITY STATE", "group___i3_c___h_a_n_d_o_f_f___a_c_t_i_v_i_t_y___s_t_a_t_e.html", "group___i3_c___h_a_n_d_o_f_f___a_c_t_i_v_i_t_y___s_t_a_t_e" ],
+    [ "GETMXDS FORMAT", "group___i3_c___g_e_t_m_x_d_s___f_o_r_m_a_t.html", "group___i3_c___g_e_t_m_x_d_s___f_o_r_m_a_t" ],
+    [ "TURNAROUND TIME TSCO", "group___i3_c___t_u_r_n_a_r_o_u_n_d___t_i_m_e___t_s_c_o.html", "group___i3_c___t_u_r_n_a_r_o_u_n_d___t_i_m_e___t_s_c_o" ],
+    [ "I3C COMMON INTERRUPT", "group___i3_c___c_o_m_m_o_n___i_n_t_e_r_r_u_p_t.html", "group___i3_c___c_o_m_m_o_n___i_n_t_e_r_r_u_p_t" ],
+    [ "I3C TARGET INTERRUPT", "group___i3_c___t_a_r_g_e_t___i_n_t_e_r_r_u_p_t.html", "group___i3_c___t_a_r_g_e_t___i_n_t_e_r_r_u_p_t" ],
+    [ "I3C CONTROLLER INTERRUPT", "group___i3_c___c_o_n_t_r_o_l_l_e_r___i_n_t_e_r_r_u_p_t.html", "group___i3_c___c_o_n_t_r_o_l_l_e_r___i_n_t_e_r_r_u_p_t" ],
+    [ "I3C FLAGS", "group___i3_c___f_l_a_g_s.html", "group___i3_c___f_l_a_g_s" ],
+    [ "I3C BCR IN PAYLOAD", "group___i3_c___b_c_r___i_n___p_a_y_l_o_a_d.html", "group___i3_c___b_c_r___i_n___p_a_y_l_o_a_d" ],
+    [ "I3C PATTERN CONFIGURATION", "group___i3_c___p_a_t_t_e_r_n___c_o_n_f_i_g_u_r_a_t_i_o_n.html", "group___i3_c___p_a_t_t_e_r_n___c_o_n_f_i_g_u_r_a_t_i_o_n" ],
+    [ "RESET PATTERN", "group___i3_c___r_e_s_e_t___p_a_t_t_e_r_n.html", "group___i3_c___r_e_s_e_t___p_a_t_t_e_r_n" ]
+];

@@ -1,0 +1,26 @@
+<map id="I3C Exported Constants" name="I3C Exported Constants">
+<area shape="rect" id="Node000003" href="$group___h_a_l___i3_c___notification___i_d__definition.html" title="HAL I3C Notification ID definition." alt="" coords="352,5,483,48"/>
+<area shape="rect" id="Node000002" href="$group___i3_c.html" title="I3C HAL module driver." alt="" coords="5,569,48,596"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,569,258,596"/>
+<area shape="rect" id="Node000022" href="$group___i3_c___b_c_r___i_n___p_a_y_l_o_a_d.html" title=" " alt="" coords="338,72,497,99"/>
+<area shape="rect" id="Node000018" href="$group___i3_c___c_o_m_m_o_n___i_n_t_e_r_r_u_p_t.html" title=" " alt="" coords="322,123,513,149"/>
+<area shape="rect" id="Node000020" href="$group___i3_c___c_o_n_t_r_o_l_l_e_r___i_n_t_e_r_r_u_p_t.html" title=" " alt="" coords="308,173,527,200"/>
+<area shape="rect" id="Node000011" href="$group___i3_c___c_o_n_t_r_o_l___f_i_f_o___s_t_a_t_e.html" title=" " alt="" coords="335,224,500,251"/>
+<area shape="rect" id="Node000013" href="$group___i3_c___d_i_r_e_c_t_i_o_n.html" title=" " alt="" coords="370,275,466,301"/>
+<area shape="rect" id="Node000005" href="$group___i3_c___d_y_n_a_m_i_c___a_d_d_r_e_s_s___o_p_t_i_o_n___d_e_f_i_n_i_t_i_o_n.html" title=" " alt="" coords="328,325,507,368"/>
+<area shape="rect" id="Node000006" href="$group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html" title=" " alt="" coords="320,392,515,419"/>
+<area shape="rect" id="Node000021" href="$group___i3_c___f_l_a_g_s.html" title=" " alt="" coords="373,443,462,469"/>
+<area shape="rect" id="Node000016" href="$group___i3_c___g_e_t_m_x_d_s___f_o_r_m_a_t.html" title=" " alt="" coords="344,493,491,520"/>
+<area shape="rect" id="Node000015" href="$group___i3_c___h_a_n_d_o_f_f___a_c_t_i_v_i_t_y___s_t_a_t_e.html" title=" " alt="" coords="320,544,515,571"/>
+<area shape="rect" id="Node000004" href="$group___i3_c___o_p_t_i_o_n___d_e_f_i_n_i_t_i_o_n.html" title=" " alt="" coords="341,595,494,621"/>
+<area shape="rect" id="Node000008" href="$group___i3_c___o_w_n___a_c_t_i_v_i_t_y___s_t_a_t_e.html" title=" " alt="" coords="336,645,499,672"/>
+<area shape="rect" id="Node000023" href="$group___i3_c___p_a_t_t_e_r_n___c_o_n_f_i_g_u_r_a_t_i_o_n.html" title=" " alt="" coords="306,696,529,723"/>
+<area shape="rect" id="Node000014" href="$group___i3_c___p_a_y_l_o_a_d___s_i_z_e.html" title=" " alt="" coords="360,747,476,773"/>
+<area shape="rect" id="Node000024" href="$group___i3_c___r_e_s_e_t___p_a_t_t_e_r_n.html" title=" " alt="" coords="352,797,483,824"/>
+<area shape="rect" id="Node000009" href="$group___i3_c___r_x___f_i_f_o___t_h_r_e_s_h_o_l_d.html" title=" " alt="" coords="338,848,498,875"/>
+<area shape="rect" id="Node000007" href="$group___i3_c___s_d_a___h_o_l_d___t_i_m_e.html" title=" " alt="" coords="356,899,480,925"/>
+<area shape="rect" id="Node000012" href="$group___i3_c___s_t_a_t_u_s___f_i_f_o___s_t_a_t_e.html" title=" " alt="" coords="342,949,493,976"/>
+<area shape="rect" id="Node000019" href="$group___i3_c___t_a_r_g_e_t___i_n_t_e_r_r_u_p_t.html" title=" " alt="" coords="328,1000,508,1027"/>
+<area shape="rect" id="Node000017" href="$group___i3_c___t_u_r_n_a_r_o_u_n_d___t_i_m_e___t_s_c_o.html" title=" " alt="" coords="321,1051,514,1077"/>
+<area shape="rect" id="Node000010" href="$group___i3_c___t_x___f_i_f_o___t_h_r_e_s_h_o_l_d.html" title=" " alt="" coords="338,1101,497,1128"/>
+</map>

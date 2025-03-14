@@ -1,0 +1,10 @@
+<map id="I2CEx" name="I2CEx">
+<area shape="rect" id="Node000001" title="I2C Extended HAL module driver." alt="" coords="223,180,281,207"/>
+<area shape="rect" id="Node000003" href="$group___i2_c_ex___exported___constants.html" title=" " alt="" coords="329,5,486,48"/>
+<area shape="rect" id="Node000008" href="$group___i2_c_ex___exported___functions.html" title=" " alt="" coords="329,72,486,115"/>
+<area shape="rect" id="Node000004" href="$group___i2_c_ex___exported___macros.html" title=" " alt="" coords="329,139,486,181"/>
+<area shape="rect" id="Node000005" href="$group___i2_c_ex___private___constants.html" title=" " alt="" coords="334,205,481,248"/>
+<area shape="rect" id="Node000007" href="$group___i2_c_ex___private___functions.html" title=" " alt="" coords="334,272,481,315"/>
+<area shape="rect" id="Node000006" href="$group___i2_c_ex___private___macro.html" title=" " alt="" coords="334,339,481,381"/>
+<area shape="rect" id="Node000002" href="$group___s_t_m32_h5xx___h_a_l___driver.html" title=" " alt="" coords="5,180,175,207"/>
+</map>

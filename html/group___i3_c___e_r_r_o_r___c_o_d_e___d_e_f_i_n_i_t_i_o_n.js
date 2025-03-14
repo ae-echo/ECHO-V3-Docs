@@ -1,0 +1,28 @@
+var group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n =
+[
+    [ "HAL_I3C_ERROR_ADDRESS_NACK", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gad5b2a7959a62efda6c0fe7488eab5370", null ],
+    [ "HAL_I3C_ERROR_CE0", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga88784625f5d6c6f2fd4f4967f1fe0f85", null ],
+    [ "HAL_I3C_ERROR_CE1", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gaa4a0352b92701701f1a2e08186029839", null ],
+    [ "HAL_I3C_ERROR_CE2", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gaf47ede64978b14a78cbb3d320853bf40", null ],
+    [ "HAL_I3C_ERROR_CE3", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga6ebb31a6222d7527eb0156f6295af398", null ],
+    [ "HAL_I3C_ERROR_COVR", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gafd4d316b40415bb57662acfee0ab1167", null ],
+    [ "HAL_I3C_ERROR_DATA_HAND_OFF", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gae6c88a31b6b133fd9c94e711d5a5c87a", null ],
+    [ "HAL_I3C_ERROR_DATA_NACK", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gabdd6238ae910b58279ffe5df4dfee9ca", null ],
+    [ "HAL_I3C_ERROR_DMA", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gaae91f97bc3ab3afa5af6a1808a8b5046", null ],
+    [ "HAL_I3C_ERROR_DMA_PARAM", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga665b13c48e15650bfe135e41e5cf575a", null ],
+    [ "HAL_I3C_ERROR_DOVR", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga8699ede79b41214aa5a6b7accfc83c33", null ],
+    [ "HAL_I3C_ERROR_DYNAMIC_ADDR", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga6356dd8f382e7a7b275d0bc10b1f2c57", null ],
+    [ "HAL_I3C_ERROR_INVALID_PARAM", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gad257e7349311013f0dbb6df94af197d2", null ],
+    [ "HAL_I3C_ERROR_NONE", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gaf1882c70d0d4641438edb6905add4be3", null ],
+    [ "HAL_I3C_ERROR_NOT_ALLOWED", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga3fec05e779c9e0460886bb0ec0fa3acd", null ],
+    [ "HAL_I3C_ERROR_SIZE", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga32379372d6e9b7920209997cd595421f", null ],
+    [ "HAL_I3C_ERROR_STALL", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gac20a3a23a4bcb1b63f3c2a39a55388e4", null ],
+    [ "HAL_I3C_ERROR_TE0", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gac9e874c5be161b58cace6e74081bf5c7", null ],
+    [ "HAL_I3C_ERROR_TE1", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gaee63bfefbed79a60535a1b594d41d78e", null ],
+    [ "HAL_I3C_ERROR_TE2", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gae59eceff8ed0c840eb5dd87c10d6e51d", null ],
+    [ "HAL_I3C_ERROR_TE3", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga8bcc11112febaf68cc5ee9abccc19c93", null ],
+    [ "HAL_I3C_ERROR_TE4", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gac6ba561004ea7ea5465b905f7fc5ffb3", null ],
+    [ "HAL_I3C_ERROR_TE5", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gaa97a627721f057987bec6c186b1aca87", null ],
+    [ "HAL_I3C_ERROR_TE6", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#gab29139fabdf3a76c81a62c3543bc218a", null ],
+    [ "HAL_I3C_ERROR_TIMEOUT", "group___i3_c___e_r_r_o_r___c_o_d_e___d_e_f_i_n_i_t_i_o_n.html#ga66aa98dcf7e766d86eaed024a01211eb", null ]
+];

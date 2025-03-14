@@ -1,0 +1,5 @@
+<map id="LDO_ALL_Enable" name="LDO_ALL_Enable">
+<area shape="rect" id="Node000001" title="LDO 전원을 활성화 또는 비활성화하는 함수" alt="" coords="5,5,131,32"/>
+<area shape="rect" id="Node000002" href="$_l_d_o_8c.html#a995ee09b7c86e1606879008bb6d0fccf" title="특정 LDO 전원을 활성화 또는 비활성화하는 함수" alt="" coords="179,5,233,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,16,163,16,163,21,131,21"/>
+</map>

@@ -1,0 +1,72 @@
+<map id="Error_Handler" name="Error_Handler">
+<area shape="rect" id="Node000001" title="This function is executed in case of error occurrence." alt="" coords="717,461,818,488"/>
+<area shape="rect" id="Node000002" href="$group___a_d_c___exported___functions___group1.html#gaa30863492d5c3103e3e8ce8a63dadd07" title="ADC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="518,5,651,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="761,446,750,355,731,235,703,121,686,76,667,46,650,34,653,29,671,42,691,74,708,119,736,234,755,355,766,446"/>
+<area shape="rect" id="Node000003" href="$_core_2_src_2dac_8c.html#acd409f887681168e93817e8a5485d74b" title="DAC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="518,56,651,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="760,446,747,365,727,260,700,161,684,123,667,97,650,84,653,80,671,93,689,120,705,159,732,259,753,364,765,445"/>
+<area shape="rect" id="Node000004" href="$group___i2_c___exported___functions___group1.html#gabe01a202c27b23fc150aa66af3130073" title="I2C MSP Initialization This function configures the hardware resources used in this example." alt="" coords="522,107,647,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="763,446,759,384,746,304,733,262,717,220,695,181,667,147,646,133,649,129,670,143,699,178,721,218,738,260,751,303,765,384,769,446"/>
+<area shape="rect" id="Node000005" href="$group___i3_c___exported___functions___group1.html#gacaf3db05fd8aa6ae5498df0b9488dab0" title="I3C MSP Initialization This function configures the hardware resources used in this example." alt="" coords="522,157,647,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="762,446,755,393,739,326,711,257,691,226,667,198,646,185,649,180,670,194,695,223,715,255,744,325,760,392,767,445"/>
+<area shape="rect" id="Node000006" href="$group___u_a_r_t___exported___functions___group1.html#ga0e553b32211877322f949b14801bbfa7" title="UART MSP Initialization This function configures the hardware resources used in this example." alt="" coords="514,208,655,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="758,447,748,405,730,354,703,301,667,255,639,238,642,233,670,251,708,298,735,352,753,403,763,446"/>
+<area shape="rect" id="Node000007" href="$_m_c_a_l_2_src_2i2c_8c.html#a84df9a5887b8b8230cfe85d18e53900e" title="I2C 인터페이스 초기화 함수" alt="" coords="378,575,445,601"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="756,504,724,557,699,583,670,604,641,615,610,621,548,622,491,614,445,602,446,597,492,609,549,617,610,616,639,610,667,599,696,579,719,554,752,501"/>
+<area shape="rect" id="Node000010" href="$_core_2_src_2adc_8c.html#acccd58aa70215a6b184ad242312ffd0c" title="ADC1 Initialization Function." alt="" coords="530,664,639,691"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="759,503,727,574,702,613,670,647,639,666,637,661,667,643,698,610,723,572,755,501"/>
+<area shape="rect" id="Node000012" href="$_core_2_src_2dac_8c.html#a412c7f55d05196232830230c74d702b2" title="DAC1 Initialization Function." alt="" coords="530,715,639,741"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="764,504,755,548,737,602,710,657,692,682,670,705,641,721,638,717,667,701,688,679,705,654,732,600,749,546,759,502"/>
+<area shape="rect" id="Node000014" href="$main_8c.html#a446bccf6b72bfc19f464b0cf55f66edd" title="DCACHE1 Initialization Function." alt="" coords="143,328,282,355"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="752,449,719,396,696,370,667,350,617,330,563,317,508,310,454,309,352,316,270,330,269,325,351,311,454,303,509,305,564,312,619,325,670,346,699,366,723,392,756,446"/>
+<area shape="rect" id="Node000015" href="$_core_2_src_2fmc_8c.html#a936ce86e5942959eae5a834612ecffaa" title=" " alt="" coords="533,867,636,893"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="765,504,753,585,732,690,705,790,689,829,671,856,655,868,637,876,635,871,652,864,667,853,684,827,700,788,727,689,747,584,760,503"/>
+<area shape="rect" id="Node000017" href="$_core_2_src_2i2c_8c.html#a021114cd02d4beb0b256095cfbd088b2" title="I2C2 Initialization Function." alt="" coords="534,512,635,539"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="702,495,636,514,635,509,701,490"/>
+<area shape="rect" id="Node000018" href="$_core_2_src_2i2c_8c.html#aff347bba84984e13d80fbd89994ef3f7" title="I2C4 Initialization Function." alt="" coords="534,563,635,589"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="743,500,709,528,670,553,637,566,635,562,667,548,706,523,739,496"/>
+<area shape="rect" id="Node000019" href="$_core_2_src_2i3c_8c.html#af639f8b95a832770855e5032a983cb68" title="I3C1 Initialization Function." alt="" coords="534,360,635,387"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="739,453,706,426,667,401,635,388,637,383,670,396,709,422,743,449"/>
+<area shape="rect" id="Node000022" href="$main_8c.html#a7307e0ee40b10fe7fc1ec71481d0a80a" title="ICACHE Initialization Function." alt="" coords="150,828,275,855"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="767,504,758,597,740,719,728,780,712,834,693,878,670,907,644,925,616,938,586,946,556,951,492,950,429,938,369,920,315,898,235,858,238,853,317,893,371,915,431,933,493,944,555,945,585,941,614,933,641,920,667,903,688,876,707,833,722,778,735,718,753,596,761,503"/>
+<area shape="rect" id="Node000023" href="$_core_2_src_2time_8c.html#abbf5454212cb039fb90d523b2473af91" title=" " alt="" coords="533,765,636,792"/>
+<area shape="poly" id="edge30_Node000001_Node000023" title=" " alt="" coords="767,504,760,557,744,625,715,694,695,727,670,755,655,766,638,774,636,769,652,762,667,751,691,724,711,692,739,623,755,556,762,503"/>
+<area shape="rect" id="Node000025" href="$_core_2_src_2time_8c.html#af1a30e036c07055e19487b8267790bac" title="TIM7 Initialization Function." alt="" coords="533,816,636,843"/>
+<area shape="poly" id="edge33_Node000001_Node000025" title=" " alt="" coords="769,504,765,566,751,647,738,689,721,732,699,771,671,806,655,817,638,825,636,820,652,813,667,802,695,768,717,729,733,688,746,645,759,565,763,503"/>
+<area shape="rect" id="Node000026" href="$_core_2_src_2uart_8c.html#a0664dce420227295e70164b7a89f0771" title="UART5 Initialization Function." alt="" coords="526,411,643,437"/>
+<area shape="poly" id="edge35_Node000001_Node000026" title=" " alt="" coords="701,459,635,441,636,435,702,454"/>
+<area shape="rect" id="Node000028" href="$_core_2_src_2uart_8c.html#a57d1167735baafab8e3288526c424929" title="USART1 Initialization Function." alt="" coords="500,461,669,488"/>
+<area shape="poly" id="edge38_Node000001_Node000028" title=" " alt="" coords="701,477,669,477,669,472,701,472"/>
+<area shape="rect" id="Node000029" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="140,265,285,292"/>
+<area shape="poly" id="edge40_Node000001_Node000029" title=" " alt="" coords="756,447,744,414,725,377,700,340,667,312,621,288,570,271,518,261,465,255,364,257,281,267,280,262,364,252,465,250,519,255,572,266,623,283,670,307,704,337,730,374,749,412,761,446"/>
+<area shape="rect" id="Node000008" href="$_m_c_a_l___common_8c.html#a97f3a85b9fd46d539b615b22ff7ef437" title=" " alt="" coords="171,625,254,652"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="363,603,255,631,254,626,362,598"/>
+<area shape="rect" id="Node000009" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,524,55,551"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="172,620,54,553,56,548,174,615"/>
+<area shape="rect" id="Node000011" href="$_m_c_a_l_2_src_2adc_8c.html#a5137b551f1b83b0f4d8df7d071a3d3a6" title=" " alt="" coords="374,639,449,665"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="514,670,449,660,450,655,515,664"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="358,651,254,644,255,639,358,646"/>
+<area shape="rect" id="Node000013" href="$_m_c_a_l_2_src_2dac_8c.html#a6ae286bbe0230eee85b3052e32a1e0bc" title=" " alt="" coords="374,715,449,741"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="514,731,449,731,449,725,514,725"/>
+<area shape="poly" id="edge14_Node000013_Node000008" title=" " alt="" coords="364,710,243,655,245,650,366,705"/>
+<area shape="poly" id="edge16_Node000014_Node000009" title=" " alt="" coords="151,363,127,377,105,394,79,426,59,463,37,524,32,523,54,461,74,423,101,390,124,372,149,359"/>
+<area shape="rect" id="Node000016" href="$_m_c_a_l_2_src_2fmc_8c.html#aaa320b064396e6f578b71da1516377cd" title=" " alt="" coords="374,841,449,868"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="518,873,449,863,450,858,518,868"/>
+<area shape="poly" id="edge19_Node000016_Node000008" title=" " alt="" coords="386,832,224,654,228,650,390,828"/>
+<area shape="poly" id="edge21_Node000017_Node000007" title=" " alt="" coords="521,546,501,553,444,577,442,572,499,548,519,541"/>
+<area shape="poly" id="edge23_Node000018_Node000007" title=" " alt="" coords="518,583,446,588,445,583,518,578"/>
+<area shape="rect" id="Node000020" href="$_m_c_a_l_2_src_2i3c_8c.html#a5aca340141343e6089b356b3aba8911c" title=" " alt="" coords="378,404,445,431"/>
+<area shape="poly" id="edge25_Node000019_Node000020" title=" " alt="" coords="519,393,446,411,445,406,518,387"/>
+<area shape="poly" id="edge27_Node000020_Node000008" title=" " alt="" coords="381,443,372,451,327,500,285,549,226,627,221,623,280,546,323,496,368,447,378,439"/>
+<area shape="rect" id="Node000021" href="$group___t_i_m___exported___functions___group9.html#ga8a3b0ad512a6e6c6157440b68d395eac" title=" " alt="" coords="103,404,322,431"/>
+<area shape="poly" id="edge26_Node000020_Node000021" title=" " alt="" coords="362,420,322,420,322,415,362,415"/>
+<area shape="poly" id="edge29_Node000022_Node000009" title=" " alt="" coords="192,816,100,665,37,552,41,550,105,663,197,813"/>
+<area shape="rect" id="Node000024" href="$_m_c_a_l_2_src_2time_8c.html#abd08a2d32d0cdec2d63ce9fd5fabb057" title=" " alt="" coords="374,765,448,792"/>
+<area shape="poly" id="edge31_Node000023_Node000024" title=" " alt="" coords="517,781,449,781,449,776,517,776"/>
+<area shape="poly" id="edge32_Node000024_Node000008" title=" " alt="" coords="373,759,368,756,230,655,233,650,372,751,376,754"/>
+<area shape="poly" id="edge34_Node000025_Node000024" title=" " alt="" coords="521,814,448,792,449,787,522,809"/>
+<area shape="rect" id="Node000027" href="$_m_c_a_l_2_src_2uart_8c.html#ad5cbed2a2222bb84e8b5c1caaa50634e" title="UART1 초기화 함수" alt="" coords="370,461,452,488"/>
+<area shape="poly" id="edge36_Node000026_Node000027" title=" " alt="" coords="522,445,453,465,452,460,521,440"/>
+<area shape="poly" id="edge37_Node000027_Node000008" title=" " alt="" coords="383,500,232,627,229,623,380,496"/>
+<area shape="poly" id="edge39_Node000028_Node000027" title=" " alt="" coords="484,477,453,477,453,472,484,472"/>
+<area shape="poly" id="edge41_Node000029_Node000009" title=" " alt="" coords="128,301,105,318,85,342,69,370,48,429,38,484,34,524,29,524,33,483,43,427,64,367,81,339,101,314,125,296"/>
+</map>

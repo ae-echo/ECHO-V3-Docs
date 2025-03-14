@@ -1,0 +1,5 @@
+<map id="RCC_PeriphCLKInitTypeDef" name="RCC_PeriphCLKInitTypeDef">
+<area shape="rect" id="Node000001" title="RCC extended clocks structure definition." alt="" coords="5,331,183,613"/>
+<area shape="rect" id="Node000002" href="$struct_r_c_c___p_l_l2_init_type_def.html" title="PLL2 Clock structure definition." alt="" coords="22,5,166,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,266,97,314,92,314,92,266"/>
+</map>

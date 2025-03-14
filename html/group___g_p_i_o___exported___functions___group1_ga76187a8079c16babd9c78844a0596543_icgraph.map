@@ -1,0 +1,25 @@
+<map id="HAL_GPIO_Init" name="HAL_GPIO_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="624,157,736,184"/>
+<area shape="rect" id="Node000002" href="$group___a_d_c___exported___functions___group1.html#gaa30863492d5c3103e3e8ce8a63dadd07" title="ADC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="439,5,572,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="661,145,625,95,601,69,574,46,554,35,556,30,577,42,605,65,629,92,665,142"/>
+<area shape="rect" id="Node000003" href="$_core_2_src_2dac_8c.html#acd409f887681168e93817e8a5485d74b" title="DAC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="439,56,572,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="650,149,615,123,574,97,550,86,552,81,577,92,618,118,653,145"/>
+<area shape="rect" id="Node000004" href="$_core_2_src_2fmc_8c.html#a9e3ecb75a1862d91bce7f8688ac90e66" title=" " alt="" coords="439,107,572,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="616,155,553,136,555,131,617,150"/>
+<area shape="rect" id="Node000006" href="$group___i2_c___exported___functions___group1.html#gabe01a202c27b23fc150aa66af3130073" title="I2C MSP Initialization This function configures the hardware resources used in this example." alt="" coords="443,157,568,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="608,173,569,173,569,168,608,168"/>
+<area shape="rect" id="Node000007" href="$group___i3_c___exported___functions___group1.html#gacaf3db05fd8aa6ae5498df0b9488dab0" title="I3C MSP Initialization This function configures the hardware resources used in this example." alt="" coords="443,208,568,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="617,192,555,210,553,205,616,186"/>
+<area shape="rect" id="Node000008" href="$group___u_a_r_t___exported___functions___group1.html#ga0e553b32211877322f949b14801bbfa7" title="UART MSP Initialization This function configures the hardware resources used in this example." alt="" coords="435,259,576,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="653,196,618,223,577,249,552,260,550,256,574,244,615,219,650,192"/>
+<area shape="rect" id="Node000009" href="$_core_2_src_2gpio_8c.html#ac724e431d2af879252de35615be2bdea" title="GPIO Initialization Function." alt="" coords="452,309,559,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="665,199,629,250,605,276,577,300,556,311,554,306,574,295,601,272,625,246,661,196"/>
+<area shape="rect" id="Node000005" href="$_core_2_src_2fmc_8c.html#a8dc600b9ef6e5b3b1455840b86c25792" title=" " alt="" coords="234,107,387,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,123,388,123,388,117,423,117"/>
+<area shape="rect" id="Node000010" href="$_m_c_a_l_2_src_2gpio_8c.html#a90363099dc984eccffd2a7ad34def32d" title=" " alt="" coords="271,309,350,336"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="437,325,351,325,351,320,437,320"/>
+<area shape="rect" id="Node000011" href="$_m_c_a_l___common_8c.html#a97f3a85b9fd46d539b615b22ff7ef437" title=" " alt="" coords="103,309,186,336"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="256,325,186,325,186,320,256,320"/>
+<area shape="rect" id="Node000012" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,309,55,336"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="87,325,55,325,55,320,87,320"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="HAL_I2C_EV_IRQHandler" name="HAL_I2C_EV_IRQHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,5,380,32"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2i2c_8c.html#abdb05db0781544b33e806a12940d062c" title="This function handles I2C2 Event interrupt." alt="" coords="5,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,21,156,21,156,16,188,16"/>
+</map>

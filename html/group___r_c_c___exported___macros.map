@@ -1,0 +1,34 @@
+<map id="RCC Exported Macros" name="RCC Exported Macros">
+<area shape="rect" id="Node000002" href="$group___r_c_c.html" title="RCC HAL module driver." alt="" coords="5,1028,57,1055"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,1028,259,1055"/>
+<area shape="rect" id="Node000031" href="$group___r_c_c_ex___m_c_ox___clock___config.html" title=" " alt="" coords="312,5,503,48"/>
+<area shape="rect" id="Node000017" href="$group___r_c_c___a_h_b1___force___release___reset.html" title="Force or release AHB1 peripheral reset." alt="" coords="330,72,485,115"/>
+<area shape="rect" id="Node000003" href="$group___r_c_c___a_h_b1___peripheral___clock___enable___disable.html" title="Enable or disable the AHB1 peripheral clock." alt="" coords="330,139,486,181"/>
+<area shape="rect" id="Node000010" href="$group___r_c_c___a_h_b1___peripheral___clock___enable___disable___status.html" title="Check whether the AHB1 peripheral clock is enabled or not." alt="" coords="330,205,486,264"/>
+<area shape="rect" id="Node000023" href="$group___r_c_c___a_h_b1___peripheral___clock___sleep___enable___disable.html" title="Enable or disable the AHB1 peripheral clock during Low Power (Sleep) mode." alt="" coords="330,288,486,331"/>
+<area shape="rect" id="Node000018" href="$group___r_c_c___a_h_b2___force___release___reset.html" title="Force or release AHB2 peripheral reset." alt="" coords="330,355,485,397"/>
+<area shape="rect" id="Node000004" href="$group___r_c_c___a_h_b2___peripheral___clock___enable___disable.html" title="Enable or disable the AHB2 peripheral clock." alt="" coords="330,421,486,464"/>
+<area shape="rect" id="Node000011" href="$group___r_c_c___a_h_b2___peripheral___clock___enable___disable___status.html" title="Check whether the AHB2 peripheral clock is enabled or not." alt="" coords="330,488,486,547"/>
+<area shape="rect" id="Node000024" href="$group___r_c_c___a_h_b2___peripheral___clock___sleep___enable___disable.html" title="Enable or disable the AHB2 peripheral clock during Low Power (Sleep) mode." alt="" coords="330,571,486,613"/>
+<area shape="rect" id="Node000005" href="$group___r_c_c___a_h_b4___clock___enable___disable.html" title="Enable or disable the AHB4 peripheral clock." alt="" coords="330,637,486,680"/>
+<area shape="rect" id="Node000025" href="$group___r_c_c___a_h_b4___clock___sleep___enable___disable.html" title="Enable or disable the AHB4 peripheral clock during Low Power (Sleep) mode." alt="" coords="330,704,486,747"/>
+<area shape="rect" id="Node000019" href="$group___r_c_c___a_h_b4___force___release___reset.html" title="Force or release AHB4 peripheral reset." alt="" coords="330,771,485,813"/>
+<area shape="rect" id="Node000012" href="$group___r_c_c___a_h_b4___peripheral___clock___enable___disable___status.html" title="Check whether the AHB4 peripheral clock is enabled or not." alt="" coords="330,837,486,896"/>
+<area shape="rect" id="Node000009" href="$group___r_c_c___a_h_b___a_p_b___branch___clock___disable.html" title="Disable or clear Disable the AHBx/APBx branch clock for all AHBx/APBx peripherals." alt="" coords="326,920,489,963"/>
+<area shape="rect" id="Node000016" href="$group___r_c_c___a_h_b___a_p_b___branch___clock___disable___status.html" title="Check whether the AHBx/APBx branch clock for all AHBx/APBx peripherals is disabled or not." alt="" coords="326,987,489,1029"/>
+<area shape="rect" id="Node000006" href="$group___r_c_c___a_p_b1___clock___enable___disable.html" title="Enable or disable the APB1 peripheral clock." alt="" coords="330,1053,485,1096"/>
+<area shape="rect" id="Node000026" href="$group___r_c_c___a_p_b1___clock___sleep___enable___disable.html" title="Enable or disable the APB1 peripheral clock during Low Power (Sleep) mode." alt="" coords="330,1120,485,1163"/>
+<area shape="rect" id="Node000020" href="$group___r_c_c___a_p_b1___force___release___reset.html" title="Force or release APB1 peripheral reset." alt="" coords="330,1187,485,1229"/>
+<area shape="rect" id="Node000013" href="$group___r_c_c___a_p_b1___peripheral___clock___enable___disable___status.html" title="Check whether the APB1 peripheral clock is enabled or not." alt="" coords="330,1253,485,1312"/>
+<area shape="rect" id="Node000007" href="$group___r_c_c___a_p_b2___clock___enable___disable.html" title="Enable or disable the APB2 peripheral clock." alt="" coords="330,1336,485,1379"/>
+<area shape="rect" id="Node000027" href="$group___r_c_c___a_p_b2___clock___sleep___enable___disable.html" title="Enable or disable the APB2 peripheral clock during Low Power (Sleep) mode." alt="" coords="330,1403,485,1445"/>
+<area shape="rect" id="Node000021" href="$group___r_c_c___a_p_b2___force___release___reset.html" title="Force or release APB2 peripheral reset." alt="" coords="330,1469,485,1512"/>
+<area shape="rect" id="Node000014" href="$group___r_c_c___a_p_b2___peripheral___clock___enable___disable___status.html" title="Check whether the APB2 peripheral clock is enabled or not." alt="" coords="330,1536,485,1595"/>
+<area shape="rect" id="Node000008" href="$group___r_c_c___a_p_b3___clock___enable___disable.html" title="Enable or disable the APB3 peripheral clock." alt="" coords="330,1619,485,1661"/>
+<area shape="rect" id="Node000028" href="$group___r_c_c___a_p_b3___clock___sleep___enable___disable.html" title="Enable or disable the APB3 peripheral clock during Low Power (Sleep) mode." alt="" coords="330,1685,485,1728"/>
+<area shape="rect" id="Node000022" href="$group___r_c_c___a_p_b3___force___release___reset.html" title="Force or release APB3 peripheral reset." alt="" coords="330,1752,485,1795"/>
+<area shape="rect" id="Node000015" href="$group___r_c_c___a_p_b3___peripheral___clock___enable___disable___status.html" title="Check whether the APB3 peripheral clock is enabled or not." alt="" coords="330,1819,485,1877"/>
+<area shape="rect" id="Node000029" href="$group___r_c_c___backup___domain___reset.html" title=" " alt="" coords="314,1901,501,1928"/>
+<area shape="rect" id="Node000032" href="$group___r_c_c___flags___interrupts___management.html" title="macros to manage the specified RCC Flags and interrupts." alt="" coords="312,1952,503,1979"/>
+<area shape="rect" id="Node000030" href="$group___r_c_c___r_t_c___clock___configuration.html" title=" " alt="" coords="307,2003,508,2029"/>
+</map>

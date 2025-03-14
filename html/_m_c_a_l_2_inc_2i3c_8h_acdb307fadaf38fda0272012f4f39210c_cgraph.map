@@ -1,0 +1,7 @@
+<map id="I3C_Scan_Target" name="I3C_Scan_Target">
+<area shape="rect" id="Node000001" title="I3C 또는 I2C 장치 스캔 함수" alt="" coords="5,47,128,73"/>
+<area shape="rect" id="Node000002" href="$group___i3_c___exported___functions___group5.html#ga6170176cbf01eaf1f2a6a916cda38fb6" title=" " alt="" coords="176,5,359,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,47,160,42,160,47,128,53"/>
+<area shape="rect" id="Node000003" href="$group___i3_c___exported___functions___group5.html#ga616c703d3b06e1567adda18392b4e20a" title=" " alt="" coords="176,72,359,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,67,160,73,160,78,127,73"/>
+</map>

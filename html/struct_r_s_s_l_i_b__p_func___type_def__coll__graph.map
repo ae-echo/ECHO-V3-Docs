@@ -1,0 +1,7 @@
+<map id="RSSLIB_pFunc_TypeDef" name="RSSLIB_pFunc_TypeDef">
+<area shape="rect" id="Node000001" title="RSSLib function pointer structure." alt="" coords="68,181,226,251"/>
+<area shape="rect" id="Node000002" href="$struct_n_s_c__p_func_type_def.html" title="RSSLib Non&#45;secure callable function pointer structure." alt="" coords="5,27,137,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,94,125,165,121,167,85,97"/>
+<area shape="rect" id="Node000003" href="$struct_s__p_func_type_def.html" title="RSSLib secure callable function pointer structure." alt="" coords="160,5,288,117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,118,174,167,170,165,194,116"/>
+</map>

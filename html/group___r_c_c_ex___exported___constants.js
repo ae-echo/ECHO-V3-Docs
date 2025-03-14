@@ -1,0 +1,27 @@
+var group___r_c_c_ex___exported___constants =
+[
+    [ "Low Speed Microcontroller Clock Output Source", "group___r_c_c_ex___l_s_c_o___clock___source.html", "group___r_c_c_ex___l_s_c_o___clock___source" ],
+    [ "RCCEx Periph Clock Selection", "group___r_c_c_ex___periph___clock___selection.html", "group___r_c_c_ex___periph___clock___selection" ],
+    [ "RCC PLL2 Clock Output", "group___r_c_c___p_l_l2___clock___output.html", "group___r_c_c___p_l_l2___clock___output" ],
+    [ "RCC PLL2 VCI Range", "group___r_c_c___p_l_l2___v_c_i___range.html", "group___r_c_c___p_l_l2___v_c_i___range" ],
+    [ "RCC PLL2 VCO Range", "group___r_c_c___p_l_l2___v_c_o___range.html", "group___r_c_c___p_l_l2___v_c_o___range" ],
+    [ "RCC PLL2 Clock Source", "group___r_c_c___p_l_l2___clock___source.html", "group___r_c_c___p_l_l2___clock___source" ],
+    [ "USART1 Clock Source", "group___r_c_c_ex___u_s_a_r_t1___clock___source.html", "group___r_c_c_ex___u_s_a_r_t1___clock___source" ],
+    [ "USART2 Clock Source", "group___r_c_c_ex___u_s_a_r_t2___clock___source.html", "group___r_c_c_ex___u_s_a_r_t2___clock___source" ],
+    [ "USART3 Clock Source", "group___r_c_c_ex___u_s_a_r_t3___clock___source.html", "group___r_c_c_ex___u_s_a_r_t3___clock___source" ],
+    [ "LPUART1 Clock Source", "group___r_c_c_ex___l_p_u_a_r_t1___clock___source.html", "group___r_c_c_ex___l_p_u_a_r_t1___clock___source" ],
+    [ "I2C1 Clock Source", "group___r_c_c_ex___i2_c1___clock___source.html", "group___r_c_c_ex___i2_c1___clock___source" ],
+    [ "I2C2 Clock Source", "group___r_c_c_ex___i2_c2___clock___source.html", "group___r_c_c_ex___i2_c2___clock___source" ],
+    [ "I3C1 Clock Source", "group___r_c_c_ex___i3_c1___clock___source.html", "group___r_c_c_ex___i3_c1___clock___source" ],
+    [ "RCCEx RNG Clock Source", "group___r_c_c_ex___r_n_g___clock___source.html", "group___r_c_c_ex___r_n_g___clock___source" ],
+    [ "SPI1 Clock Source", "group___r_c_c_ex___s_p_i1___clock___source.html", "group___r_c_c_ex___s_p_i1___clock___source" ],
+    [ "SPI2 Clock Source", "group___r_c_c_ex___s_p_i2___clock___source.html", "group___r_c_c_ex___s_p_i2___clock___source" ],
+    [ "SPI3 Clock Source", "group___r_c_c_ex___s_p_i3___clock___source.html", "group___r_c_c_ex___s_p_i3___clock___source" ],
+    [ "LPTIM1 Clock Source", "group___r_c_c_ex___l_p_t_i_m1___clock___source.html", "group___r_c_c_ex___l_p_t_i_m1___clock___source" ],
+    [ "LPTIM2 Clock Source", "group___r_c_c_ex___l_p_t_i_m2___clock___source.html", "group___r_c_c_ex___l_p_t_i_m2___clock___source" ],
+    [ "FDCAN Kernel Clock Source", "group___r_c_c_ex___f_d_c_a_n___clock___source.html", "group___r_c_c_ex___f_d_c_a_n___clock___source" ],
+    [ "ADCDAC Kernel Clock Source", "group___r_c_c_ex___a_d_c_d_a_c___clock___source.html", "group___r_c_c_ex___a_d_c_d_a_c___clock___source" ],
+    [ "DAC Low Power Kernel Clock Source", "group___r_c_c_ex___d_a_c___low___power___clock___source.html", "group___r_c_c_ex___d_a_c___low___power___clock___source" ],
+    [ "RCCEx CLKP Clock Source", "group___r_c_c_ex___c_l_k_p___clock___source.html", "group___r_c_c_ex___c_l_k_p___clock___source" ],
+    [ "RCCEx TIM Prescaler Selection", "group___r_c_c_ex___t_i_m___prescaler___selection.html", "group___r_c_c_ex___t_i_m___prescaler___selection" ]
+];

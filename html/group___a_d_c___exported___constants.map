@@ -1,0 +1,27 @@
+<map id="ADC Exported Constants" name="ADC Exported Constants">
+<area shape="rect" id="Node000002" href="$group___a_d_c.html" title="ADC HAL module driver." alt="" coords="5,699,56,725"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,699,274,725"/>
+<area shape="rect" id="Node000011" href="$group___a_d_c___e_o_c_selection.html" title=" " alt="" coords="360,5,516,64"/>
+<area shape="rect" id="Node000003" href="$group___a_d_c___error___code.html" title=" " alt="" coords="380,88,497,115"/>
+<area shape="rect" id="Node000023" href="$group___a_d_c___event__type.html" title=" " alt="" coords="380,139,497,165"/>
+<area shape="rect" id="Node000016" href="$group___a_d_c___h_a_l___e_c___a_w_d___n_u_m_b_e_r.html" title=" " alt="" coords="355,189,521,248"/>
+<area shape="rect" id="Node000015" href="$group___a_d_c___h_a_l___e_c___c_h_a_n_n_e_l.html" title=" " alt="" coords="356,272,520,315"/>
+<area shape="rect" id="Node000014" href="$group___a_d_c___h_a_l___e_c___c_h_a_n_n_e_l___s_a_m_p_l_i_n_g_t_i_m_e.html" title=" " alt="" coords="356,339,520,365"/>
+<area shape="rect" id="Node000004" href="$group___a_d_c___h_a_l___e_c___c_o_m_m_o_n___c_l_o_c_k___s_o_u_r_c_e.html" title=" " alt="" coords="363,389,513,432"/>
+<area shape="rect" id="Node000006" href="$group___a_d_c___h_a_l___e_c___d_a_t_a___a_l_i_g_n.html" title=" " alt="" coords="365,456,511,499"/>
+<area shape="rect" id="Node000021" href="$group___a_d_c___h_a_l___e_c___o_v_s___d_i_s_c_o_n_t___m_o_d_e.html" title=" " alt="" coords="322,523,554,549"/>
+<area shape="rect" id="Node000019" href="$group___a_d_c___h_a_l___e_c___o_v_s___r_a_t_i_o.html" title=" " alt="" coords="366,573,510,600"/>
+<area shape="rect" id="Node000022" href="$group___a_d_c___h_a_l___e_c___o_v_s___s_c_o_p_e___r_e_g.html" title=" " alt="" coords="342,624,535,667"/>
+<area shape="rect" id="Node000020" href="$group___a_d_c___h_a_l___e_c___o_v_s___s_h_i_f_t.html" title=" " alt="" coords="368,691,509,733"/>
+<area shape="rect" id="Node000012" href="$group___a_d_c___h_a_l___e_c___r_e_g___o_v_r___d_a_t_a___b_e_h_a_v_i_o_r.html" title=" " alt="" coords="365,757,511,816"/>
+<area shape="rect" id="Node000013" href="$group___a_d_c___h_a_l___e_c___r_e_g___s_e_q___r_a_n_k_s.html" title=" " alt="" coords="372,840,505,883"/>
+<area shape="rect" id="Node000005" href="$group___a_d_c___h_a_l___e_c___r_e_s_o_l_u_t_i_o_n.html" title=" " alt="" coords="350,907,527,933"/>
+<area shape="rect" id="Node000007" href="$group___a_d_c___scan__mode.html" title=" " alt="" coords="347,957,529,984"/>
+<area shape="rect" id="Node000017" href="$group___a_d_c__analog__watchdog__filtering__config.html" title=" " alt="" coords="344,1008,532,1051"/>
+<area shape="rect" id="Node000018" href="$group___a_d_c__analog__watchdog__mode.html" title=" " alt="" coords="362,1075,514,1117"/>
+<area shape="rect" id="Node000025" href="$group___a_d_c__flags__definition.html" title=" " alt="" coords="369,1141,507,1168"/>
+<area shape="rect" id="Node000024" href="$group___a_d_c__interrupts__definition.html" title=" " alt="" coords="356,1192,520,1219"/>
+<area shape="rect" id="Node000009" href="$group___a_d_c__regular__external__trigger__edge.html" title=" " alt="" coords="347,1243,529,1301"/>
+<area shape="rect" id="Node000008" href="$group___a_d_c__regular__external__trigger__source.html" title=" " alt="" coords="354,1325,523,1368"/>
+<area shape="rect" id="Node000010" href="$group___a_d_c__regular__sampling__mode.html" title=" " alt="" coords="328,1392,549,1419"/>
+</map>

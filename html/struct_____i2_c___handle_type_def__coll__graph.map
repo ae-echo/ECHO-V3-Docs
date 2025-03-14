@@ -1,0 +1,19 @@
+<map id="__I2C_HandleTypeDef" name="__I2C_HandleTypeDef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,971,268,1296"/>
+<area shape="rect" id="Node000002" href="$struct_i2_c___type_def.html" title="Inter&#45;integrated Circuit Interface." alt="" coords="5,608,99,891"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,874,132,954,127,955,97,876"/>
+<area shape="rect" id="Node000003" href="$struct_i2_c___init_type_def.html" title=" " alt="" coords="124,640,269,859"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,858,199,954,194,954,194,858"/>
+<area shape="rect" id="Node000004" href="$struct_____d_m_a___handle_type_def.html" title="DMA handle Structure definition." alt="" coords="292,619,444,880"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="313,881,277,960,272,957,308,879"/>
+<area shape="rect" id="Node000005" href="$struct_d_m_a___channel___type_def.html" title=" " alt="" coords="24,176,176,544"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,527,190,542,213,563,235,574,257,586,282,606,283,607,279,611,279,610,255,590,232,579,210,567,186,546,174,530"/>
+<area shape="rect" id="Node000006" href="$struct_d_m_a___init_type_def.html" title="DMA Transfer Configuration Structure definition." alt="" coords="200,197,350,523"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="316,522,336,601,330,603,311,523"/>
+<area shape="rect" id="Node000007" href="$struct_d_m_a___init_linked_list_type_def.html" title="DMA Linked&#45;List Configuration Structure Definition." alt="" coords="374,283,547,437"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="445,438,406,603,400,602,440,437"/>
+<area shape="rect" id="Node000008" href="$struct_____d_m_a___q_list_type_def.html" title="DMAEx Linked&#45;List Queue Structure Definition." alt="" coords="571,293,712,427"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="621,428,595,486,561,545,512,610,458,668,454,665,508,607,557,543,590,484,616,426"/>
+<area shape="rect" id="Node000009" href="$struct_d_m_a___node_type_def.html" title="DMAEx Linked&#45;List Node Structure Definition." alt="" coords="578,5,706,96"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="644,96,644,276,639,276,639,96"/>
+</map>

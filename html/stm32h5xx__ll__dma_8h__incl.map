@@ -1,0 +1,7 @@
+<map id="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_dma.h" name="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_ll_dma.h">
+<area shape="rect" id="Node000001" title="Header file of DMA LL module." alt="" coords="5,5,204,64"/>
+<area shape="rect" id="Node000002" href="$stm32h5xx_8h.html" title="CMSIS STM32H5xx Device Peripheral Access Layer Header File." alt="" coords="56,112,153,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,64,107,96,102,96,102,64"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="74,187,135,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,139,107,171,102,171,102,139"/>
+</map>

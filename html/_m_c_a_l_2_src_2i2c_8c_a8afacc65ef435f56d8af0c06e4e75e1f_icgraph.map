@@ -1,0 +1,13 @@
+<map id="I2C_GetBuf" name="I2C_GetBuf">
+<area shape="rect" id="Node000001" title="I2C 레지스터 버퍼 반환" alt="" coords="359,56,450,83"/>
+<area shape="rect" id="Node000002" href="$_reg_8c.html#a91f3da9a063833ffff3be29c79f446ca" title="레지스터 맵을 초기화하는 함수 RegBuf를 0으로 초기화하고, 레지스터 맵의 각 구조체 포인터를 설정함" alt="" coords="234,5,305,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,52,304,34,306,29,354,47"/>
+<area shape="rect" id="Node000005" href="$_reg_8c.html#acf68b766dda166ae7beff308c3197bd4" title="특정 주소의 레지스터 값을 읽어오는 함수" alt="" coords="228,56,311,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="343,72,312,72,312,67,343,67"/>
+<area shape="rect" id="Node000006" href="$_reg_8c.html#a53cb3b129e948ee88659d7f2a3d5c7ae" title="특정 주소의 레지스터 값을 설정하는 함수" alt="" coords="228,107,311,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="354,91,308,109,306,104,352,86"/>
+<area shape="rect" id="Node000003" href="$_b_s_w___common_8c.html#a32c0e9fbeb55a2599b7b0a6b0797d066" title=" " alt="" coords="103,5,180,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,21,180,21,180,16,219,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="I3C_Read" name="I3C_Read">
+<area shape="rect" id="Node000001" title="I3C Private Read (8비트 주소 체계)" alt="" coords="5,81,86,108"/>
+<area shape="rect" id="Node000002" href="$group___i3_c___exported___functions___group3.html#ga16328428d06a0dba239882f123a628d4" title=" " alt="" coords="134,5,321,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,79,97,60,133,42,151,35,153,40,135,46,99,64,68,83"/>
+<area shape="rect" id="Node000003" href="$group___i3_c___exported___functions___group5.html#ga99c858a4af6c84aa81309ed878efb65a" title=" " alt="" coords="139,56,316,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="86,86,123,81,124,86,87,92"/>
+<area shape="rect" id="Node000004" href="$group___i3_c___exported___functions___group5.html#ga4212b8c76e63e865bbbe86fc72febcb3" title=" " alt="" coords="137,107,318,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="87,98,122,103,121,108,86,103"/>
+<area shape="rect" id="Node000005" href="$group___i3_c___exported___functions___group7.html#ga48feb4f49f0cbfa3c8cc750133b1783d" title=" " alt="" coords="160,157,294,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="68,106,99,125,135,143,153,150,151,155,133,148,97,130,66,111"/>
+</map>

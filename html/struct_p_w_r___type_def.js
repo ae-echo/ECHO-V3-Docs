@@ -1,0 +1,25 @@
+var struct_p_w_r___type_def =
+[
+    [ "BDCR", "group___s_t_m32_h563xx.html#ga0b9a3ced775287c8585a6a61af4b40e9", null ],
+    [ "BDSR", "group___s_t_m32_h563xx.html#gac37ef4641bc68604b134654f2e34810f", null ],
+    [ "DBPCR", "group___s_t_m32_h563xx.html#ga6293d7d42b502fab744abeebd7fe97e4", null ],
+    [ "IORETR", "group___s_t_m32_h563xx.html#ga7c19a32e7535910b92598e1fd7851906", null ],
+    [ "PMCR", "group___s_t_m32_h563xx.html#ga3b33272a8a8521f94fda08d4a66c58fc", null ],
+    [ "PMSR", "group___s_t_m32_h563xx.html#gaa08e0ce7c31a7368a010a589c136f242", null ],
+    [ "PRIVCFGR", "group___s_t_m32_h563xx.html#ga311b9395f3f6b08c48dafdd22f3d1ee3", null ],
+    [ "RESERVED1", "group___s_t_m32_h563xx.html#ga28d88d9a08aab1adbebea61c42ef901e", null ],
+    [ "RESERVED2", "group___s_t_m32_h563xx.html#gac84e46d43688bcc569d63b1da667e497", null ],
+    [ "RESERVED3", "group___s_t_m32_h563xx.html#gaf2b40c5e36a5e861490988275499e158", null ],
+    [ "RESERVED4", "group___s_t_m32_h563xx.html#ga9f5627bbbc2f2af4fdf3f6e986d7638b", null ],
+    [ "SCCR", "group___s_t_m32_h563xx.html#ga1f2df02614464596cdfcfea4a5cbfeab", null ],
+    [ "SECCFGR", "group___s_t_m32_h563xx.html#gaf02167f064f76326d181f4456aa92647", null ],
+    [ "UCPDR", "group___s_t_m32_h563xx.html#ga348ad23f36035a583d48e34a00f0a723", null ],
+    [ "USBSCR", "group___s_t_m32_h563xx.html#ga3bbbdf53dc6bfc51018a737d57b468ce", null ],
+    [ "VMCR", "group___s_t_m32_h563xx.html#ga1f5e9f6d7b4cd70ea6bbe007a0c80cc2", null ],
+    [ "VMSR", "group___s_t_m32_h563xx.html#ga354825ff0e2602893cbbd14c830b0fe7", null ],
+    [ "VOSCR", "group___s_t_m32_h563xx.html#ga346f23cc0290560dddd53354247779df", null ],
+    [ "VOSSR", "group___s_t_m32_h563xx.html#ga6141135d329358a33188560d40458fba", null ],
+    [ "WUCR", "group___s_t_m32_h563xx.html#ga38befb55ad85cf3f49ec748b04ed440c", null ],
+    [ "WUSCR", "group___s_t_m32_h563xx.html#ga4ec37bfe5742280a3dad22b54ff7ebf9", null ],
+    [ "WUSR", "group___s_t_m32_h563xx.html#ga92ea09b35fc1da0e4e56d88a0bd775ab", null ]
+];

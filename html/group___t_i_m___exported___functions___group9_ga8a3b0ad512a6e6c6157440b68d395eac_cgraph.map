@@ -1,0 +1,17 @@
+<map id="HAL_TIM_PeriodElapsedCallback" name="HAL_TIM_PeriodElapsedCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,225,83"/>
+<area shape="rect" id="Node000002" href="$group___i3_c___exported___functions___group1.html#ga42af3029f81b462209d12b0349e46e90" title=" " alt="" coords="273,31,390,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,54,257,50,258,55,225,59"/>
+<area shape="rect" id="Node000003" href="$_m_c_a_l_2_src_2i3c_8c.html#a5aca340141343e6089b356b3aba8911c" title=" " alt="" coords="298,81,365,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,80,283,86,282,92,225,85"/>
+<area shape="rect" id="Node000004" href="$_core_2_src_2i3c_8c.html#af639f8b95a832770855e5032a983cb68" title="I3C1 Initialization Function." alt="" coords="438,81,539,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,92,423,92,423,97,365,97"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="618,5,719,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="513,78,586,42,603,35,605,40,588,46,515,83"/>
+<area shape="rect" id="Node000006" href="$group___i3_c___exported___functions___group3.html#gadd5cbc545ecba9f1c8bcda95b22fcb9c" title=" " alt="" coords="594,56,743,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="539,85,578,79,579,85,540,90"/>
+<area shape="rect" id="Node000007" href="$group___i3_c___exported___functions___group1.html#gaeedf840786e308b7b53045152fc8b494" title=" " alt="" coords="618,107,719,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="540,99,603,108,603,113,539,104"/>
+<area shape="rect" id="Node000008" href="$group___i3_c___exported___functions___group3.html#ga05a7dc7e9ab11249e8ec994b14e5df88" title=" " alt="" coords="587,157,750,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="515,106,588,143,605,149,603,154,586,148,513,111"/>
+</map>

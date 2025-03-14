@@ -1,0 +1,16 @@
+<map id="TIM Extended Exported Constants" name="TIM Extended Exported Constants">
+<area shape="rect" id="Node000002" href="$group___t_i_m_ex.html" title="TIM Extended HAL module driver." alt="" coords="5,380,66,407"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,372,273,415"/>
+<area shape="rect" id="Node000004" href="$group___t_i_m_ex___break___input.html" title=" " alt="" coords="337,5,478,48"/>
+<area shape="rect" id="Node000005" href="$group___t_i_m_ex___break___input___source.html" title=" " alt="" coords="337,72,478,115"/>
+<area shape="rect" id="Node000006" href="$group___t_i_m_ex___break___input___source___enable.html" title=" " alt="" coords="334,139,482,181"/>
+<area shape="rect" id="Node000007" href="$group___t_i_m_ex___break___input___source___polarity.html" title=" " alt="" coords="337,205,478,248"/>
+<area shape="rect" id="Node000010" href="$group___t_i_m_ex___encoder___index___blanking.html" title=" " alt="" coords="330,272,485,315"/>
+<area shape="rect" id="Node000012" href="$group___t_i_m_ex___encoder___index___direction.html" title=" " alt="" coords="330,339,485,381"/>
+<area shape="rect" id="Node000013" href="$group___t_i_m_ex___encoder___index___polarity.html" title=" " alt="" coords="330,405,485,448"/>
+<area shape="rect" id="Node000011" href="$group___t_i_m_ex___encoder___index___position.html" title=" " alt="" coords="330,472,485,515"/>
+<area shape="rect" id="Node000014" href="$group___t_i_m_ex___encoder___index___prescaler.html" title=" " alt="" coords="326,539,489,581"/>
+<area shape="rect" id="Node000003" href="$group___t_i_m_ex___remap.html" title=" " alt="" coords="321,605,494,632"/>
+<area shape="rect" id="Node000009" href="$group___t_i_m_ex___s_m_s___preload___enable.html" title=" " alt="" coords="332,656,484,699"/>
+<area shape="rect" id="Node000008" href="$group___t_i_m_ex___timer___input___selection.html" title=" " alt="" coords="338,723,477,765"/>
+</map>

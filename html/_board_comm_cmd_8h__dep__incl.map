@@ -1,0 +1,9 @@
+<map id="Firmware/APP/Inc/BoardCommCmd.h" name="Firmware/APP/Inc/BoardCommCmd.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,5,426,48"/>
+<area shape="rect" id="Node000002" href="$_board_comm_cmd_8c.html" title=" " alt="" coords="5,96,213,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,57,160,98,158,93,259,52"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title=": Main program body" alt="" coords="236,104,411,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,64,326,104,321,104,321,64"/>
+<area shape="rect" id="Node000004" href="$_m_c_a_l_2_src_2i2c_8c.html" title=" " alt="" coords="436,104,612,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,52,496,101,494,106,383,57"/>
+</map>

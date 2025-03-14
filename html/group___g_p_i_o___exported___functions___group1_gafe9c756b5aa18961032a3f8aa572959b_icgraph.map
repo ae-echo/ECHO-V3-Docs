@@ -1,0 +1,17 @@
+<map id="HAL_GPIO_DeInit" name="HAL_GPIO_DeInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="429,132,558,159"/>
+<area shape="rect" id="Node000002" href="$group___a_d_c___exported___functions___group1.html#ga39b0f8e80268ab3e660ead921ad4b22f" title="ADC MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="227,5,378,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,123,430,84,380,46,355,35,358,30,382,42,433,80,473,119"/>
+<area shape="rect" id="Node000003" href="$_core_2_src_2dac_8c.html#a4caf761f179e82f99674ef63643340f3" title="DAC MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="227,56,378,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="450,128,380,97,348,86,350,81,382,92,452,123"/>
+<area shape="rect" id="Node000004" href="$_core_2_src_2fmc_8c.html#a8fcd72d39b1f5e27a5e8c214c8812ce4" title=" " alt="" coords="227,107,378,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,137,378,133,378,127,414,132"/>
+<area shape="rect" id="Node000006" href="$group___i2_c___exported___functions___group1.html#ga2ec8d9b09854c732e2feed549278f048" title="I2C MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="231,157,374,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="414,159,374,164,374,159,413,153"/>
+<area shape="rect" id="Node000007" href="$group___i3_c___exported___functions___group1.html#ga5f9ca16fdde06dcc2628e9ab36f0ff67" title="I3C MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="231,208,374,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="452,168,382,198,350,210,348,205,380,194,450,163"/>
+<area shape="rect" id="Node000008" href="$group___u_a_r_t___exported___functions___group1.html#ga718f39804e3b910d738a0e1e46151188" title="UART MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="224,259,381,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="473,172,433,211,382,249,358,260,355,256,380,244,430,207,469,168"/>
+<area shape="rect" id="Node000005" href="$_core_2_src_2fmc_8c.html#a8dc783011a4823088d2b8ce43f1c31d8" title=" " alt="" coords="5,107,176,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,123,176,123,176,117,211,117"/>
+</map>

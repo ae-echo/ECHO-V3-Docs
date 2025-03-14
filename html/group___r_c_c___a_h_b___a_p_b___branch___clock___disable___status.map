@@ -1,0 +1,4 @@
+<map id="AHB APB Branch Clock Disabled Status" name="AHB APB Branch Clock Disabled Status">
+<area shape="rect" id="Node000001" title="Check whether the AHBx/APBx branch clock for all AHBx/APBx peripherals is disabled or not." alt="" coords="208,5,370,48"/>
+<area shape="rect" id="Node000002" href="$group___r_c_c___exported___macros.html" title=" " alt="" coords="5,13,160,40"/>
+</map>

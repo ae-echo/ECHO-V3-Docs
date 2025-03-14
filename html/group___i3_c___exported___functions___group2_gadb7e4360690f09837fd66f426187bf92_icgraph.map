@@ -1,0 +1,5 @@
+<map id="HAL_I3C_EV_IRQHandler" name="HAL_I3C_EV_IRQHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,5,380,32"/>
+<area shape="rect" id="Node000002" href="$stm32h5xx__it_8c.html#aec2232bbdea2d5fc3c9a1f89e02cfebb" title="This function handles I3C1 event interrupt." alt="" coords="5,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,21,156,21,156,16,188,16"/>
+</map>

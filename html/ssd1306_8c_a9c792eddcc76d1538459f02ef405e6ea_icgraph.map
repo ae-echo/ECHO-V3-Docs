@@ -1,0 +1,7 @@
+<map id="ssd1306_NormalizeTo0_360" name="ssd1306_NormalizeTo0_360">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,31,459,57"/>
+<area shape="rect" id="Node000002" href="$ssd1306_8c.html#ae39c61af5bc3a7c19b7512a05a1855a3" title=" " alt="" coords="51,5,180,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,36,180,28,181,22,259,30"/>
+<area shape="rect" id="Node000003" href="$ssd1306_8c.html#a868a05ae2ca0b4f968e8dce6c9b181e1" title=" " alt="" coords="5,56,226,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,58,226,61,226,56,258,52"/>
+</map>

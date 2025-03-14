@@ -1,0 +1,9 @@
+<map id="I3C_Write" name="I3C_Write">
+<area shape="rect" id="Node000001" title="I3C Private Write (데이터 전송)" alt="" coords="5,56,85,83"/>
+<area shape="rect" id="Node000002" href="$group___i3_c___exported___functions___group3.html#ga16328428d06a0dba239882f123a628d4" title=" " alt="" coords="133,5,320,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,55,132,41,158,34,160,39,133,47,86,60"/>
+<area shape="rect" id="Node000003" href="$group___i3_c___exported___functions___group5.html#ga4212b8c76e63e865bbbe86fc72febcb3" title=" " alt="" coords="136,56,316,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,67,121,67,121,72,85,72"/>
+<area shape="rect" id="Node000004" href="$group___i3_c___exported___functions___group7.html#ga48feb4f49f0cbfa3c8cc750133b1783d" title=" " alt="" coords="159,107,294,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="86,78,133,92,160,99,158,105,132,97,84,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="HAL_I3C_Ctrl_IsDeviceI3C_Ready" name="HAL_I3C_Ctrl_IsDeviceI3C_Ready">
+<area shape="rect" id="Node000001" title=" " alt="" coords="176,5,359,48"/>
+<area shape="rect" id="Node000002" href="$_m_c_a_l_2_src_2i3c_8c.html#acdb307fadaf38fda0272012f4f39210c" title="I3C 또는 I2C 장치 스캔 함수" alt="" coords="5,13,128,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,29,128,29,128,24,160,24"/>
+</map>

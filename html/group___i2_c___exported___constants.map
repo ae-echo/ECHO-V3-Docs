@@ -1,0 +1,16 @@
+<map id="I2C Exported Constants" name="I2C Exported Constants">
+<area shape="rect" id="Node000002" href="$group___i2_c.html" title="I2C HAL module driver." alt="" coords="5,300,48,327"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="96,300,258,327"/>
+<area shape="rect" id="Node000004" href="$group___i2_c___a_d_d_r_e_s_s_i_n_g___m_o_d_e.html" title=" " alt="" coords="344,5,490,32"/>
+<area shape="rect" id="Node000005" href="$group___i2_c___d_u_a_l___a_d_d_r_e_s_s_i_n_g___m_o_d_e.html" title=" " alt="" coords="328,56,506,83"/>
+<area shape="rect" id="Node000014" href="$group___i2_c___flag__definition.html" title=" " alt="" coords="354,107,481,133"/>
+<area shape="rect" id="Node000007" href="$group___i2_c___g_e_n_e_r_a_l___c_a_l_l___a_d_d_r_e_s_s_i_n_g___m_o_d_e.html" title=" " alt="" coords="306,157,528,184"/>
+<area shape="rect" id="Node000013" href="$group___i2_c___interrupt__configuration__definition.html" title="I2C Interrupt definition Elements values convention: 0xXXXXXXXX." alt="" coords="331,208,503,251"/>
+<area shape="rect" id="Node000009" href="$group___i2_c___m_e_m_o_r_y___a_d_d_r_e_s_s___s_i_z_e.html" title=" " alt="" coords="330,275,504,301"/>
+<area shape="rect" id="Node000008" href="$group___i2_c___n_o_s_t_r_e_t_c_h___m_o_d_e.html" title=" " alt="" coords="344,325,490,352"/>
+<area shape="rect" id="Node000006" href="$group___i2_c___o_w_n___a_d_d_r_e_s_s2___m_a_s_k_s.html" title=" " alt="" coords="330,376,504,403"/>
+<area shape="rect" id="Node000011" href="$group___i2_c___r_e_l_o_a_d___e_n_d___m_o_d_e.html" title=" " alt="" coords="342,427,492,453"/>
+<area shape="rect" id="Node000012" href="$group___i2_c___s_t_a_r_t___s_t_o_p___m_o_d_e.html" title=" " alt="" coords="339,477,495,504"/>
+<area shape="rect" id="Node000010" href="$group___i2_c___x_f_e_r_d_i_r_e_c_t_i_o_n.html" title=" " alt="" coords="342,528,492,571"/>
+<area shape="rect" id="Node000003" href="$group___i2_c___x_f_e_r_o_p_t_i_o_n_s.html" title=" " alt="" coords="338,595,496,637"/>
+</map>

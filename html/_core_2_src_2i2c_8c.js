@@ -1,0 +1,27 @@
+var _core_2_src_2i2c_8c =
+[
+    [ "CH1_I2C_SCL", "_core_2_src_2i2c_8c.html#ad2ffc8f9c2e2f3961eb8cb647afe5ff3", null ],
+    [ "CH1_I2C_SDA", "_core_2_src_2i2c_8c.html#adea4767228f32b25512e733d3f868677", null ],
+    [ "CH2_I2C_SCL", "_core_2_src_2i2c_8c.html#a5f230bd5d71454a5dffe475f7e71284e", null ],
+    [ "CH2_I2C_SDA", "_core_2_src_2i2c_8c.html#a5e0c5a829b8a80f8d7b1a53c5fcf706d", null ],
+    [ "I2C_ACK_BIT", "_core_2_src_2i2c_8c.html#ace96f3e3550d1218c36a7d1e20e07cb3", null ],
+    [ "I2C_DAT_BIT", "_core_2_src_2i2c_8c.html#a0fd432282004e8d197568a6932c713bd", null ],
+    [ "SCL", "_core_2_src_2i2c_8c.html#a7513d0c23d7b240b907009f3ff356825", null ],
+    [ "SCL_H", "_core_2_src_2i2c_8c.html#ad66ddff97503aec28d0063ea44b1ba54", null ],
+    [ "SCL_L", "_core_2_src_2i2c_8c.html#ad30a784e76af403e4ef15fc9343b2331", null ],
+    [ "SDA", "_core_2_src_2i2c_8c.html#a55f959e1e7716e329832ec996fd30fbe", null ],
+    [ "SDA_H", "_core_2_src_2i2c_8c.html#ab6f0233728f565f3548adc2f75cd4263", null ],
+    [ "SDA_L", "_core_2_src_2i2c_8c.html#a70238d8eb466b48e98cf5b4ac921ce0c", null ],
+    [ "HAL_I2C_MspDeInit", "group___i2_c___exported___functions___group1.html#ga2ec8d9b09854c732e2feed549278f048", null ],
+    [ "HAL_I2C_MspInit", "group___i2_c___exported___functions___group1.html#gabe01a202c27b23fc150aa66af3130073", null ],
+    [ "I2C2_ER_IRQHandler", "_core_2_src_2i2c_8c.html#aecd40b8012604ac4236bda3f65857c37", null ],
+    [ "I2C2_EV_IRQHandler", "_core_2_src_2i2c_8c.html#abdb05db0781544b33e806a12940d062c", null ],
+    [ "I2C_GPIO_Read_Func", "_core_2_src_2i2c_8c.html#a368bd3916326b9fbd5bb9cbd3a76f49c", null ],
+    [ "I2C_GPIO_Read_SDRAM", "_core_2_src_2i2c_8c.html#abbb09c1f364dcc3f5fb987031a812eb1", null ],
+    [ "I2C_GPIO_Write_Func", "_core_2_src_2i2c_8c.html#a139824529d7e20774dc0dea95c216b27", null ],
+    [ "MX_I2C2_Init", "_core_2_src_2i2c_8c.html#a021114cd02d4beb0b256095cfbd088b2", null ],
+    [ "MX_I2C4_Init", "_core_2_src_2i2c_8c.html#aff347bba84984e13d80fbd89994ef3f7", null ],
+    [ "hi2c2", "_core_2_src_2i2c_8c.html#ac379bcc152d860f08b1279fd3e232295", null ],
+    [ "hi2c4", "_core_2_src_2i2c_8c.html#a818789480a74b70bbcaf6d73e8e763ed", null ],
+    [ "I2C_Port", "_core_2_src_2i2c_8c.html#a2f8dfe62ef8bcc6bb39e1a5dfdcff27f", null ]
+];

@@ -1,0 +1,7 @@
+<map id="HAL_DMA_IRQHandler" name="HAL_DMA_IRQHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="269,31,429,57"/>
+<area shape="rect" id="Node000002" href="$stm32h5xx__it_8c.html#ae478869b219c74c487ac1ede2a02ad0a" title="This function handles GPDMA1 Channel 0 global interrupt." alt="" coords="5,5,221,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,36,221,33,222,28,254,31"/>
+<area shape="rect" id="Node000003" href="$stm32h5xx__it_8c.html#ad5627b94dd398dd2426b93e80c49a0ea" title="This function handles GPDMA2 Channel 0 global interrupt." alt="" coords="5,56,221,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,57,222,60,221,55,253,52"/>
+</map>

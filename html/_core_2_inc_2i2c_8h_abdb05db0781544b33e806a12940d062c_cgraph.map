@@ -1,0 +1,5 @@
+<map id="I2C2_EV_IRQHandler" name="I2C2_EV_IRQHandler">
+<area shape="rect" id="Node000001" title="This function handles I2C2 Event interrupt." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="Node000002" href="$group___i2_c___i_r_q___handler__and___callbacks.html#ga0cd3cc56c83b85a65e31c945c854d9d5" title=" " alt="" coords="204,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,16,188,16,188,21,156,21"/>
+</map>

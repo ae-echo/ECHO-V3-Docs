@@ -1,0 +1,5 @@
+<map id="ADC_InitTypeDef" name="ADC_InitTypeDef">
+<area shape="rect" id="Node000001" title="Structure definition of ADC instance and ADC group regular." alt="" coords="8,203,178,485"/>
+<area shape="rect" id="Node000002" href="$struct_a_d_c___oversampling_type_def.html" title="ADC group regular oversampling structure definition." alt="" coords="5,5,181,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,139,96,186,90,186,90,139"/>
+</map>

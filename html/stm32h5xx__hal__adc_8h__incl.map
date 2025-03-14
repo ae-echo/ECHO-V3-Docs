@@ -1,0 +1,20 @@
+<map id="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_adc.h" name="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_adc.h">
+<area shape="rect" id="Node000001" title="Header file of ADC HAL module." alt="" coords="26,5,224,64"/>
+<area shape="rect" id="Node000002" href="$stm32h5xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="171,187,316,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,64,137,101,154,137,175,159,201,177,198,181,172,164,149,140,131,102,124,65"/>
+<area shape="rect" id="Node000007" href="$stm32h5xx__ll__adc_8h.html" title="Header file of ADC LL module." alt="" coords="5,187,143,213"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="118,65,85,173,80,171,113,64"/>
+<area shape="rect" id="Node000008" href="$stm32h5xx__hal__adc__ex_8h.html" title="Header file of ADC HAL extended module." alt="" coords="163,112,332,139"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="166,62,219,100,216,105,163,67"/>
+<area shape="rect" id="Node000003" href="$stm32h5xx_8h.html" title="CMSIS STM32H5xx Device Peripheral Access Layer Header File." alt="" coords="26,261,122,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,216,119,257,117,252,213,211"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="86,336,147,363"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="232,216,187,263,137,326,132,322,183,260,228,212"/>
+<area shape="rect" id="Node000005" href="$stm32__hal__legacy_8h.html" title="This file contains aliases definition for the STM32Cube HAL constants macros and functions maintained..." alt="" coords="196,261,378,288"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="253,212,274,247,270,249,249,215"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="402,261,471,288"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="278,211,390,253,388,258,276,216"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="84,287,104,321,99,324,79,290"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="77,214,77,246,71,246,71,214"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="249,139,248,171,242,171,244,139"/>
+</map>

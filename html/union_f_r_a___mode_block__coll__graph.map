@@ -1,0 +1,16 @@
+<map id="FRA_ModeBlock" name="FRA_ModeBlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="246,651,356,720"/>
+<area shape="rect" id="Node000002" href="$struct_f_r_a___single___mode.html" title=" " alt="" coords="5,261,125,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,542,139,585,160,606,183,624,232,653,230,658,180,628,156,610,135,588,107,545"/>
+<area shape="rect" id="Node000003" href="$struct_f_r_a___result.html" title=" " alt="" coords="233,5,334,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,115,186,163,139,220,123,248,119,245,135,217,182,159,232,112"/>
+<area shape="rect" id="Node000004" href="$struct_f_r_a___single_plus___mode.html" title=" " alt="" coords="150,261,295,544"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="274,139,254,245,249,244,269,138"/>
+<area shape="rect" id="Node000005" href="$struct_f_r_a___scan___mode.html" title=" " alt="" coords="320,219,440,587"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="321,137,330,162,343,202,338,203,325,164,316,139"/>
+<area shape="rect" id="Node000006" href="$struct_f_r_a___p_m_plus___mode.html" title=" " alt="" coords="464,261,608,544"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="336,107,402,161,430,187,454,217,471,245,467,248,450,220,426,190,398,165,332,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,543,252,585,266,626,270,635,265,637,261,628,247,587,236,544"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="353,588,340,628,335,637,331,635,335,626,348,586"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="484,545,454,588,415,624,372,652,369,648,412,620,450,585,480,542"/>
+</map>

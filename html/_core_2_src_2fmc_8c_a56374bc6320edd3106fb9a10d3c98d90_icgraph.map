@@ -1,0 +1,11 @@
+<map id="SDRAM_Initialization_Sequence" name="SDRAM_Initialization_Sequence">
+<area shape="rect" id="Node000001" title=" " alt="" coords="508,5,654,48"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2fmc_8c.html#a936ce86e5942959eae5a834612ecffaa" title=" " alt="" coords="357,13,460,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,29,460,29,460,24,492,24"/>
+<area shape="rect" id="Node000003" href="$_m_c_a_l_2_src_2fmc_8c.html#aaa320b064396e6f578b71da1516377cd" title=" " alt="" coords="234,13,309,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,29,310,29,310,24,342,24"/>
+<area shape="rect" id="Node000004" href="$_m_c_a_l___common_8c.html#a97f3a85b9fd46d539b615b22ff7ef437" title=" " alt="" coords="103,13,186,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="218,29,186,29,186,24,218,24"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,29,55,29,55,24,87,24"/>
+</map>

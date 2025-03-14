@@ -1,0 +1,10 @@
+<map id="DWIC_MAPPING" name="DWIC_MAPPING">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,507,151,576"/>
+<area shape="rect" id="Node000002" href="$struct_d_w_i_c___b_a_s_e___c_t_r_l.html" title=" " alt="" coords="5,5,138,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,309,87,442,91,490,85,490,82,443,74,309"/>
+<area shape="rect" id="Node000003" href="$struct_d_w_i_c___extended.html" title=" " alt="" coords="126,373,236,443"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="127,308,146,348,151,358,146,360,141,351,122,310"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,444,127,494,123,491,156,441"/>
+<area shape="rect" id="Node000004" href="$struct_d_w_i_c___feature.html" title=" " alt="" coords="162,112,261,203"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="209,203,190,357,185,357,204,202"/>
+</map>

@@ -1,0 +1,104 @@
+<map id="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_rcc.h" name="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_rcc.h">
+<area shape="rect" id="Node000001" title="Header file of RCC HAL module." alt="" coords="4347,5,4546,64"/>
+<area shape="rect" id="Node000002" href="$stm32h5xx__hal__conf_8h.html" title="HAL configuration file." alt="" coords="4348,112,4545,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4449,79,4449,112,4444,112,4444,79"/>
+<area shape="rect" id="Node000003" href="$stm32h5xx__hal_8h.html" title="This file contains all the functions prototypes for the HAL module driver." alt="" coords="4336,203,4557,245"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="4449,170,4449,202,4444,202,4444,170"/>
+<area shape="rect" id="Node000004" href="$ssd1306_8h.html" title=" " alt="" coords="202,309,398,336"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="4320,228,3580,228,2466,236,1876,244,1319,256,838,273,475,296,365,311,364,306,474,291,837,268,1319,251,1876,239,2466,231,3580,223,4320,222"/>
+<area shape="rect" id="Node000025" href="$_core_2_inc_2gpio_8h.html" title=" " alt="" coords="373,408,541,435"/>
+<area shape="poly" id="edge9_Node000003_Node000025" title=" " alt="" coords="4320,228,3704,232,2807,242,1892,262,1509,277,1220,296,1016,320,815,352,515,410,514,405,814,347,1015,315,1219,291,1509,272,1892,257,2807,237,3704,226,4320,223"/>
+<area shape="rect" id="Node000026" href="$main_8h.html" title=": Header for main.c file. This file contains the common defines of the application." alt="" coords="1232,309,1404,336"/>
+<area shape="poly" id="edge10_Node000003_Node000026" title=" " alt="" coords="4320,229,3681,235,2776,247,1916,267,1602,281,1416,296,1355,311,1353,306,1415,291,1601,275,1916,262,2775,242,3681,230,4320,224"/>
+<area shape="rect" id="Node000058" href="$stm32h5xx__hal_8c.html" title="HAL module driver. This is the common part of the HAL initialization." alt="" coords="1428,301,1651,344"/>
+<area shape="poly" id="edge23_Node000003_Node000058" title=" " alt="" coords="4320,228,3780,229,3012,237,2610,246,2234,258,1909,274,1664,296,1621,303,1620,298,1663,291,1909,269,2234,253,2610,240,3012,232,3780,224,4320,222"/>
+<area shape="rect" id="Node000059" href="$stm32h5xx__hal__adc_8c.html" title="This file provides firmware functions to manage the following functionalities of the Analog to Digita..." alt="" coords="1675,293,1874,352"/>
+<area shape="poly" id="edge24_Node000003_Node000059" title=" " alt="" coords="4320,228,3819,229,3115,237,2749,246,2406,258,2110,274,1887,296,1874,298,1873,293,1886,291,2110,269,2405,252,2749,240,3115,232,3819,224,4320,222"/>
+<area shape="rect" id="Node000060" href="$stm32h5xx__hal__adc__ex_8c.html" title="This file provides firmware functions to manage the following functionalities of the Analog to Digita..." alt="" coords="1898,293,2096,352"/>
+<area shape="poly" id="edge25_Node000003_Node000060" title=" " alt="" coords="4320,228,3857,231,3219,240,2888,249,2578,260,2311,276,2109,296,2097,298,2096,293,2109,291,2311,271,2578,255,2887,243,3218,235,3857,225,4320,223"/>
+<area shape="rect" id="Node000061" href="$stm32h5xx__hal__cortex_8c.html" title="CORTEX HAL module driver. This file provides firmware functions to manage the following functionaliti..." alt="" coords="2120,293,2319,352"/>
+<area shape="poly" id="edge26_Node000003_Node000061" title=" " alt="" coords="4320,229,3898,232,3323,243,2751,263,2512,278,2332,296,2319,298,2319,293,2331,291,2512,272,2750,258,3323,238,3898,227,4320,223"/>
+<area shape="rect" id="Node000062" href="$stm32h5xx__hal__dac_8c.html" title="DAC HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="2343,293,2542,352"/>
+<area shape="poly" id="edge27_Node000003_Node000062" title=" " alt="" coords="4320,229,3938,234,3428,246,2923,266,2714,279,2555,296,2542,298,2541,293,2554,291,2713,274,2923,260,3428,240,3938,229,4320,224"/>
+<area shape="rect" id="Node000063" href="$stm32h5xx__hal__dac__ex_8c.html" title="Extended DAC HAL module driver. This file provides firmware functions to manage the extended function..." alt="" coords="2566,293,2764,352"/>
+<area shape="poly" id="edge28_Node000003_Node000063" title=" " alt="" coords="4321,230,3980,236,3535,249,3097,268,2915,281,2777,296,2765,298,2764,293,2777,291,2915,276,3096,263,3534,244,3980,231,4320,224"/>
+<area shape="rect" id="Node000064" href="$stm32h5xx__hal__dcache_8c.html" title="DCACHE HAL module driver. This file provides firmware functions to manage the following functionaliti..." alt="" coords="2788,293,2987,352"/>
+<area shape="poly" id="edge29_Node000003_Node000064" title=" " alt="" coords="4321,231,3641,252,3270,271,3117,283,3000,296,2987,298,2987,293,2999,291,3116,277,3270,266,3641,247,4320,225"/>
+<area shape="rect" id="Node000065" href="$stm32h5xx__hal__dma_8c.html" title="This file provides firmware functions to manage the following functionalities of the Direct Memory Ac..." alt="" coords="3011,293,3210,352"/>
+<area shape="poly" id="edge30_Node000003_Node000065" title=" " alt="" coords="4320,227,4110,230,3837,239,3530,260,3375,276,3223,296,3210,298,3209,293,3222,291,3374,270,3530,255,3836,234,4110,224,4320,222"/>
+<area shape="rect" id="Node000066" href="$stm32h5xx__hal__dma__ex_8c.html" title="DMA Extension HAL module driver This file provides firmware functions to manage the following functio..." alt="" coords="3234,293,3432,352"/>
+<area shape="poly" id="edge31_Node000003_Node000066" title=" " alt="" coords="4320,229,4147,234,3928,246,3687,265,3445,296,3433,298,3432,293,3445,291,3686,260,3928,240,4147,229,4320,224"/>
+<area shape="rect" id="Node000067" href="$stm32h5xx__hal__exti_8c.html" title="EXTI HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="3456,293,3655,352"/>
+<area shape="poly" id="edge32_Node000003_Node000067" title=" " alt="" coords="4321,233,4022,253,3845,271,3668,296,3656,298,3655,293,3667,291,3844,266,4021,248,4320,228"/>
+<area shape="rect" id="Node000068" href="$stm32h5xx__hal__flash_8c.html" title="FLASH HAL module driver. This file provides firmware functions to manage the following functionalitie..." alt="" coords="3679,293,3878,352"/>
+<area shape="poly" id="edge33_Node000003_Node000068" title=" " alt="" coords="4321,239,4118,261,3891,296,3878,298,3877,293,3890,291,4117,256,4320,234"/>
+<area shape="rect" id="Node000069" href="$stm32h5xx__hal__flash__ex_8c.html" title="Extended FLASH HAL module driver. This file provides firmware functions to manage the following funct..." alt="" coords="3902,293,4100,352"/>
+<area shape="poly" id="edge34_Node000003_Node000069" title=" " alt="" coords="4325,252,4114,296,4101,299,4100,294,4112,291,4324,246"/>
+<area shape="rect" id="Node000070" href="$stm32h5xx__hal__gpio_8c.html" title="GPIO HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="4124,293,4323,352"/>
+<area shape="poly" id="edge35_Node000003_Node000070" title=" " alt="" coords="4386,254,4291,295,4289,290,4384,249"/>
+<area shape="rect" id="Node000071" href="$stm32h5xx__hal__i2c_8c.html" title="I2C HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="4347,293,4546,352"/>
+<area shape="poly" id="edge36_Node000003_Node000071" title=" " alt="" coords="4449,261,4449,293,4444,293,4444,261"/>
+<area shape="rect" id="Node000072" href="$stm32h5xx__hal__i2c__ex_8c.html" title="I2C Extended HAL module driver. This file provides firmware functions to manage the following functio..." alt="" coords="4570,293,4768,352"/>
+<area shape="poly" id="edge37_Node000003_Node000072" title=" " alt="" coords="4509,249,4604,290,4602,295,4507,254"/>
+<area shape="rect" id="Node000073" href="$stm32h5xx__hal__i3c_8c.html" title="I3C HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="4792,293,4991,352"/>
+<area shape="poly" id="edge38_Node000003_Node000073" title=" " alt="" coords="4569,246,4780,291,4793,294,4792,299,4779,296,4568,252"/>
+<area shape="rect" id="Node000074" href="$stm32h5xx__hal__icache_8c.html" title="ICACHE HAL module driver. This file provides firmware functions to manage the following functionaliti..." alt="" coords="5015,293,5214,352"/>
+<area shape="poly" id="edge39_Node000003_Node000074" title=" " alt="" coords="4573,234,4775,256,5003,291,5015,293,5014,298,5002,296,4775,261,4572,239"/>
+<area shape="rect" id="Node000075" href="$stm32h5xx__hal__nand_8c.html" title="NAND HAL module driver. This file provides a generic firmware to drive NAND memories mounted as exter..." alt="" coords="5238,293,5436,352"/>
+<area shape="poly" id="edge40_Node000003_Node000075" title=" " alt="" coords="4573,228,4871,248,5049,266,5225,291,5238,293,5237,298,5225,296,5048,271,4871,253,4572,233"/>
+<area shape="rect" id="Node000076" href="$stm32h5xx__hal__nor_8c.html" title="NOR HAL module driver. This file provides a generic firmware to drive NOR memories mounted as externa..." alt="" coords="5460,293,5659,352"/>
+<area shape="poly" id="edge41_Node000003_Node000076" title=" " alt="" coords="4573,224,4746,229,4965,240,5206,260,5448,291,5461,293,5460,298,5447,296,5206,265,4964,246,4746,234,4572,229"/>
+<area shape="rect" id="Node000077" href="$stm32h5xx__hal__pwr_8c.html" title="PWR HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="5683,293,5882,352"/>
+<area shape="poly" id="edge42_Node000003_Node000077" title=" " alt="" coords="4573,222,4783,224,5056,234,5363,255,5519,270,5671,291,5683,293,5683,298,5670,296,5518,276,5362,260,5056,239,4783,230,4573,227"/>
+<area shape="rect" id="Node000078" href="$stm32h5xx__hal__pwr__ex_8c.html" title="Extended PWR HAL module driver. This file provides firmware functions to manage the following functio..." alt="" coords="5906,293,6104,352"/>
+<area shape="poly" id="edge43_Node000003_Node000078" title=" " alt="" coords="4572,225,5252,247,5623,266,5776,277,5893,291,5906,293,5905,298,5893,296,5776,283,5622,271,5251,252,4572,231"/>
+<area shape="rect" id="Node000079" href="$stm32h5xx__hal__rcc_8c.html" title="RCC HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="6128,293,6327,352"/>
+<area shape="poly" id="edge44_Node000003_Node000079" title=" " alt="" coords="4572,224,4913,231,5358,244,5796,263,5978,276,6116,291,6129,293,6128,298,6115,296,5977,281,5796,268,5358,249,4913,236,4572,230"/>
+<area shape="rect" id="Node000080" href="$stm32h5xx__hal__rcc__ex_8c.html" title="Extended RCC HAL module driver. This file provides firmware functions to manage the following functio..." alt="" coords="6351,293,6550,352"/>
+<area shape="poly" id="edge45_Node000003_Node000080" title=" " alt="" coords="4573,224,4955,229,5465,240,5970,260,6179,274,6339,291,6351,293,6351,298,6338,296,6179,279,5969,266,5464,246,4955,234,4573,229"/>
+<area shape="rect" id="Node000081" href="$stm32h5xx__hal__sdram_8c.html" title="SDRAM HAL module driver. This file provides a generic firmware to drive SDRAM memories mounted as ext..." alt="" coords="6574,293,6772,352"/>
+<area shape="poly" id="edge46_Node000003_Node000081" title=" " alt="" coords="4572,223,4995,227,5569,238,6142,258,6381,272,6561,291,6574,293,6573,298,6561,296,6380,278,6142,263,5569,243,4995,232,4572,229"/>
+<area shape="rect" id="Node000082" href="$stm32h5xx__hal__sram_8c.html" title="SRAM HAL module driver. This file provides a generic firmware to drive SRAM memories mounted as exter..." alt="" coords="6796,293,6995,352"/>
+<area shape="poly" id="edge47_Node000003_Node000082" title=" " alt="" coords="4573,223,5035,225,5674,235,6005,243,6315,255,6582,271,6784,291,6797,293,6796,298,6783,296,6582,276,6315,260,6005,249,5674,240,5035,231,4573,228"/>
+<area shape="rect" id="Node000083" href="$stm32h5xx__hal__tim_8c.html" title="TIM HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="7019,293,7218,352"/>
+<area shape="poly" id="edge48_Node000003_Node000083" title=" " alt="" coords="4572,222,5074,224,5778,232,6144,240,6487,252,6783,269,7007,291,7019,293,7019,298,7006,296,6783,274,6487,258,6144,246,5777,237,5074,229,4572,228"/>
+<area shape="rect" id="Node000084" href="$stm32h5xx__hal__tim__ex_8c.html" title="TIM HAL module driver. This file provides firmware functions to manage the following functionalities ..." alt="" coords="7242,293,7440,352"/>
+<area shape="poly" id="edge49_Node000003_Node000084" title=" " alt="" coords="4573,222,5113,222,5881,229,6283,237,6659,250,6984,267,7229,291,7242,293,7241,298,7229,296,6984,273,6659,255,6283,243,5881,234,5113,227,4573,227"/>
+<area shape="rect" id="Node000085" href="$stm32h5xx__hal__uart_8c.html" title="UART HAL module driver. This file provides firmware functions to manage the following functionalities..." alt="" coords="7464,293,7663,352"/>
+<area shape="poly" id="edge50_Node000003_Node000085" title=" " alt="" coords="4573,224,5207,231,6104,245,6956,265,7267,277,7452,291,7465,293,7464,298,7451,296,7267,282,6955,270,6104,250,5207,236,4573,229"/>
+<area shape="rect" id="Node000086" href="$stm32h5xx__hal__uart__ex_8c.html" title="Extended UART HAL module driver. This file provides firmware functions to manage the following extend..." alt="" coords="7687,293,7886,352"/>
+<area shape="poly" id="edge51_Node000003_Node000086" title=" " alt="" coords="4573,224,5249,230,6216,243,7137,263,7475,276,7675,291,7687,293,7687,298,7674,296,7475,281,7137,269,6216,249,5249,236,4573,229"/>
+<area shape="rect" id="Node000087" href="$stm32h5xx__ll__fmc_8c.html" title="FMC Low Layer HAL module driver." alt="" coords="7910,293,8108,352"/>
+<area shape="poly" id="edge52_Node000003_Node000087" title=" " alt="" coords="4573,223,5291,229,6328,242,7319,262,7682,275,7897,291,7910,293,7909,298,7897,296,7682,281,7318,267,6328,247,5291,235,4573,229"/>
+<area shape="rect" id="Node000005" href="$_o_l_e_d_8h.html" title=" " alt="" coords="5,491,189,517"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="192,343,141,366,120,382,102,401,92,423,90,447,96,490,91,491,85,448,87,422,97,399,116,378,139,361,190,338"/>
+<area shape="rect" id="Node000022" href="$ssd1306__fonts_8h.html" title=" " alt="" coords="112,400,298,443"/>
+<area shape="poly" id="edge5_Node000004_Node000022" title=" " alt="" coords="279,349,227,401,223,398,275,345"/>
+<area shape="rect" id="Node000023" href="$ssd1306_8c.html" title=" " alt="" coords="224,491,423,517"/>
+<area shape="poly" id="edge8_Node000004_Node000023" title=" " alt="" coords="306,351,325,490,319,491,301,352"/>
+<area shape="poly" id="edge6_Node000022_Node000005" title=" " alt="" coords="166,455,116,492,112,488,163,450"/>
+<area shape="poly" id="edge7_Node000022_Node000023" title=" " alt="" coords="249,449,307,488,304,492,246,454"/>
+<area shape="poly" id="edge15_Node000026_Node000025" title=" " alt="" coords="1217,333,919,358,737,378,555,403,514,410,513,405,554,397,737,373,919,353,1217,328"/>
+<area shape="rect" id="Node000016" href="$_l_d_o_8h.html" title=" " alt="" coords="566,408,740,435"/>
+<area shape="poly" id="edge11_Node000026_Node000016" title=" " alt="" coords="1217,338,1003,365,752,403,712,410,711,405,751,397,1002,360,1216,333"/>
+<area shape="rect" id="Node000027" href="$_core_2_inc_2adc_8h.html" title=" " alt="" coords="764,408,929,435"/>
+<area shape="poly" id="edge12_Node000026_Node000027" title=" " alt="" coords="1241,342,942,403,906,410,905,405,940,397,1240,337"/>
+<area shape="rect" id="Node000028" href="$_core_2_inc_2dac_8h.html" title=" " alt="" coords="953,408,1118,435"/>
+<area shape="poly" id="edge13_Node000026_Node000028" title=" " alt="" coords="1268,344,1073,410,1072,405,1266,339"/>
+<area shape="rect" id="Node000029" href="$_core_2_inc_2fmc_8h.html" title=" " alt="" coords="1142,408,1308,435"/>
+<area shape="poly" id="edge14_Node000026_Node000029" title=" " alt="" coords="1298,349,1239,410,1235,406,1294,345"/>
+<area shape="rect" id="Node000030" href="$_core_2_inc_2i2c_8h.html" title=" " alt="" coords="1332,408,1494,435"/>
+<area shape="poly" id="edge16_Node000026_Node000030" title=" " alt="" coords="1343,345,1403,406,1399,410,1339,349"/>
+<area shape="rect" id="Node000031" href="$_core_2_inc_2i3c_8h.html" title=" " alt="" coords="1518,408,1679,435"/>
+<area shape="poly" id="edge17_Node000026_Node000031" title=" " alt="" coords="1370,339,1563,405,1561,410,1369,344"/>
+<area shape="rect" id="Node000032" href="$_core_2_inc_2time_8h.html" title=" " alt="" coords="1703,408,1872,435"/>
+<area shape="poly" id="edge18_Node000026_Node000032" title=" " alt="" coords="1374,338,1416,349,1554,375,1692,397,1729,405,1728,410,1691,403,1553,380,1415,355,1372,343"/>
+<area shape="rect" id="Node000033" href="$_core_2_inc_2uart_8h.html" title=" " alt="" coords="1896,408,2063,435"/>
+<area shape="poly" id="edge19_Node000026_Node000033" title=" " alt="" coords="1371,338,1416,349,1547,369,1650,376,1753,382,1885,397,1925,405,1924,410,1885,403,1753,387,1650,381,1546,374,1415,355,1370,344"/>
+<area shape="rect" id="Node000034" href="$_core_2_src_2i2c_8c.html" title=" " alt="" coords="2087,408,2251,435"/>
+<area shape="poly" id="edge20_Node000026_Node000034" title=" " alt="" coords="1371,338,1416,349,1515,365,1600,373,1744,377,1890,380,1975,386,2075,397,2116,405,2115,410,2074,403,1974,391,1889,385,1744,383,1599,378,1515,370,1415,355,1369,344"/>
+<area shape="rect" id="Node000009" href="$main_8c.html" title=": Main program body" alt="" coords="2275,408,2450,435"/>
+<area shape="poly" id="edge21_Node000026_Node000009" title=" " alt="" coords="1370,338,1416,349,1544,368,1652,377,1748,380,1838,379,2025,379,2134,384,2263,397,2307,405,2306,410,2262,403,2134,389,2025,384,1838,384,1748,385,1652,382,1543,373,1415,355,1368,344"/>
+<area shape="rect" id="Node000035" href="$stm32h5xx__hal__msp_8c.html" title="This file provides code for the MSP Initialization and de&#45;Initialization codes." alt="" coords="2473,400,2673,443"/>
+<area shape="poly" id="edge22_Node000026_Node000035" title=" " alt="" coords="1369,338,1416,349,1574,371,1708,381,1826,384,1937,382,2167,379,2302,384,2461,397,2473,399,2473,404,2461,403,2302,389,2167,384,1937,388,1826,389,1707,387,1573,376,1415,355,1368,344"/>
+</map>

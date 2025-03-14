@@ -1,0 +1,11 @@
+<map id="MX_I3C1_Init" name="MX_I3C1_Init">
+<area shape="rect" id="Node000001" title="I3C1 Initialization Function." alt="" coords="5,81,107,108"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="185,5,286,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,78,154,42,171,35,173,40,156,46,82,83"/>
+<area shape="rect" id="Node000003" href="$group___i3_c___exported___functions___group3.html#gadd5cbc545ecba9f1c8bcda95b22fcb9c" title=" " alt="" coords="162,56,310,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,85,146,79,147,85,108,90"/>
+<area shape="rect" id="Node000004" href="$group___i3_c___exported___functions___group1.html#gaeedf840786e308b7b53045152fc8b494" title=" " alt="" coords="186,107,286,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="108,99,171,108,170,113,107,104"/>
+<area shape="rect" id="Node000005" href="$group___i3_c___exported___functions___group3.html#ga05a7dc7e9ab11249e8ec994b14e5df88" title=" " alt="" coords="155,157,317,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,106,156,143,173,149,171,154,154,148,80,111"/>
+</map>

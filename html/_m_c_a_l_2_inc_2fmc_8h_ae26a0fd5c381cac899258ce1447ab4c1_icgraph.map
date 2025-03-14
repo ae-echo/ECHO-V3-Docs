@@ -1,0 +1,7 @@
+<map id="FMC_Write" name="FMC_Write">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,5,531,32"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2i2c_8c.html#abbb09c1f364dcc3f5fb987031a812eb1" title=" " alt="" coords="220,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,21,396,21,396,16,428,16"/>
+<area shape="rect" id="Node000003" href="$_m_c_a_l_2_src_2i2c_8c.html#a55104f6eac279a9a5c8e26e516b5066e" title="I2C 연속 데이터 읽기 (SDRAM 저장용)" alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,21,172,21,172,16,204,16"/>
+</map>

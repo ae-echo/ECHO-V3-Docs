@@ -1,0 +1,17 @@
+<map id="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_rcc.h" name="Firmware/Drivers/STM32H5xx_HAL_Driver/Inc/stm32h5xx_hal_rcc.h">
+<area shape="rect" id="Node000001" title="Header file of RCC HAL module." alt="" coords="104,5,302,64"/>
+<area shape="rect" id="Node000002" href="$stm32h5xx__hal__def_8h.html" title="This file contains HAL common defines, enumeration, macros and structures definitions." alt="" coords="130,187,276,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,65,172,100,169,119,171,138,187,173,182,175,166,139,163,119,167,99,181,63"/>
+<area shape="rect" id="Node000007" href="$stm32h5xx__hal__rcc__ex_8h.html" title="Header file of RCC HAL Extended module." alt="" coords="180,112,346,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="224,63,248,98,244,101,220,66"/>
+<area shape="rect" id="Node000003" href="$stm32h5xx_8h.html" title="CMSIS STM32H5xx Device Peripheral Access Layer Header File." alt="" coords="5,261,102,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,216,95,256,92,252,176,211"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,336,127,363"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="196,215,116,325,112,322,192,212"/>
+<area shape="rect" id="Node000005" href="$stm32__hal__legacy_8h.html" title="This file contains aliases definition for the STM32Cube HAL constants macros and functions maintained..." alt="" coords="176,261,358,288"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="216,212,248,248,244,251,212,216"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="382,261,450,288"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="241,211,368,254,367,259,239,216"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="63,287,83,321,79,324,59,290"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="254,141,225,177,221,173,250,138"/>
+</map>

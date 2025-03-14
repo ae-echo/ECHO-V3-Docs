@@ -1,0 +1,13 @@
+<map id="HAL_RCCEx_PeriphCLKConfig" name="HAL_RCCEx_PeriphCLKConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,107,402,133"/>
+<area shape="rect" id="Node000002" href="$group___a_d_c___exported___functions___group1.html#gaa30863492d5c3103e3e8ce8a63dadd07" title="ADC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="9,5,142,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,101,145,46,116,35,118,30,147,42,259,97"/>
+<area shape="rect" id="Node000003" href="$_core_2_src_2dac_8c.html#acd409f887681168e93817e8a5485d74b" title="DAC MSP Initialization This function configures the hardware resources used in this example." alt="" coords="9,56,142,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,105,137,86,138,81,222,100"/>
+<area shape="rect" id="Node000004" href="$group___i2_c___exported___functions___group1.html#gabe01a202c27b23fc150aa66af3130073" title="I2C MSP Initialization This function configures the hardware resources used in this example." alt="" coords="13,107,138,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,123,138,123,138,117,178,117"/>
+<area shape="rect" id="Node000005" href="$group___i3_c___exported___functions___group1.html#gacaf3db05fd8aa6ae5498df0b9488dab0" title="I3C MSP Initialization This function configures the hardware resources used in this example." alt="" coords="13,157,138,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="222,140,138,159,137,154,220,135"/>
+<area shape="rect" id="Node000006" href="$group___u_a_r_t___exported___functions___group1.html#ga0e553b32211877322f949b14801bbfa7" title="UART MSP Initialization This function configures the hardware resources used in this example." alt="" coords="5,208,146,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="259,143,147,198,118,210,116,205,145,194,257,139"/>
+</map>

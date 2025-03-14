@@ -1,0 +1,21 @@
+<map id="__UART_HandleTypeDef" name="__UART_HandleTypeDef">
+<area shape="rect" id="Node000001" title="UART handle Structure definition." alt="" coords="212,992,369,1275"/>
+<area shape="rect" id="Node000002" href="$struct_u_s_a_r_t___type_def.html" title="Universal Synchronous Asynchronous Receiver Transmitter." alt="" coords="5,608,117,912"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,888,131,911,204,1019,200,1022,127,913,115,891"/>
+<area shape="rect" id="Node000003" href="$struct_u_a_r_t___init_type_def.html" title="UART Init Structure definition." alt="" coords="141,640,262,880"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,879,255,975,250,976,227,880"/>
+<area shape="rect" id="Node000004" href="$struct_u_a_r_t___adv_feature_init_type_def.html" title="UART Advanced Features initialization structure definition." alt="" coords="286,629,474,891"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,891,331,977,326,975,346,890"/>
+<area shape="rect" id="Node000005" href="$struct_____d_m_a___handle_type_def.html" title="DMA handle Structure definition." alt="" coords="497,629,649,891"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="502,892,487,914,436,979,382,1040,378,1037,432,976,483,910,498,889"/>
+<area shape="rect" id="Node000006" href="$struct_d_m_a___channel___type_def.html" title=" " alt="" coords="229,176,381,544"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="383,527,395,542,418,563,440,574,463,586,487,606,494,614,490,618,483,610,460,590,437,579,415,567,391,546,379,530"/>
+<area shape="rect" id="Node000007" href="$struct_d_m_a___init_type_def.html" title="DMA Transfer Configuration Structure definition." alt="" coords="405,197,555,523"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="520,522,542,612,536,614,515,523"/>
+<area shape="rect" id="Node000008" href="$struct_d_m_a___init_linked_list_type_def.html" title="DMA Linked&#45;List Configuration Structure Definition." alt="" coords="578,283,752,437"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="650,438,609,614,604,612,645,436"/>
+<area shape="rect" id="Node000009" href="$struct_____d_m_a___q_list_type_def.html" title="DMAEx Linked&#45;List Queue Structure Definition." alt="" coords="776,293,917,427"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="825,427,799,486,766,545,716,613,663,674,659,671,712,610,762,543,794,484,820,425"/>
+<area shape="rect" id="Node000010" href="$struct_d_m_a___node_type_def.html" title="DMAEx Linked&#45;List Node Structure Definition." alt="" coords="783,5,910,96"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="849,96,849,276,844,276,844,96"/>
+</map>

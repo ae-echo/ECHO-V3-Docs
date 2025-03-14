@@ -1,0 +1,22 @@
+<map id="ssd1306_WriteChar" name="ssd1306_WriteChar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="802,31,937,57"/>
+<area shape="rect" id="Node000002" href="$ssd1306_8c.html#ac4cbd10dc54485513439a84d9b18c729" title=" " alt="" coords="613,31,754,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="786,47,754,47,754,41,786,41"/>
+<area shape="rect" id="Node000003" href="$_o_l_e_d_8c.html#ac0bd7ecb91940fe65eebeb0c64448eb7" title="OLED에 펌웨어 정보를 출력하는 함수" alt="" coords="408,5,549,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="597,36,549,30,550,25,598,31"/>
+<area shape="rect" id="Node000006" href="$_o_l_e_d_8c.html#a9403514332e9f828d90bd841d02e8187" title="OLED에 CH1 및 CH2의 전력 정보를 출력하는 함수" alt="" coords="392,56,565,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="598,57,566,61,565,56,597,52"/>
+<area shape="rect" id="Node000004" href="$_button_8c.html#adec7e6fab0320695eb22373977875f33" title=" " alt="" coords="255,5,344,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,21,345,21,345,16,393,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,26,174,33,103,47,56,62,54,57,102,41,173,28,240,20"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="413,54,344,34,345,29,415,49"/>
+<area shape="rect" id="Node000007" href="$_board_comm_cmd_8c.html#a56293852973c29d173fa0ae9d4310ae6" title=" " alt="" coords="103,56,207,83"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="377,72,208,72,208,67,377,67"/>
+<area shape="rect" id="Node000008" href="$_o_l_e_d_8c.html#a7372e46460a371e4d94a0ee7f5f1a1fd" title="OLED 디스플레이를 초기화하는 함수" alt="" coords="258,107,341,133"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="415,90,342,111,340,106,413,85"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+<area shape="rect" id="Node000009" href="$_b_s_w___common_8c.html#a32c0e9fbeb55a2599b7b0a6b0797d066" title=" " alt="" coords="116,107,194,133"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="243,123,194,123,194,117,243,117"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="105,103,54,82,56,77,107,98"/>
+</map>

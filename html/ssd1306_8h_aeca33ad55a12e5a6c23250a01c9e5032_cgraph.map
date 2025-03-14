@@ -1,0 +1,7 @@
+<map id="ssd1306_UpdateScreen" name="ssd1306_UpdateScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,166,57"/>
+<area shape="rect" id="Node000002" href="$ssd1306_8h.html#a15046f764dd1127bce472d5924356ba0" title=" " alt="" coords="214,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,32,198,28,198,33,166,37"/>
+<area shape="rect" id="Node000003" href="$ssd1306_8h.html#a0b365c4271ce6d5551e637de49bdc8a3" title=" " alt="" coords="230,56,365,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,51,214,57,214,62,166,56"/>
+</map>

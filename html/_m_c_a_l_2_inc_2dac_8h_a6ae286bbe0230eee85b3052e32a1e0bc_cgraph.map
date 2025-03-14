@@ -1,0 +1,7 @@
+<map id="DAC_Init" name="DAC_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,81,32"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2dac_8c.html#a412c7f55d05196232830230c74d702b2" title="DAC1 Initialization Function." alt="" coords="129,5,238,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,16,113,16,113,21,81,21"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="286,5,387,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,16,270,16,270,21,239,21"/>
+</map>

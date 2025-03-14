@@ -1,0 +1,11 @@
+<map id="DMA_NodeConfTypeDef" name="DMA_NodeConfTypeDef">
+<area shape="rect" id="Node000001" title="DMAEx Linked&#45;List Node Configuration Structure Definition." alt="" coords="308,395,464,528"/>
+<area shape="rect" id="Node000002" href="$struct_d_m_a___init_type_def.html" title="DMA Transfer Configuration Structure definition." alt="" coords="5,5,155,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,314,170,329,199,355,230,378,295,417,292,421,227,383,195,359,166,333,153,318"/>
+<area shape="rect" id="Node000003" href="$struct_d_m_a___data_handling_conf_type_def.html" title="DMAEx Data Handling Configuration Structure Definition." alt="" coords="180,123,384,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,212,307,287,334,370,338,378,333,380,329,372,302,289,286,214"/>
+<area shape="rect" id="Node000004" href="$struct_d_m_a___trigger_conf_type_def.html" title="DMAEx Trigger Configuration Structure Definition." alt="" coords="407,112,572,224"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="492,224,485,296,476,335,463,372,458,381,453,379,458,370,471,333,480,295,487,223"/>
+<area shape="rect" id="Node000005" href="$struct_d_m_a___repeat_block_conf_type_def.html" title="DMAEx Repeated Block Configuration Structure Definition." alt="" coords="596,91,796,245"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="660,247,618,312,592,344,563,373,523,402,480,426,478,421,520,398,560,369,588,340,614,309,656,244"/>
+</map>

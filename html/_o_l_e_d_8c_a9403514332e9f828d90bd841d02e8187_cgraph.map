@@ -1,0 +1,25 @@
+<map id="OLED_PowerInfo_Update" name="OLED_PowerInfo_Update">
+<area shape="rect" id="Node000001" title="OLED에 CH1 및 CH2의 전력 정보를 출력하는 함수" alt="" coords="5,132,178,159"/>
+<area shape="rect" id="Node000002" href="$_o_l_e_d_8c.html#ac2ba868dbe0f8d0e35e93d4a7a886032" title="OLED 화면을 갱신하는 함수" alt="" coords="226,5,373,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,129,159,91,224,48,248,36,250,41,227,53,162,95,111,134"/>
+<area shape="rect" id="Node000003" href="$ssd1306_8c.html#aeca33ad55a12e5a6c23250a01c9e5032" title=" " alt="" coords="421,49,581,76"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="122,129,170,110,225,92,317,75,406,65,406,70,318,80,226,97,171,115,124,134"/>
+<area shape="rect" id="Node000006" href="$ssd1306_8c.html#a77620914b6d1247e7515a36c38672391" title=" " alt="" coords="252,107,346,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,132,237,125,237,130,178,137"/>
+<area shape="rect" id="Node000007" href="$ssd1306_8c.html#a99529b2a48960312342d3c323aadcec8" title=" " alt="" coords="450,157,552,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="178,148,435,164,435,169,178,153"/>
+<area shape="rect" id="Node000009" href="$ssd1306_8c.html#a43b18d938dee01ee07fb8c364ea57996" title=" " alt="" coords="231,208,368,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="131,157,247,200,245,205,130,162"/>
+<area shape="rect" id="Node000010" href="$ssd1306_8c.html#ac4cbd10dc54485513439a84d9b18c729" title=" " alt="" coords="229,259,370,285"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="109,157,160,199,227,244,239,250,236,255,224,249,156,204,106,161"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,30,423,43,421,48,363,35"/>
+<area shape="rect" id="Node000004" href="$ssd1306_8h.html#a15046f764dd1127bce472d5924356ba0" title=" " alt="" coords="629,37,797,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,55,614,54,614,59,582,61"/>
+<area shape="rect" id="Node000005" href="$ssd1306_8h.html#a0b365c4271ce6d5551e637de49bdc8a3" title=" " alt="" coords="645,88,781,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="578,74,631,84,630,89,578,79"/>
+<area shape="rect" id="Node000008" href="$ssd1306_8c.html#ad43cbb77ed1f735535e7251ca47ecf87" title=" " alt="" coords="644,164,782,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="552,170,629,172,629,177,552,175"/>
+<area shape="rect" id="Node000011" href="$ssd1306_8c.html#ad719a0894e48463c66314931fd422e2d" title=" " alt="" coords="434,233,569,260"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="370,260,418,254,418,260,371,266"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="543,230,654,194,656,199,545,235"/>
+</map>

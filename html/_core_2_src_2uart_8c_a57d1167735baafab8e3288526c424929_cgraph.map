@@ -1,0 +1,13 @@
+<map id="MX_USART1_UART_Init" name="MX_USART1_UART_Init">
+<area shape="rect" id="Node000001" title="USART1 Initialization Function." alt="" coords="5,107,174,133"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="286,5,387,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,104,158,73,221,42,270,27,272,32,223,46,161,77,112,108"/>
+<area shape="rect" id="Node000003" href="$group___u_a_r_t___exported___functions___group1.html#gabe47045024787099b0bfa82bbe7b0b6a" title=" " alt="" coords="279,56,394,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,103,263,82,264,87,159,109"/>
+<area shape="rect" id="Node000004" href="$group___u_a_r_t_ex___exported___functions___group3.html#ga5f321105c87423e7156dbab60826b37a" title=" " alt="" coords="231,107,442,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,117,215,117,215,123,174,123"/>
+<area shape="rect" id="Node000005" href="$group___u_a_r_t_ex___exported___functions___group3.html#ga7aa1f7a62351e140b6bc74a26ce14e5e" title=" " alt="" coords="222,157,451,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="159,131,254,151,253,156,158,137"/>
+<area shape="rect" id="Node000006" href="$group___u_a_r_t_ex___exported___functions___group3.html#gae2e0da62ac7e71641ee696f6b6a3de11" title=" " alt="" coords="223,208,450,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="112,132,161,163,223,194,244,201,243,206,221,198,158,167,109,136"/>
+</map>

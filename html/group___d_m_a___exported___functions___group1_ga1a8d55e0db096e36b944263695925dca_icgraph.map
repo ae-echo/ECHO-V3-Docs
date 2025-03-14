@@ -1,0 +1,5 @@
+<map id="HAL_DMA_DeInit" name="HAL_DMA_DeInit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,5,337,32"/>
+<area shape="rect" id="Node000002" href="$group___u_a_r_t___exported___functions___group1.html#ga718f39804e3b910d738a0e1e46151188" title="UART MSP De&#45;Initialization This function freeze the hardware resources used in this example." alt="" coords="5,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,21,163,21,163,16,195,16"/>
+</map>

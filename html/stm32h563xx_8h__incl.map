@@ -1,0 +1,16 @@
+<map id="Firmware/Drivers/CMSIS/Device/ST/STM32H5xx/Include/stm32h563xx.h" name="Firmware/Drivers/CMSIS/Device/ST/STM32H5xx/Include/stm32h563xx.h">
+<area shape="rect" id="Node000001" title="CMSIS STM32H563xx Device Peripheral Access Layer Header File." alt="" coords="120,5,330,64"/>
+<area shape="rect" id="Node000002" href="$core__cm33_8h.html" title="CMSIS Cortex&#45;M33 Core Peripheral Access Layer Header File." alt="" coords="105,112,201,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,66,175,101,171,98,200,63"/>
+<area shape="rect" id="Node000007" href="$system__stm32h5xx_8h.html" title="CMSIS Cortex&#45;M33 Device System Source File for STM32H5xx devices." alt="" coords="225,112,372,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="251,63,280,98,276,101,247,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,261,137,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,136,54,153,31,168,13,188,9,197,9,206,18,223,37,239,60,252,58,257,34,243,14,227,3,207,3,196,8,185,28,164,52,148,104,131"/>
+<area shape="rect" id="Node000004" href="$cmsis__version_8h.html" title="CMSIS Core(M) Version definitions." alt="" coords="23,187,139,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="143,141,106,177,102,174,139,137"/>
+<area shape="rect" id="Node000005" href="$cmsis__compiler_8h.html" title="CMSIS compiler generic header file." alt="" coords="164,187,287,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="168,137,204,174,200,177,164,141"/>
+<area shape="rect" id="Node000006" href="$mpu__armv8_8h.html" title=" " alt="" coords="311,187,411,213"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="190,137,311,179,310,184,189,142"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="206,216,141,255,138,251,203,212"/>
+</map>

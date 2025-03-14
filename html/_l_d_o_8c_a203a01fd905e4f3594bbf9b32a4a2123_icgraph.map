@@ -1,0 +1,17 @@
+<map id="LDO_controldown" name="LDO_controldown">
+<area shape="rect" id="Node000001" title="특정 LDO의 전압을 감소시키는 함수 (MCP4011 디지털 전위차계 기반)" alt="" coords="550,31,675,57"/>
+<area shape="rect" id="Node000002" href="$_l_d_o_8c.html#a66a56fe759160678d6c4717f9ad53f36" title="특정 LDO의 출력을 초기화하는 함수" alt="" coords="376,5,502,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,35,501,30,502,25,535,30"/>
+<area shape="rect" id="Node000006" href="$_l_d_o_8c.html#acb619cfaba733367703dc7e603a7f0b8" title="특정 LDO의 출력 전압을 설정하는 함수" alt="" coords="380,56,498,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="535,58,499,63,498,58,534,53"/>
+<area shape="rect" id="Node000003" href="$_l_d_o_8c.html#a21e5ed710dd6b8a11a2e9671452f2240" title="모든 LDO 출력을 초기화하는 함수" alt="" coords="255,5,328,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,21,329,21,329,16,361,16"/>
+<area shape="rect" id="Node000004" href="$_b_s_w___common_8c.html#a32c0e9fbeb55a2599b7b0a6b0797d066" title=" " alt="" coords="116,5,194,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,21,194,21,194,16,239,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="101,32,56,42,55,36,100,27"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="383,53,328,34,330,29,384,48"/>
+<area shape="rect" id="Node000007" href="$_board_comm_cmd_8c.html#a56293852973c29d173fa0ae9d4310ae6" title=" " alt="" coords="103,56,207,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="365,72,207,72,207,67,365,67"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="87,58,54,51,55,46,88,53"/>
+</map>

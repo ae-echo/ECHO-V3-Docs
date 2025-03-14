@@ -1,0 +1,4 @@
+<map id="APB3 Peripheral Clock Sleep Enable Disable" name="APB3 Peripheral Clock Sleep Enable Disable">
+<area shape="rect" id="Node000001" title="Enable or disable the APB3 peripheral clock during Low Power (Sleep) mode." alt="" coords="208,5,363,48"/>
+<area shape="rect" id="Node000002" href="$group___r_c_c___exported___macros.html" title=" " alt="" coords="5,13,160,40"/>
+</map>

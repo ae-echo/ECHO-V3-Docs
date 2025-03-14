@@ -1,0 +1,5 @@
+<map id="GPDMA1_Channel0_IRQHandler" name="GPDMA1_Channel0_IRQHandler">
+<area shape="rect" id="Node000001" title="This function handles GPDMA1 Channel 0 global interrupt." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="Node000002" href="$group___d_m_a___exported___functions___group2.html#ga58d7edc8b2c1bdcf8cfc40abf1101ac3" title=" " alt="" coords="269,5,429,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,16,253,16,253,21,221,21"/>
+</map>

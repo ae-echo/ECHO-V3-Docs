@@ -1,0 +1,110 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="The application entry point." alt="" coords="5,1019,55,1045"/>
+<area shape="rect" id="Node000002" href="$_b_s_w___common_8c.html#a32c0e9fbeb55a2599b7b0a6b0797d066" title=" " alt="" coords="137,436,214,463"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,1018,164,477,170,478,37,1019"/>
+<area shape="rect" id="Node000034" href="$_button_8c.html#adec7e6fab0320695eb22373977875f33" title=" " alt="" coords="333,132,422,159"/>
+<area shape="poly" id="edge13_Node000001_Node000034" title=" " alt="" coords="29,1018,34,907,46,733,67,552,82,477,100,423,124,380,153,339,219,266,286,207,341,166,344,170,290,211,223,270,157,342,129,383,105,425,87,479,72,553,51,733,39,908,34,1019"/>
+<area shape="rect" id="Node000039" href="$_board_comm_cmd_8c.html#a56293852973c29d173fa0ae9d4310ae6" title=" " alt="" coords="326,715,430,741"/>
+<area shape="poly" id="edge20_Node000001_Node000039" title=" " alt="" coords="37,1017,64,976,101,929,188,829,232,791,295,751,310,743,312,748,297,756,236,795,192,833,105,932,68,979,42,1020"/>
+<area shape="rect" id="Node000053" href="$group___h_a_l___exported___functions___group1.html#gaecac54d350c3730e6831eb404e557dc4" title=" " alt="" coords="139,943,212,969"/>
+<area shape="poly" id="edge34_Node000001_Node000053" title=" " alt="" coords="47,1016,101,979,123,969,126,974,104,984,50,1020"/>
+<area shape="rect" id="Node000054" href="$_m_c_a_l___common_8c.html#a97f3a85b9fd46d539b615b22ff7ef437" title=" " alt="" coords="134,993,217,1020"/>
+<area shape="poly" id="edge35_Node000001_Node000054" title=" " alt="" coords="54,1025,118,1014,119,1019,55,1030"/>
+<area shape="rect" id="Node000098" href="$main_8c.html#a446bccf6b72bfc19f464b0cf55f66edd" title="DCACHE1 Initialization Function." alt="" coords="106,1120,244,1147"/>
+<area shape="poly" id="edge45_Node000001_Node000098" title=" " alt="" coords="52,1043,144,1109,141,1113,49,1048"/>
+<area shape="rect" id="Node000099" href="$main_8c.html#afa92bb9ddaf82795a09536dd441b25fa" title="GPDMA1 Initialization Function." alt="" coords="111,1387,240,1413"/>
+<area shape="poly" id="edge47_Node000001_Node000099" title=" " alt="" coords="34,1045,35,1098,44,1176,65,1265,83,1308,105,1348,118,1363,134,1376,131,1380,114,1367,100,1351,78,1310,60,1266,39,1177,30,1098,28,1045"/>
+<area shape="rect" id="Node000102" href="$main_8c.html#a02ab12017a434da31c12ffca7dc00660" title="GPDMA2 Initialization Function." alt="" coords="111,1437,240,1464"/>
+<area shape="poly" id="edge50_Node000001_Node000102" title=" " alt="" coords="35,1046,40,1123,52,1236,73,1349,88,1393,105,1424,107,1426,103,1429,101,1427,83,1396,68,1350,47,1237,35,1123,29,1046"/>
+<area shape="rect" id="Node000103" href="$main_8c.html#a7307e0ee40b10fe7fc1ec71481d0a80a" title="ICACHE Initialization Function." alt="" coords="113,1221,238,1248"/>
+<area shape="poly" id="edge53_Node000001_Node000103" title=" " alt="" coords="40,1045,66,1096,105,1157,151,1209,147,1212,101,1160,62,1098,35,1047"/>
+<area shape="rect" id="Node000104" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="System Clock Configuration." alt="" coords="103,1311,248,1337"/>
+<area shape="poly" id="edge55_Node000001_Node000104" title=" " alt="" coords="36,1045,42,1084,55,1139,75,1200,105,1259,123,1280,143,1299,139,1303,119,1284,100,1261,70,1202,50,1141,37,1086,30,1046"/>
+<area shape="rect" id="Node000003" href="$_l_d_o_8c.html#a21e5ed710dd6b8a11a2e9671452f2240" title="모든 LDO 출력을 초기화하는 함수" alt="" coords="341,461,414,488"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,451,326,466,326,471,214,457"/>
+<area shape="rect" id="Node000014" href="$_o_l_e_d_8c.html#a7372e46460a371e4d94a0ee7f5f1a1fd" title="OLED 디스플레이를 초기화하는 함수" alt="" coords="336,309,419,336"/>
+<area shape="poly" id="edge5_Node000002_Node000014" title=" " alt="" coords="197,433,340,342,343,347,200,438"/>
+<area shape="rect" id="Node000032" href="$_reg_8c.html#a91f3da9a063833ffff3be29c79f446ca" title="레지스터 맵을 초기화하는 함수 RegBuf를 0으로 초기화하고, 레지스터 맵의 각 구조체 포인터를 설정함" alt="" coords="342,411,413,437"/>
+<area shape="poly" id="edge11_Node000002_Node000032" title=" " alt="" coords="214,442,327,428,327,433,215,447"/>
+<area shape="rect" id="Node000004" href="$_l_d_o_8c.html#a66a56fe759160678d6c4717f9ad53f36" title="특정 LDO의 출력을 초기화하는 함수" alt="" coords="536,461,661,488"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,472,520,472,520,477,415,477"/>
+<area shape="rect" id="Node000011" href="$_l_d_o_8c.html#acb619cfaba733367703dc7e603a7f0b8" title="특정 LDO의 출력 전압을 설정하는 함수" alt="" coords="539,512,658,539"/>
+<area shape="poly" id="edge4_Node000003_Node000011" title=" " alt="" coords="415,480,525,506,524,511,414,486"/>
+<area shape="rect" id="Node000015" href="$group___i2_c___exported___functions___group2.html#gade6a669a25f0e99ef7fd52724acb3dec" title=" " alt="" coords="512,309,685,336"/>
+<area shape="poly" id="edge6_Node000014_Node000015" title=" " alt="" coords="419,320,497,320,497,325,419,325"/>
+<area shape="rect" id="Node000016" href="$_o_l_e_d_8c.html#ac7b56fd34169ca204c959a058440ca2c" title="CH1 및 CH2의 전력 정보(PowerInfo) 기본값을 설정하는 함수" alt="" coords="545,208,652,235"/>
+<area shape="poly" id="edge7_Node000014_Node000016" title=" " alt="" coords="397,307,446,276,506,244,530,235,532,240,508,249,448,280,400,311"/>
+<area shape="rect" id="Node000017" href="$_o_l_e_d_8c.html#a9403514332e9f828d90bd841d02e8187" title="OLED에 CH1 및 CH2의 전력 정보를 출력하는 함수" alt="" coords="512,360,685,387"/>
+<area shape="poly" id="edge8_Node000014_Node000017" title=" " alt="" coords="420,329,523,353,522,359,418,335"/>
+<area shape="rect" id="Node000028" href="$ssd1306_8c.html#ade2c3a936ceecc5b8a1d965cc302d2ed" title=" " alt="" coords="551,259,646,285"/>
+<area shape="poly" id="edge10_Node000014_Node000028" title=" " alt="" coords="418,311,535,284,536,289,420,316"/>
+<area shape="rect" id="Node000018" href="$_o_l_e_d_8c.html#ac2ba868dbe0f8d0e35e93d4a7a886032" title="OLED 화면을 갱신하는 함수" alt="" coords="738,259,885,285"/>
+<area shape="poly" id="edge9_Node000017_Node000018" title=" " alt="" coords="658,357,689,346,737,320,778,292,781,297,740,324,691,350,660,362"/>
+<area shape="rect" id="Node000033" href="$_m_c_a_l_2_src_2i2c_8c.html#a8afacc65ef435f56d8af0c06e4e75e1f" title="I2C 레지스터 버퍼 반환" alt="" coords="553,411,644,437"/>
+<area shape="poly" id="edge12_Node000032_Node000033" title=" " alt="" coords="413,421,537,421,537,427,413,427"/>
+<area shape="poly" id="edge18_Node000034_Node000017" title=" " alt="" coords="388,158,444,258,479,311,509,346,515,350,512,355,506,350,474,315,439,260,384,160"/>
+<area shape="rect" id="Node000035" href="$group___h_a_l___exported___functions___group2.html#gaf2c4f03d53e997a54e1fd5e80daa55c4" title=" " alt="" coords="548,56,649,83"/>
+<area shape="poly" id="edge14_Node000034_Node000035" title=" " alt="" coords="410,129,506,92,533,84,534,89,508,97,412,134"/>
+<area shape="rect" id="Node000036" href="$_o_l_e_d_8c.html#ac0bd7ecb91940fe65eebeb0c64448eb7" title="OLED에 펌웨어 정보를 출력하는 함수" alt="" coords="528,157,669,184"/>
+<area shape="poly" id="edge15_Node000034_Node000036" title=" " alt="" coords="423,148,513,158,513,164,422,153"/>
+<area shape="rect" id="Node000037" href="$_o_l_e_d_8c.html#a45c38ce6d136c10003fb754778649e51" title="현재 OLED 화면을 가져오는 함수" alt="" coords="537,107,660,133"/>
+<area shape="poly" id="edge17_Node000034_Node000037" title=" " alt="" coords="422,138,521,126,522,131,423,143"/>
+<area shape="rect" id="Node000038" href="$_o_l_e_d_8c.html#ab6abfc7b5bedde44c799d782283a3e44" title="현재 OLED 화면 설정하는 함수" alt="" coords="537,5,660,32"/>
+<area shape="poly" id="edge19_Node000034_Node000038" title=" " alt="" coords="391,129,439,86,471,62,506,42,522,35,524,40,509,46,474,67,443,91,394,133"/>
+<area shape="poly" id="edge16_Node000036_Node000018" title=" " alt="" coords="660,182,691,194,740,220,781,247,778,252,737,224,689,198,658,187"/>
+<area shape="poly" id="edge28_Node000039_Node000011" title=" " alt="" coords="383,713,399,679,426,635,462,588,506,548,524,539,526,543,509,553,466,592,430,638,404,682,387,715"/>
+<area shape="poly" id="edge29_Node000039_Node000017" title=" " alt="" coords="381,713,441,542,478,448,493,415,505,397,510,393,513,397,509,400,498,418,483,450,446,544,386,715"/>
+<area shape="rect" id="Node000040" href="$_f_l_a_s_h_8c.html#a11bf8f226e923c853b1b2930c5cac583" title="플래시 메모리에서 체크섬을 계산하여 반환 플래시에서 16바이트씩 데이터를 읽고, 각 바이트를 합산하여 체크섬을 계산합니다." alt="" coords="522,664,675,691"/>
+<area shape="poly" id="edge21_Node000039_Node000040" title=" " alt="" coords="430,714,522,692,523,697,431,719"/>
+<area shape="rect" id="Node000041" href="$_m_c_a_l_2_src_2i2c_8c.html#a06266b04702ba1769e9637ea9946fd65" title="I2C 슬레이브 상태 초기화" alt="" coords="523,715,674,741"/>
+<area shape="poly" id="edge22_Node000039_Node000041" title=" " alt="" coords="430,725,507,725,507,731,430,731"/>
+<area shape="rect" id="Node000044" href="$_m_c_a_l_2_src_2i2c_8c.html#a75aa45d132a70a471a21db9fa0c915d8" title="I2C 슬레이브 수신 버퍼 반환" alt="" coords="537,765,660,792"/>
+<area shape="poly" id="edge23_Node000039_Node000044" title=" " alt="" coords="431,737,523,759,522,764,430,742"/>
+<area shape="rect" id="Node000045" href="$_m_c_a_l_2_src_2i2c_8c.html#acf57bdeb7841306d754b108f2fef4899" title="I2C 슬레이브 상태 반환" alt="" coords="528,816,669,843"/>
+<area shape="poly" id="edge24_Node000039_Node000045" title=" " alt="" coords="432,738,461,751,476,764,485,777,494,790,509,802,519,807,516,812,506,806,490,793,481,780,472,768,458,756,429,742"/>
+<area shape="rect" id="Node000046" href="$_m_c_a_l_2_src_2i2c_8c.html#a1b7579b09ddede458148db8fb9af7965" title="I2C 채널 및 속도 설정" alt="" coords="540,867,657,893"/>
+<area shape="poly" id="edge25_Node000039_Node000046" title=" " alt="" coords="432,735,461,751,473,764,480,778,486,804,492,829,498,841,509,853,527,864,524,868,506,857,494,844,487,831,481,805,475,779,468,767,458,755,429,740"/>
+<area shape="rect" id="Node000047" href="$_m_c_a_l_2_src_2i2c_8c.html#a6bfd0d0b1ebdbbae80b3b4b79e0c2550" title="I2C 통신 속도 설정" alt="" coords="545,917,652,944"/>
+<area shape="poly" id="edge26_Node000039_Node000047" title=" " alt="" coords="431,734,447,741,461,751,476,771,483,791,486,829,488,867,495,885,509,903,532,918,530,923,506,907,490,888,483,868,480,830,478,792,471,774,457,755,444,745,429,739"/>
+<area shape="rect" id="Node000048" href="$_l_d_o_8c.html#a0cea38a8a886d046ad517975b75115bd" title="LDO 전원을 활성화 또는 비활성화하는 함수" alt="" coords="536,968,661,995"/>
+<area shape="poly" id="edge27_Node000039_Node000048" title=" " alt="" coords="431,733,447,740,461,752,479,778,487,804,488,830,486,855,483,880,484,905,492,930,509,954,523,965,520,969,505,958,487,932,479,906,478,880,480,855,483,830,482,805,474,780,457,755,445,745,429,738"/>
+<area shape="rect" id="Node000049" href="$_o_l_e_d_8c.html#a9565f50c1f75d51b93ca317cdb854879" title="채널별 IO 전압 값을 설정하는 함수" alt="" coords="507,1019,690,1045"/>
+<area shape="poly" id="edge30_Node000039_Node000049" title=" " alt="" coords="431,733,447,740,461,752,483,784,491,817,490,849,485,881,481,912,481,943,489,974,509,1005,512,1007,508,1011,505,1008,484,976,475,944,476,912,480,880,485,849,485,817,478,786,457,755,445,745,429,738"/>
+<area shape="rect" id="Node000050" href="$_o_l_e_d_8c.html#acabeb05df02b5163f6f945d38b0d5dfc" title="채널별 AVDD 전압 값을 설정하는 함수" alt="" coords="512,1069,685,1096"/>
+<area shape="poly" id="edge31_Node000039_Node000050" title=" " alt="" coords="431,733,448,740,461,752,486,791,494,830,492,868,485,906,478,944,477,981,485,1018,509,1056,512,1058,508,1062,505,1059,480,1020,471,982,473,943,480,905,487,868,489,830,481,793,457,755,445,745,429,737"/>
+<area shape="rect" id="Node000051" href="$_reg_8c.html#adf8b1fa3b8293e7cb7ad2f6fb18a82f2" title="전체 레지스터 맵을 반환하는 함수" alt="" coords="549,563,648,589"/>
+<area shape="poly" id="edge32_Node000039_Node000051" title=" " alt="" coords="387,713,434,658,468,626,506,599,533,587,535,592,509,604,471,630,438,661,391,716"/>
+<area shape="rect" id="Node000052" href="$_m_c_a_l_2_src_2uart_8c.html#a957da6df71634b726f6be356c3786802" title=" " alt="" coords="527,613,670,640"/>
+<area shape="poly" id="edge33_Node000039_Node000052" title=" " alt="" coords="397,712,446,681,506,650,524,643,526,648,508,654,448,686,400,716"/>
+<area shape="rect" id="Node000055" href="$_m_c_a_l_2_src_2adc_8c.html#a5137b551f1b83b0f4d8df7d071a3d3a6" title=" " alt="" coords="340,968,415,995"/>
+<area shape="poly" id="edge36_Node000054_Node000055" title=" " alt="" coords="217,999,324,985,325,991,218,1004"/>
+<area shape="rect" id="Node000060" href="$_m_c_a_l_2_src_2dac_8c.html#a6ae286bbe0230eee85b3052e32a1e0bc" title=" " alt="" coords="340,1019,415,1045"/>
+<area shape="poly" id="edge37_Node000054_Node000060" title=" " alt="" coords="218,1009,325,1023,324,1028,217,1014"/>
+<area shape="rect" id="Node000062" href="$_m_c_a_l_2_src_2fmc_8c.html#aaa320b064396e6f578b71da1516377cd" title=" " alt="" coords="340,1069,415,1096"/>
+<area shape="poly" id="edge38_Node000054_Node000062" title=" " alt="" coords="208,1018,297,1055,326,1065,324,1070,295,1060,206,1023"/>
+<area shape="rect" id="Node000065" href="$_m_c_a_l_2_src_2gpio_8c.html#a90363099dc984eccffd2a7ad34def32d" title=" " alt="" coords="338,1120,417,1147"/>
+<area shape="poly" id="edge39_Node000054_Node000065" title=" " alt="" coords="191,1019,236,1061,265,1085,297,1106,324,1117,322,1122,295,1110,262,1089,232,1065,187,1022"/>
+<area shape="rect" id="Node000069" href="$_m_c_a_l_2_src_2i2c_8c.html#a84df9a5887b8b8230cfe85d18e53900e" title="I2C 인터페이스 초기화 함수" alt="" coords="344,765,411,792"/>
+<area shape="poly" id="edge40_Node000054_Node000069" title=" " alt="" coords="217,997,233,990,246,979,261,958,268,936,269,892,270,848,278,825,294,802,310,790,328,783,330,788,313,795,298,806,282,827,275,849,274,892,274,937,266,960,250,983,235,995,219,1002"/>
+<area shape="rect" id="Node000078" href="$_m_c_a_l_2_src_2i3c_8c.html#a5aca340141343e6089b356b3aba8911c" title=" " alt="" coords="344,816,411,843"/>
+<area shape="poly" id="edge42_Node000054_Node000078" title=" " alt="" coords="216,996,232,989,246,979,258,964,265,949,269,917,274,885,281,869,294,853,310,842,328,834,330,839,313,846,298,857,285,872,279,887,274,918,270,950,263,967,250,983,235,994,219,1001"/>
+<area shape="rect" id="Node000083" href="$_m_c_a_l_2_src_2time_8c.html#abd08a2d32d0cdec2d63ce9fd5fabb057" title=" " alt="" coords="340,867,415,893"/>
+<area shape="poly" id="edge43_Node000054_Node000083" title=" " alt="" coords="216,995,246,979,262,961,269,942,277,923,294,903,324,888,327,892,298,907,282,925,274,944,266,964,250,983,219,1000"/>
+<area shape="rect" id="Node000089" href="$_m_c_a_l_2_src_2uart_8c.html#ad5cbed2a2222bb84e8b5c1caaa50634e" title="UART1 초기화 함수" alt="" coords="336,917,419,944"/>
+<area shape="poly" id="edge44_Node000054_Node000089" title=" " alt="" coords="216,991,247,979,295,954,321,944,323,949,297,958,249,984,218,996"/>
+<area shape="rect" id="Node000057" href="$main_8c.html#a1730ffe1e560465665eb47d9264826f9" title="This function is executed in case of error occurrence." alt="" coords="548,1196,649,1223"/>
+<area shape="poly" id="edge41_Node000069_Node000057" title=" " alt="" coords="412,778,438,786,461,802,487,841,499,877,501,913,498,949,493,985,490,1023,495,1063,510,1107,538,1150,571,1184,567,1187,534,1153,505,1109,490,1064,485,1023,487,985,492,948,496,913,494,878,482,843,457,806,436,791,411,784"/>
+<area shape="poly" id="edge46_Node000098_Node000057" title=" " alt="" coords="240,1145,296,1156,533,1197,532,1202,296,1161,239,1150"/>
+<area shape="rect" id="Node000100" href="$group___c_o_r_t_e_x___exported___functions___group1.html#gaaad4492c1b25e006d69948a15790352a" title=" " alt="" coords="298,1424,457,1451"/>
+<area shape="poly" id="edge48_Node000099_Node000100" title=" " alt="" coords="241,1409,287,1418,286,1423,240,1415"/>
+<area shape="rect" id="Node000101" href="$group___c_o_r_t_e_x___exported___functions___group1.html#ga8581a82025a4780efd00876a66e3e91b" title=" " alt="" coords="300,1475,455,1501"/>
+<area shape="poly" id="edge49_Node000099_Node000101" title=" " alt="" coords="224,1412,249,1423,274,1442,297,1460,310,1466,308,1471,295,1465,270,1446,247,1428,222,1416"/>
+<area shape="poly" id="edge51_Node000102_Node000100" title=" " alt="" coords="240,1444,283,1441,283,1446,241,1449"/>
+<area shape="poly" id="edge52_Node000102_Node000101" title=" " alt="" coords="241,1460,287,1469,286,1474,240,1465"/>
+<area shape="poly" id="edge54_Node000103_Node000057" title=" " alt="" coords="238,1228,532,1211,532,1216,238,1234"/>
+<area shape="poly" id="edge56_Node000104_Node000057" title=" " alt="" coords="227,1307,533,1224,534,1229,229,1313"/>
+<area shape="rect" id="Node000105" href="$group___r_c_c___exported___functions___group1.html#gaceec85ccc6575f7bce12a5b80cdc49a2" title=" " alt="" coords="296,1323,459,1349"/>
+<area shape="poly" id="edge57_Node000104_Node000105" title=" " alt="" coords="248,1326,280,1328,280,1333,248,1331"/>
+<area shape="rect" id="Node000106" href="$group___r_c_c___exported___functions___group1.html#gac3695bd398c00e5963cc9ec59a8e556a" title=" " alt="" coords="301,1373,454,1400"/>
+<area shape="poly" id="edge58_Node000104_Node000106" title=" " alt="" coords="222,1335,318,1366,316,1371,220,1340"/>
+</map>

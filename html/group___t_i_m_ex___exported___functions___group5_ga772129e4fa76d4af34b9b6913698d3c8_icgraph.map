@@ -1,0 +1,14 @@
+<map id="HAL_TIMEx_MasterConfigSynchronization" name="HAL_TIMEx_MasterConfigSynchronization">
+<area shape="rect" id="Node000001" title=" " alt="" coords="508,31,779,57"/>
+<area shape="rect" id="Node000002" href="$_core_2_src_2time_8c.html#abbf5454212cb039fb90d523b2473af91" title=" " alt="" coords="356,5,460,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="498,31,460,27,460,22,499,26"/>
+<area shape="rect" id="Node000006" href="$_core_2_src_2time_8c.html#af1a30e036c07055e19487b8267790bac" title="TIM7 Initialization Function." alt="" coords="356,56,460,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="499,62,460,66,460,61,498,57"/>
+<area shape="rect" id="Node000003" href="$_m_c_a_l_2_src_2time_8c.html#abd08a2d32d0cdec2d63ce9fd5fabb057" title=" " alt="" coords="234,31,308,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,34,309,40,308,35,340,28"/>
+<area shape="rect" id="Node000004" href="$_m_c_a_l___common_8c.html#a97f3a85b9fd46d539b615b22ff7ef437" title=" " alt="" coords="103,31,186,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,47,186,47,186,41,219,41"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="The application entry point." alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="340,60,308,53,309,48,341,54"/>
+</map>

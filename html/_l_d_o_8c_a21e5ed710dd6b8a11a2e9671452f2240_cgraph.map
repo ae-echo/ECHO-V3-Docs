@@ -1,0 +1,29 @@
+<map id="LDO_Init" name="LDO_Init">
+<area shape="rect" id="Node000001" title="모든 LDO 출력을 초기화하는 함수" alt="" coords="5,81,79,108"/>
+<area shape="rect" id="Node000002" href="$_l_d_o_8c.html#a66a56fe759160678d6c4717f9ad53f36" title="특정 LDO의 출력을 초기화하는 함수" alt="" coords="127,56,252,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,86,111,80,112,85,80,91"/>
+<area shape="rect" id="Node000009" href="$_l_d_o_8c.html#acb619cfaba733367703dc7e603a7f0b8" title="특정 LDO의 출력 전압을 설정하는 함수" alt="" coords="130,107,248,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="80,98,115,105,114,110,79,104"/>
+<area shape="rect" id="Node000003" href="$_l_d_o_8c.html#a203a01fd905e4f3594bbf9b32a4a2123" title="특정 LDO의 전압을 감소시키는 함수 (MCP4011 디지털 전위차계 기반)" alt="" coords="300,56,425,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,67,285,67,285,72,252,72"/>
+<area shape="rect" id="Node000004" href="$_m_c_a_l_2_src_2time_8c.html#ac5b56e32bdc7e19e5ba218d6520d80c7" title=" " alt="" coords="481,56,554,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="426,67,465,67,465,72,426,72"/>
+<area shape="rect" id="Node000005" href="$group___h_a_l___exported___functions___group2.html#gae63b34eea12780ca2e1100c2402da18e" title=" " alt="" coords="473,107,562,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="407,81,461,99,459,104,405,86"/>
+<area shape="rect" id="Node000006" href="$_l_d_o_8c.html#a5c6d927dcf44835821b32f9b8202a87d" title="특정 LDO의 칩 선택(Chip Select) 신호를 제어하는 함수" alt="" coords="490,157,545,184"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="405,81,427,92,442,105,452,118,475,143,479,146,476,150,472,147,448,121,438,109,424,97,403,85"/>
+<area shape="rect" id="Node000007" href="$_l_d_o_8c.html#a995ee09b7c86e1606879008bb6d0fccf" title="특정 LDO 전원을 활성화 또는 비활성화하는 함수" alt="" coords="490,208,545,235"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="410,81,427,93,446,119,453,144,459,168,475,194,479,198,476,202,471,198,454,171,448,145,441,121,423,97,407,85"/>
+<area shape="rect" id="Node000008" href="$_l_d_o_8c.html#a12219b638024a7b56a25d5489be14779" title="특정 LDO의 업/다운(Up/Down) 신호를 제어하는 함수" alt="" coords="490,5,545,32"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="405,53,474,30,476,35,407,58"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="237,103,299,85,301,90,239,109"/>
+<area shape="rect" id="Node000010" href="$_l_d_o_8c.html#a02158a0b37e6b61c405f8116e7fe0e3a" title="특정 LDO의 전압을 증가시키는 함수 (MCP4011 디지털 전위차계 기반)" alt="" coords="308,157,417,184"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="239,131,301,150,299,155,237,137"/>
+<area shape="rect" id="Node000011" href="$_l_d_o_8c.html#abe82e14b9475d1730bfa66a1b1545d3b" title="Voltage값을 입력 후 근사치의 Step값 리턴" alt="" coords="311,107,414,133"/>
+<area shape="poly" id="edge16_Node000009_Node000011" title=" " alt="" coords="249,117,296,117,296,123,249,123"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="403,155,424,143,438,131,448,119,472,93,476,90,479,94,475,97,452,122,442,135,427,148,405,159"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="405,154,459,136,461,141,407,159"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="417,168,474,168,474,173,417,173"/>
+<area shape="poly" id="edge14_Node000010_Node000007" title=" " alt="" coords="407,182,477,205,475,211,405,187"/>
+<area shape="poly" id="edge15_Node000010_Node000008" title=" " alt="" coords="407,155,423,143,441,119,448,95,454,69,471,42,476,38,479,42,475,46,459,72,453,96,446,121,427,147,410,159"/>
+</map>
